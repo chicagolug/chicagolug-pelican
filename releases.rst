@@ -47,10 +47,9 @@ Distribution kernels
     ======== ==================== ==================
     Version  Maintainer           Projected EOL
     ======== ==================== ==================
-    2.6.32   Willy Tarreau        ?
-    2.6.34   Paul Gortmaker       ?
-    2.6.35   Andi Kleen           ?
+    2.6.32   Willy Tarreau        Mid-2014
+    2.6.34   Paul Gortmaker       Mid-2013
     3.0      Greg Kroah-Hartman   Oct, 2013
-    3.2      Ben Hutchings        2015 (?)
+    3.2      Ben Hutchings        2016
     3.4      Greg Kroah-Hartman   Oct, 2014
     ======== ==================== ==================
