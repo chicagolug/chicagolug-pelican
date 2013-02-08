@@ -16,26 +16,19 @@ currently being maintained under the 'stable' moniker.
 
 These kernels have patches that are backported to them, mainly in the
 form of driver updates and security fixes. Some of these trees have been
-declared to have longer life cycles than others. Kernel.org, currently,
-considers a 'stable' tree current given the following criteria:
+declared to have longer life cycles than others.
 
-- There has been a TAG in the associated GIT tree within the last 6 months
-- The tree originates under the /stable/ directory for the Linux Kernel
-
-After 6 months the tree will leave the main listings for kernel.org,
-though it is still available by going directly to its GIT tree, or its
-associated releases. This leads to trees like 2.6.27.y still being
-considered stable and recent due to the fact that it's had a TAG within
-the last 6 months.
+Please check the Releases_ page for more info.
 
 .. _`conversation that happened in 2004`: http://kerneltrap.org/node/4100
+.. _Releases: |filename|releases.rst
 
 What does "stable/EOL" and "longterm" mean?
 -------------------------------------------
 As kernels move from the "mainline" into the "stable" category, two
 things can happen:
 
-1. They can reach "End of Line" after a few bugfix revisions, which
+1. They can reach "End of Life" after a few bugfix revisions, which
    means that kernel maintainers will release no more bugfixes for this
    kernel version, or
 2. They can be put into "longterm" maintenance, which means that
@@ -46,9 +39,13 @@ If the kernel version you are using is marked "EOL," you should consider
 upgrading to the next major version as there will be no more bugfixes
 provided for the kernel version you are using.
 
+Please check the Releases_ page for more info.
+
+.. _Releases: |filename|releases.rst
+
 Is there an RSS feed for the latest kernel version?
 ---------------------------------------------------
-Yes, and you can find it at http://www.kernel.org/kdist.xml.
+Yes, and you can find it at http://www.kernel.org/feed/kdist.xml.
 
 Why are there files that are dated tomorrow?
 --------------------------------------------
@@ -102,8 +99,9 @@ discretion of the admin team.
 
 How does kernel.org provide its users access to the git trees?
 --------------------------------------------------------------
-We are using an access control system called gitolite_, originally written and
-maintained by Sitaram Chamarty. We choose gitolite for a number of reasons:
+We are using an access control system called gitolite_, originally
+written and maintained by Sitaram Chamarty. We choose gitolite for a
+number of reasons:
 
 - Limiting of ssh access to the system
 - Fine grained control over repository access
