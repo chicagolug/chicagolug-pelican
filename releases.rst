@@ -35,13 +35,6 @@ Longterm
     don't usually see very frequent releases, especially for older
     trees.
 
-Distribution kernels
-    Many Linux distributions provide their own "longterm maintenance"
-    kernels that may or may not be based on those maintained by kernel
-    developers. These kernel releases are not hosted at kernel.org and
-    kernel developers can provide no support for them (unless they
-    happen to be involved in that particular Linux distribution).
-
 .. table:: Longterm release kernels
 
     ======== ==================== ==================
@@ -53,3 +46,12 @@ Distribution kernels
     3.2      Ben Hutchings        2016
     3.4      Greg Kroah-Hartman   Oct, 2014
     ======== ==================== ==================
+
+Distribution kernels
+--------------------
+Many Linux distributions provide their own "longterm maintenance"
+kernels that may or may not be based on those maintained by kernel
+developers. These kernel releases are not hosted at kernel.org and
+kernel developers can provide no support for them (unless they happen to
+be involved in that particular Linux distribution).
+
