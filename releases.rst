@@ -52,6 +52,16 @@ Distribution kernels
 Many Linux distributions provide their own "longterm maintenance"
 kernels that may or may not be based on those maintained by kernel
 developers. These kernel releases are not hosted at kernel.org and
-kernel developers can provide no support for them (unless they happen to
-be involved in that particular Linux distribution).
+kernel developers can provide no support for them.
 
+It is easy to tell if you are running a distribution kernel. Unless you
+downloaded, compiled and installed your own version of kernel from
+kernel.org, you are running a distribution kernel. To find out the
+version of your kernel, run `uname -r`::
+
+    # uname -r
+    3.7.5-201.fc18.x86_64
+
+If you see anything at all after a dash, you are running a distribution
+kernel. Please use the support channels offered by your distribution
+vendor to obtain kernel support.
