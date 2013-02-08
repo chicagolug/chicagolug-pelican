@@ -2,7 +2,7 @@ The Linux Kernel Organization
 =============================
 
 :slug: nonprofit
-:category: About Linux
+:category: About
 
 The Linux Kernel Organization is a California Public Benefit Corporation
 established 2002 to distribute the Linux kernel and other Open Source

@@ -1,0 +1,56 @@
+Active kernel releases
+======================
+
+:slug: releases
+:category: Releases
+
+There are several main categories into which kernel releases may fall:
+
+Prepatch
+    Prepatch or "RC" kernels are mainline kernel pre-releases that are
+    mostly aimed at other kernel developers and Linux enthusiasts. They
+    must be compiled from source and usually contain new features that
+    must be tested before they can be put into a stable release.
+    Prepatch kernels are maintained and released by Linus Torvalds.
+
+Mainline
+    Mainline tree is maintained by Linus Torvalds. It's the tree where
+    all new features are introduced and where all the exciting new
+    development happens. New mainline kernels are released every 2-3
+    months.
+
+Stable
+    After each mainline kernel is released, it is considered "stable."
+    Any bug fixes for a stable kernel are backported from the mainline
+    tree and applied by a designated stable kernel maintainer. There are
+    usually only a few bugfix kernel releases until next mainline kernel
+    becomes available -- unless it is designated a "longterm maintenance
+    kernel." Stable kernel updates are released on as-needed basis,
+    usually 2-3 a month.
+
+Longterm
+    There are usually several "longterm maintenance" kernel releases
+    provided for the purposes of providing bugfixes for older kernel
+    trees. Only important bugfixes are applied to such kernels and they
+    don't usually see very frequent releases, especially for older
+    trees.
+
+Distribution kernels
+    Many Linux distributions provide their own "longterm maintenance"
+    kernels that may or may not be based on those maintained by kernel
+    developers. These kernel releases are not hosted at kernel.org and
+    kernel developers can provide no support for them (unless they
+    happen to be involved in that particular Linux distribution).
+
+.. table:: Longterm release kernels
+
+    ======== ==================== ==================
+    Version  Maintainer           Projected EOL
+    ======== ==================== ==================
+    2.6.32   Willy Tarreau        ?
+    2.6.34   Paul Gortmaker       ?
+    2.6.35   Andi Kleen           ?
+    3.0      Greg Kroah-Hartman   Oct, 2013
+    3.2      Ben Hutchings        2015 (?)
+    3.4      Greg Kroah-Hartman   Oct, 2014
+    ======== ==================== ==================

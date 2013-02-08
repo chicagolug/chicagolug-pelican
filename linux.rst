@@ -2,7 +2,7 @@ About Linux Kernel
 ==================
 
 :slug: linux
-:category: About Linux
+:category: About
 
 What is Linux?
 --------------
