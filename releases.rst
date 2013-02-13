@@ -30,7 +30,7 @@ Stable
 
 Longterm
     There are usually several "longterm maintenance" kernel releases
-    provided for the purposes of providing bugfixes for older kernel
+    provided for the purposes of backporting bugfixes for older kernel
     trees. Only important bugfixes are applied to such kernels and they
     don't usually see very frequent releases, especially for older
     trees.
