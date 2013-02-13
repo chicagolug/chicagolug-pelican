@@ -40,11 +40,11 @@ Longterm
     ======== ==================== ==================
     Version  Maintainer           Projected EOL
     ======== ==================== ==================
-    2.6.32   Willy Tarreau        Mid-2014
-    2.6.34   Paul Gortmaker       Mid-2013
-    3.0      Greg Kroah-Hartman   Oct, 2013
-    3.2      Ben Hutchings        2016
     3.4      Greg Kroah-Hartman   Oct, 2014
+    3.2      Ben Hutchings        2016
+    3.0      Greg Kroah-Hartman   Oct, 2013
+    2.6.34   Paul Gortmaker       Mid-2013
+    2.6.32   Willy Tarreau        Mid-2014
     ======== ==================== ==================
 
 Distribution kernels
@@ -62,6 +62,6 @@ version of your kernel, run `uname -r`::
     # uname -r
     3.7.5-201.fc18.x86_64
 
-If you see anything at all after a dash, you are running a distribution
+If you see anything at all after the dash, you are running a distribution
 kernel. Please use the support channels offered by your distribution
 vendor to obtain kernel support.
