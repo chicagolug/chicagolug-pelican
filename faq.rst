@@ -7,6 +7,16 @@ Frequently asked questions
 If you have questions, comments or concerns about the F.A.Q. please
 contact us at webmaster@kernel.org.
 
+Is Linux Kernel Free Software?
+------------------------------
+Linux kernel is released under GNU GPL version 2 and is therefore Free
+Software as defined by the `Free Software Foundation`_. You may read the
+entire copy of the license in the COPYING_ file distributed with each
+release of the Linux kernel.
+
+.. _`Free Software Foundation`: http://www.fsf.org/
+.. _COPYING: /pub/linux/kernel/COPYING
+
 There are a number of kernels marked as 'stable', which one is stable?
 ----------------------------------------------------------------------
 There are a number of reasons there are multiple kernels marked as
@@ -130,6 +140,10 @@ Where can I find kernel 2.4.20-3.16?
 Kernel version numbers of this form are distribution kernels, meaning
 they are modified kernels produced by distributions. Please contact the
 relevant distributor; or check out http://mirrors.kernel.org/.
+
+See the Releases_ page for more info on distribution kernels.
+
+.. _Releases: |filename|releases.rst
 
 I need help building/patching/fixing Linux kernel/modules/drivers!
 ------------------------------------------------------------------
