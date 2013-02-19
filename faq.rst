@@ -55,7 +55,7 @@ Please check the Releases_ page for more info.
 
 Is there an RSS feed for the latest kernel version?
 ---------------------------------------------------
-Yes, and you can find it at http://www.kernel.org/feed/kdist.xml.
+Yes, and you can find it at http://www.kernel.org/feeds/kdist.xml.
 
 Why are there files that are dated tomorrow?
 --------------------------------------------
