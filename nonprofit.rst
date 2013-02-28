@@ -5,20 +5,20 @@ The Linux Kernel Organization
 :category: About
 
 The Linux Kernel Organization is a California Public Benefit Corporation
-established 2002 to distribute the Linux kernel and other Open Source
+established in 2002 to distribute the Linux kernel and other Open Source
 software to the public without charge. We are recognized by the IRS as a
 501(c)3 private operating foundation.
 
 - `IRS determination letter`_
 - `California determination letter`_
 
-The Linux Kernel Organization is governed by its board of directors,
-currently consisting of the following members:
-
-- **Jim Zemlin**, President
+The Linux Kernel Organization is managed by `The Linux Foundation`_, which
+provides full technical, financial and staffing support for running and
+maintaining the kernel.org infrastructure.
 
 .. _`IRS determination letter`: |filename|/corporate/irs-nonprofit-ok-redacted.pdf
 .. _`California determination letter`: |filename|/corporate/state-nonprofit-ok-redacted.pdf
+.. _`The Linux Foundation`: http://linuxfoundation.org/
 
 Legal information
 -----------------
