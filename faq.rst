@@ -158,21 +158,21 @@ browsing the Linux Kernel Mailing List.
 
 .. _`Kernel Newbies`: http://kernelnewbies.org/
 
-When will the next kernel be released ?
----------------------------------------
-The next kernel will be released when its ready. There is no strict
-timeline for making releases but if you really need an educated guess
-visit the Linux kernel `PHB Crystal Ball`_ which provides a ballpark
-guess based on the last kernel releases.
+When will the next kernel be released?
+--------------------------------------
+The next kernel will be released when it is ready. There is no strict
+timeline for making releases, but if you really need an educated guess,
+visit the Linux kernel `PHB Crystal Ball`_ -- it tries to provide a
+ballpark guess based on previous kernel releases.
 
 .. _`PHB Crystal Ball`: http://phb-crystal-ball.org/
 
-What will go into the next release ?
-------------------------------------
-
-We have no idea, but you can either take a peak at `linux-next`_ or read
-the `Linux Weather Forecast`_ where Jonathan Corbet provides a broad
-forecast of what will likely make it into the next release.
+What will go into the next release?
+-----------------------------------
+It is hard to predict with certainty, but you can either take a peak at
+`linux-next`_ or read the `Linux Weather Forecast`_, where Jonathan
+Corbet provides a broad forecast of what will likely be included into
+the next mainline release.
 
 .. _`linux-next`: https://git.kernel.org/cgit/linux/kernel/git/next/linux-next.git/
 .. _`Linux Weather Forecast`: http://www.linuxfoundation.org/news-media/lwf
