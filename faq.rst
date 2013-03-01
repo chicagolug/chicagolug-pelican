@@ -166,3 +166,13 @@ visit the Linux kernel `PHB Crystal Ball`_ which provides a ballpark
 guess based on the last kernel releases.
 
 .. _`PHB Crystal Ball`: http://phb-crystal-ball.org/
+
+What will go into the next release ?
+------------------------------------
+
+We have no idea, but you can either take a peak at `linux-next`_ or read
+the `Linux Weather Forecast`_ where Jonathan Corbet provides a broad
+forecast of what will likely make it into the next release.
+
+.. _`linux-next`: https://git.kernel.org/cgit/linux/kernel/git/next/linux-next.git/
+.. _`Linux Weather Forecast`: http://www.linuxfoundation.org/news-media/lwf
