@@ -33,7 +33,7 @@ GIT_NEXT     = '/mnt/pub/scm/linux/kernel/git/next/linux-next.git'
 
 PUB_MOUNT = '/mnt'
 
-#PLUGINS = [releases]
+PLUGINS = [releases]
 
 # Blogroll
 LINKS =  (
