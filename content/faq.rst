@@ -172,7 +172,7 @@ ballpark guess based on previous kernel releases.
 
 What will go into the next release?
 -----------------------------------
-It is hard to predict with certainty, but you can either take a peak at
+It is hard to predict with certainty, but you can either take a peek at
 `linux-next`_ or read the `Linux Weather Forecast`_, where Jonathan
 Corbet provides a broad forecast of what will likely be included into
 the next mainline release.
