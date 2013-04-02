@@ -166,7 +166,7 @@ When will the next kernel be released?
 The next kernel will be released when it is ready. There is no strict
 timeline for making releases, but if you really need an educated guess,
 visit the Linux kernel `PHB Crystal Ball`_ -- it tries to provide a
-ballpark guess based on previous kernel releases.
+ballpark guess based on previous kernel release schedule.
 
 .. _`PHB Crystal Ball`: http://phb-crystal-ball.org/
 
