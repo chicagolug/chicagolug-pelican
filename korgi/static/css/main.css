@@ -57,6 +57,8 @@ body {
 }
 #banner li > a {
     color: #B39223;
+    white-space: nowrap;
+    font-size: 90%;
 }
 #banner li > a:hover,
 #banner li > a:active {
@@ -162,10 +164,18 @@ hr {
     margin-top: 1.25em;
 }
 
+.literal-block {
+    background: #f3f3f3;
+    border: thin solid #ccc;
+    border-radius: 0.3em;
+    padding: 0.5em;
+    font-size: 90%;
+}
+
 #featured,
 #content {
     background: #FFFFFF;
-    margin: 2em auto;
+    margin: 1.5em auto;
     padding: 1em;
     width: 50em;
     border: thin solid;
@@ -189,6 +199,8 @@ table.docutils {
 }
 table.docutils > caption {
     margin: 0.5em 0;
+    text-align: left;
+    font-weight: bold;
 }
 
 a.readmore {
@@ -225,7 +237,7 @@ a.readmore:active {
 }
 
 #extras {
-    margin: 2em auto;
+    margin: 1.5em auto;
     width: 52em;
 }
 #extras > div {
@@ -275,4 +287,7 @@ a.readmore:active {
 #donors img {
     vertical-align: middle;
     margin: 0 1em;
+}
+dt {
+    font-weight: bold;
 }
