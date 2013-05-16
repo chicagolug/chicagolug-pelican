@@ -37,15 +37,15 @@ Longterm
 
 .. table:: Longterm release kernels
 
-    ======== ==================== ==================
-    Version  Maintainer           Projected EOL
-    ======== ==================== ==================
-    3.4      Greg Kroah-Hartman   Oct, 2014
-    3.2      Ben Hutchings        2016
-    3.0      Greg Kroah-Hartman   Oct, 2013
-    2.6.34   Paul Gortmaker       Mid-2013
-    2.6.32   Willy Tarreau        Mid-2014
-    ======== ==================== ==================
+    ======== ==================== ============ ==================
+    Version  Maintainer           Released     Projected EOL
+    ======== ==================== ============ ==================
+    3.4      Greg Kroah-Hartman   2012-05-20   Oct, 2014
+    3.2      Ben Hutchings        2012-01-04   2016
+    3.0      Greg Kroah-Hartman   2011-07-22   Oct, 2013
+    2.6.34   Paul Gortmaker       2010-05-16   Mid-2013
+    2.6.32   Willy Tarreau        2009-12-03   Mid-2014
+    ======== ==================== ============ ==================
 
 Distribution kernels
 --------------------
