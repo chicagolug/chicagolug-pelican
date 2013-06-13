@@ -17,22 +17,6 @@ release of the Linux kernel.
 .. _`Free Software Foundation`: http://www.fsf.org/
 .. _COPYING: /pub/linux/kernel/COPYING
 
-There are a number of kernels marked as 'stable', which one is stable?
-----------------------------------------------------------------------
-There are a number of reasons there are multiple kernels marked as
-'stable'. The stable series kernels stem from a `conversation that
-happened in 2004`_, it has evolved into a number of kernels that are
-currently being maintained under the 'stable' moniker.
-
-These kernels have patches that are backported to them, mainly in the
-form of driver updates and security fixes. Some of these trees have been
-declared to have longer life cycles than others.
-
-Please check the Releases_ page for more info.
-
-.. _`conversation that happened in 2004`: http://kerneltrap.org/node/4100
-.. _Releases: |filename|releases.rst
-
 What does "stable/EOL" and "longterm" mean?
 -------------------------------------------
 As kernels move from the "mainline" into the "stable" category, two
