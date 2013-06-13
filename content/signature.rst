@@ -134,10 +134,15 @@ Kroah-Hartman). There are several ways you can do this:
    responses you receive in this manner (if you receive any).
 
 If at any time you see "BAD signature" output from "``gpg --verify``",
-please first check that your download is correct and that the downloaded
-file is not truncated or otherwise corrupted. If you repeatedly get the
-same "BAD signature" output, email ftpadmin@kernel.org immediately, so
-we can investigate the problem.
+please first check the following first:
+
+1. **Make sure that you are verifying the signature against the .tar
+   version of the archive, not the compressed (.tar.xz) version.**
+2. Make sure the the downloaded file is correct and not truncated or
+   otherwise corrupted.
+
+If you repeatedly get the same "BAD signature" output, email
+ftpadmin@kernel.org immediately, so we can investigate the problem.
 
 Kernel.org checksum autosigner and sha256sums.asc
 -------------------------------------------------
