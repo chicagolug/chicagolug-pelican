@@ -59,15 +59,15 @@ feel that you should have an account please e-mail the following to
 keys@kernel.org:
 
 - full name
-- email address
 - desired username
-- reason for account
-- reference to work you've done
-- PGP/GPG public key fingerprint (NOT an ssh key)
+- email address where to forward your username@kernel.org mail
+- reason for requiring a kernel.org account
+- reference to kernel work you've done
+- PGP/GPG public key fingerprint (NOT your ssh key)
 
-  * Key should be signed by as many kernel developers as you can get
-  * Accounts will not issued until key is suffciently signed
-  * Key must have been uploaded to public key servers
+  * Key should be signed by as many kernel developers as you know
+  * Accounts will not be issued until key carries enough signatures
+  * Key and signatures must be available on public key servers
 
 The Kernel.org admin team will then review your request and let you know
 the decision.
