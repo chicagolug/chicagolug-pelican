@@ -110,7 +110,7 @@ class KernelReleases():
             stable.append(self.find_latest_matching(matched, regex))
             seen.append(regex)
 
-        stable = sorted(stable, key=lambda tagged: tagged[0].split('.')[1], reverse=True)
+        stable = sorted(stable, key=lambda tagged: int(tagged[0].split('.')[1]), reverse=True)
 
         releases = []
 
