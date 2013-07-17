@@ -37,7 +37,7 @@ PLUGINS = [releases]
 
 # Blogroll
 LINKS =  (
-    ('Gitweb', 'https://git.kernel.org/'),
+    ('Cgit', 'https://git.kernel.org/'),
     ('Wikis', 'https://www.wiki.kernel.org/'),
     ('Bugzilla', 'https://bugzilla.kernel.org/'),
     ('Patchwork', 'https://patchwork.kernel.org/'),

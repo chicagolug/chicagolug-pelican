@@ -48,7 +48,7 @@
             <td>{% if patch %}[<a href="{{ SITEURL }}/{{ patch }}" title="Download patch to previous mainline">patch</a>]{% endif %}</td>
             <td>{% if patch %}[<a href="https://www.kernel.org/diff/diffview.cgi?file=/{{ patch }}" title="View patch to previous mainline using diffview">view&nbsp;patch</a>]{% endif %} </td>
             <td>{% if incr %}[<a href="https://www.kernel.org/diff/diffview.cgi?file=/{{ incr }}" title="View incremental patch to previous stable release">view&nbsp;inc</a>]{% endif %} </td>
-            <td>{% if gitweb %}[<a href="{{ gitweb }}" title="Browse the git tree using the web interface">gitweb</a>] {% endif %}</td>
+            <td>{% if gitweb %}[<a href="{{ gitweb }}" title="Browse the git tree using the web interface">cgit</a>] {% endif %}</td>
             <td>{% if changelog %}[<a href="{{ SITEURL }}/{{ changelog }}" title="View detailed change logs">changelog</a>]{% endif %}</td>
         </tr>
         {% endfor %}
