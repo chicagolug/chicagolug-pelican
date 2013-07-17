@@ -143,8 +143,8 @@ class KernelReleases():
                     eolcount += 1
                     break
 
-            # limit the number of EOL kernels to 2.
-            if not iseol or (iseol and eolcount <= 2):
+            # limit the number of EOL kernels to 1.
+            if not iseol or (iseol and eolcount <= 1):
                 releases.append(self.make_release_line(rel, 'stable', iseol))
 
         # find latest long-term releases
