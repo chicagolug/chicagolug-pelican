@@ -25,7 +25,7 @@ sys.path.append('./')
 from plugins import releases
 
 LONGTERM_KERNELS = ('3.4', '3.2', '3.0', '2.6.34', '2.6.32')
-EOL_KERNELS = ('3.5', '3.6', '3.7', '3.8')
+EOL_KERNELS = ('3.5', '3.6', '3.7', '3.8', '3.9')
 
 GIT_MAINLINE = '/mnt/pub/scm/linux/kernel/git/torvalds/linux.git'
 GIT_STABLE   = '/mnt/pub/scm/linux/kernel/git/stable/linux-stable.git'
