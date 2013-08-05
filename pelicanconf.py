@@ -27,9 +27,9 @@ from plugins import releases
 LONGTERM_KERNELS = ('3.4', '3.2', '3.0', '2.6.34', '2.6.32')
 EOL_KERNELS = ('3.5', '3.6', '3.7', '3.8', '3.9')
 
-GIT_MAINLINE = '/mnt/pub/scm/linux/kernel/git/torvalds/linux.git'
-GIT_STABLE   = '/mnt/pub/scm/linux/kernel/git/stable/linux-stable.git'
-GIT_NEXT     = '/mnt/pub/scm/linux/kernel/git/next/linux-next.git'
+GIT_MAINLINE = '/mnt/git-repos/repos/pub/scm/linux/kernel/git/torvalds/linux.git'
+GIT_STABLE   = '/mnt/git-repos/repos/pub/scm/linux/kernel/git/stable/linux-stable.git'
+GIT_NEXT     = '/mnt/git-repos/repos/pub/scm/linux/kernel/git/next/linux-next.git'
 
 PUB_MOUNT = '/mnt'
 
