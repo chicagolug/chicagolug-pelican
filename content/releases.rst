@@ -40,7 +40,7 @@ Longterm
     ======== ==================== ============ ==================
     Version  Maintainer           Released     Projected EOL
     ======== ==================== ============ ==================
-    3.10     Greg Kroah-Hartman   2013-06-30   Mid-2015
+    3.10     Greg Kroah-Hartman   2013-06-30   Sep, 2015
     3.4      Greg Kroah-Hartman   2012-05-20   Oct, 2014
     3.2      Ben Hutchings        2012-01-04   2016
     3.0      Greg Kroah-Hartman   2011-07-22   Oct, 2013
