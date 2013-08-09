@@ -116,7 +116,7 @@ Let's rerun "``gpg --verify``"::
     gpg: WARNING: This key is not certified with a trusted signature!
     gpg:          There is no indication that the signature belongs to the owner.
     Primary key fingerprint: 647F 2865 4894 E3BD 4571  99BE 38DB BDC8 6092 693E
-    
+
 Notice the **WARNING: This key is not certified with a trusted
 signature!** You will now need to verify that the key used to sign the
 archive really does belong to the owner (in our example, Greg
@@ -133,6 +133,8 @@ Kroah-Hartman). There are several ways you can do this:
    in question. You should attach at best marginal trust to the
    responses you receive in this manner (if you receive any).
 
+If you get "BAD signature"
+--------------------------
 If at any time you see "BAD signature" output from "``gpg --verify``",
 please first check the following first:
 
@@ -174,10 +176,15 @@ revoked. **It will no longer be used to sign future releases and you
 should NOT use this key to verify the integrity of any archives. It is
 almost certain that this key has fallen into malicious hands.**
 
-All kernel releases that were previously signed with this key are being
-cross-checked and will be signed with another key, created specifically
-for this purpose. Once the process is completed, the new key information
-will be put on this page.
+All kernel releases that were previously signed with this key were
+cross-checked and signed with another key, created specifically
+for this purpose::
+    pub   3072R/C4790F9D 2013-08-08
+          Key fingerprint = BFA7 DD3E 0D42 1C9D B6AB  6527 0D3B 3537 C479 0F9D
+    uid   Linux Kernel Archives Verification Key
+          (One-off resigning of old releases) <ftpadmin@kernel.org>
+
+This key has been destroyed and will not be used to sign any new releases.
 
 Revocation certificates
 -----------------------
