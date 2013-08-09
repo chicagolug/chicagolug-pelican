@@ -179,6 +179,7 @@ almost certain that this key has fallen into malicious hands.**
 All kernel releases that were previously signed with this key were
 cross-checked and signed with another key, created specifically
 for this purpose::
+
     pub   3072R/C4790F9D 2013-08-08
           Key fingerprint = BFA7 DD3E 0D42 1C9D B6AB  6527 0D3B 3537 C479 0F9D
     uid   Linux Kernel Archives Verification Key
