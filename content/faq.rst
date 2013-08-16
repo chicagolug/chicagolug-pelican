@@ -97,7 +97,7 @@ discretion of the admin team.
 How does kernel.org provide its users access to the git trees?
 --------------------------------------------------------------
 We are using an access control system called gitolite_, originally
-written and maintained by Sitaram Chamarty. We choose gitolite for a
+written and maintained by Sitaram Chamarty. We chose gitolite for a
 number of reasons:
 
 - Limiting of ssh access to the system
