@@ -74,6 +74,12 @@ a {
     text-decoration: none;
     transition: color 0.25s;
 }
+
+a:visited {
+    color: #865796;
+    text-decoration: none;
+}
+
 a:hover,
 a:active {
     color: #B39223;
