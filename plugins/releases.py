@@ -153,7 +153,13 @@ class KernelReleases():
             regex = re.compile('^v' + '\\.'.join(components) + '\\.\\d+$')
             found = self.find_latest_matching(tagrefs, regex)
             if found is not None:
-                releases.append(self.make_release_line(found, 'longterm'))
+                iseol = False
+                for eolrel in EOL_KERNELS:
+                    if found[0].find(eolrel) >= 0:
+                        iseol = True
+                        break
+                releases.append(self.make_release_line(found, 'longterm',
+                    iseol))
 
         # now find latest tag in linux-next
         repo = Repo(GIT_NEXT)
