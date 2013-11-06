@@ -282,7 +282,7 @@ a.readmore:active {
     color: #827A5E;
     margin: 2em auto;
     padding-top: 3.5em;
-    width: 54em;
+    width: 52em;
 }
 #about {
     font-size: 80%;
@@ -292,7 +292,7 @@ a.readmore:active {
 }
 #donors img {
     vertical-align: middle;
-    margin: 0 1em;
+    margin: 0 0.5em;
 }
 dt {
     font-weight: bold;
