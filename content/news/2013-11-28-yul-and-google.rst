@@ -4,8 +4,8 @@ New frontend and googlesource.com
 :category: Site news
 :author: Konstantin Ryabitsev
 
-Montreal fontend
-----------------
+Montreal frontend
+-----------------
 We have added another official frontend for serving the kernel content,
 courtesy of `Vexxhost, Inc`_. There is now a total of three frontends,
 one in Palo Alto, California, one in Portland, Oregon, and one in
