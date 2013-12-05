@@ -17,8 +17,8 @@ Legal Disclaimer
 This site is provided as a public service by The Linux Kernel
 Organization Inc., a California `501(c)3 nonprofit corporation`_. Our
 servers are located in San Francisco, CA, USA; Palo Alto, CA, USA;
-Corvallis, OR, USA; Amsterdam, Netherlands; and Umeå, Sweden. Use in
-violation of any applicable laws is strictly prohibited.
+Corvallis, OR, USA; Portland, OR, USA and Montréal, Québec, Canada. Use
+in violation of any applicable laws is strictly prohibited.
 
 Neither the Linux Kernel Organization nor any of its sponsors make any
 guarantees, explicit or implicit, about the contents of this site. Use

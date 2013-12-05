@@ -34,7 +34,11 @@ This legal notice applies to cryptographic software only. Please see the
 `Bureau of Industry and Security`_ for more information about current U.S.
 regulations.
 
-Our servers are located in Corvallis, Oregon, USA; Palo Alto and San Francisco, California, USA; Amsterdam, Netherlands; and Umeå, Sweden. Use in violation of any applicable laws is prohibited.
+Our servers are located in Corvallis, Oregon, USA; Palo Alto and San
+Francisco, California, USA; Portland, Oregon, USA; and Montréal, Québec,
+Canada.
+
+Use in violation of any applicable laws is prohibited.
 
 Linux is a Registered Trademark of Linus Torvalds. All trademarks are
 property of their respective owners.
