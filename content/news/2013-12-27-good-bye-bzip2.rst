@@ -9,13 +9,14 @@ Good-bye bzip2
 We started listing xz-compressed versions of kernel archives in all our
 announcements back in March 2013, and the time has come to complete the
 switch. Effective immediately, we will no longer be providing
-bzip2-compressed archives of the Linux kernel and other software. We
-will, however, continue to offer gzip-compressed versions for maximum
-backwards compatibility until foreseeable future.
+bzip2-compressed versions for new releases of the Linux kernel and other
+software. Any previously released .tar.bz2 archives will continue to be
+available without change, and we will also continue to provide
+gzip-compressed versions of all new releases for the foreseeable future.
 
 So, from now on, all releases will be offered as both .tar.gz and
-.tar.xz archives, but not as .tar.bz2. We apologize if this interferes
-with any automated tools.
+.tar.xz, but not as .tar.bz2. We apologize if this interferes with any
+automated tools.
 
 Happy new year!
 ---------------
