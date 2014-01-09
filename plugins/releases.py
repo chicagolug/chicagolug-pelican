@@ -75,7 +75,10 @@ class KernelReleases():
         # Move on to the linux-stable repo
         repo = Repo(GIT_STABLE)
         # ignore any tags older than 12 months
-        cutoff = time.time() - 31536000
+        #cutoff = time.time() - 31536000
+        # Raise to 400 days temporarily while we're waiting for final
+        # 2.6.34 EOL release
+        cutoff = time.time() - 34560000
 
         tagrefs = self.get_tagref_list(repo, cutoff)
 
