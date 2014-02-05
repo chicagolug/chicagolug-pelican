@@ -5,12 +5,17 @@ Legal disclaimers and copyright
 :category: About
 :date: 2013-01-01
 
-Copyright
----------
-Copyright 1997-2013 The Linux Kernel Organization, Inc.
+Copyright and license
+---------------------
+Except where otherwise stated, content on this site is
+copyright (C) 1997-2014 by The Linux Kernel Organization, Inc.
+and is made available to you under the
+`Creative Commons Attribution ShareAlike 4.0 International License`_.
 
 Distributed software is copyrighted by their respective contributors and
 are distributed under their own individual licenses.
+
+.. _`Creative Commons Attribution ShareAlike 4.0 International License`: http://creativecommons.org/licenses/by-sa/4.0/
 
 Legal Disclaimer
 ----------------
