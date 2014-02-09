@@ -7,3 +7,4 @@ fabfile.py
 *.swp
 *.pyc
 *.pyo
+*.pid
