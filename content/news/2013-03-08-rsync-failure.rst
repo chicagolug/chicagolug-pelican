@@ -1,7 +1,7 @@
 /pub tree resync-ing
 ====================
 
-:category: Site news
+:category: News
 
 Due to a failure in one of the rsync scripts during the maintenance
 window, the mirrors of /pub hierarchy on www.kernel.org got erased. We

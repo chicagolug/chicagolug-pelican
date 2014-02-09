@@ -1,7 +1,7 @@
 Cleanroom styles
 ================
 
-:category: Site news
+:category: News
 
 You are probably wondering what happened to the site's look.
 Unfortunately, we've been alerted that the default theme shipped by

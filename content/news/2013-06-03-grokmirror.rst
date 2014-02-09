@@ -1,7 +1,7 @@
 Mirroring kernel.org repositories
 =================================
 
-:category: Site news
+:category: News
 
 If you would like to mirror all or a subset of kernel.org git
 repositories, please use a tool we wrote for this purpose, called

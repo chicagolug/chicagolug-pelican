@@ -1,7 +1,7 @@
 XZ by default and JSON
 ======================
 
-:category: Site news
+:category: News
 
 We've implemented two oft-requested features today:
 

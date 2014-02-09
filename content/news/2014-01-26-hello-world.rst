@@ -4,7 +4,7 @@ Hello, World
 :author: ChicagoLUG
 :summary: Let's try out the bloggings
 :date: 2014-01-26 11:05
-:category: Site news
+:category: News
 
 Greetings
 ---------

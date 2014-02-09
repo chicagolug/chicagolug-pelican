@@ -1,7 +1,7 @@
 New frontend and googlesource.com
 =================================
 
-:category: Site news
+:category: News
 :author: Konstantin Ryabitsev
 
 Montreal frontend

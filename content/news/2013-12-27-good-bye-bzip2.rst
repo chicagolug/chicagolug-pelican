@@ -1,7 +1,7 @@
 Happy new year and good-bye bzip2
 =================================
 
-:category: Site news
+:category: News
 :author: Konstantin Ryabitsev
 
 Good-bye bzip2

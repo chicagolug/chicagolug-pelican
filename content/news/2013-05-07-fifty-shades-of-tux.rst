@@ -1,7 +1,7 @@
 Fifty shades of Tux
 ===================
 
-:category: Site news
+:category: News
 
 Special thanks to Benoît Monin for donating a MIT-licensed CSS theme to
 the kernel.org project to replace the one we hastily put together.
