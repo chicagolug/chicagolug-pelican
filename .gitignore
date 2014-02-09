@@ -1,4 +1,8 @@
+output/
 venv
+Makefile
+develop_server.sh
+fabfile.py
 
 *.swp
 *.pyc
