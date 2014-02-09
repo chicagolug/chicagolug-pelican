@@ -33,16 +33,11 @@ If the kernel version you are using is marked "EOL," you should consider
 upgrading to the next major version as there will be no more bugfixes
 provided for the kernel version you are using.
 
-Please check the Releases_ page for more info.
-
-.. _Releases: |filename|releases.rst
 
 Is there an RSS feed for the latest kernel version?
 ---------------------------------------------------
 Yes, and you can find it at https://www.kernel.org/feeds/kdist.xml.
 
-We also publish a .json file with the latest release information, which
-you can pull from here: https://www.kernel.org/releases.json.
 
 Why are there files that are dated tomorrow?
 --------------------------------------------
@@ -127,10 +122,6 @@ Where can I find kernel 2.4.20-3.16?
 Kernel version numbers of this form are distribution kernels, meaning
 they are modified kernels produced by distributions. Please contact the
 relevant distributor; or check out http://mirrors.kernel.org/.
-
-See the Releases_ page for more info on distribution kernels.
-
-.. _Releases: |filename|releases.rst
 
 I need help building/patching/fixing Linux kernel/modules/drivers!
 ------------------------------------------------------------------

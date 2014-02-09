@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-SITENAME = u'The Linux Kernel Archives'
-SITEURL  = u'https://www.kernel.org'
+SITENAME = u'The Chicago GNU/Linux User Group'
+SITEURL  = u'https://chicagolug.org'
 
-TIMEZONE = 'UTC'
+TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = u'en'
 
@@ -22,18 +22,6 @@ STATIC_PATHS = (['corporate', 'images'])
 
 import sys
 sys.path.append('./')
-from plugins import releases
-
-LONGTERM_KERNELS = ('3.10', '3.4', '3.2', '3.0', '2.6.34', '2.6.32')
-EOL_KERNELS = ('3.0', '3.5', '3.6', '3.7', '3.8', '3.9', '3.11')
-
-GIT_MAINLINE = '/mnt/git-repos/repos/pub/scm/linux/kernel/git/torvalds/linux.git'
-GIT_STABLE   = '/mnt/git-repos/repos/pub/scm/linux/kernel/git/stable/linux-stable.git'
-GIT_NEXT     = '/mnt/git-repos/repos/pub/scm/linux/kernel/git/next/linux-next.git'
-
-PUB_MOUNT = '/mnt'
-
-PLUGINS = [releases]
 
 # Blogroll
 LINKS =  (
