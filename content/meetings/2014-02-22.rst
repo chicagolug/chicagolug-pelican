@@ -1,0 +1,50 @@
+February 2014 Meeting and Pre-meeting hackfest
+==============================================
+
+:summary: Learn how the University of Chicago sysadmins use Puppet to manage their server infrastructure.
+:date: 2014-01-26 11:05
+:category: Meetings
+:slug: 2014-02-22
+:tags: Lincoln Bryant, To Be Decided
+
+We've scheduled our next meeting for Saturday, February 22nd, with formal talks
+starting at 2:00 pm. We'll be meeting at our regular spot, 
+`Pumping Station: One`_.
+
+For those who are interested, we'll also have some time before the meeting for
+some informal project hacking. The informal, pre-meeting hacking will start at
+12:00 pm. If you don't want to work on projects, feel free to just show up
+close to 2:00 pm.
+
+Speaking Topics
+---------------
+
+Lincoln Bryant of the University of Chicago will show us how university
+sysadmins use `Puppet`_ to manage their servers.
+
+We may have an additional talk lined-up, as well. More details will be
+forthcoming shortly.
+
+Hacking
+-------
+
+We'll have time to hack on projects both before and after our talks. Both
+hacking times are entirely optional.
+
+Pre-meeting hacking will start at about noon. Bring something that you've been
+working on, and others will be there to do work as well. We can help each other
+or just work quietly.
+
+Post-meeting hacking will take place after the talks. It can get a little noisy
+after the talks, but you can still get stuff done if you're focused.  :)
+
+Foodstuffs
+----------
+
+Some funds for food and drink are supplied by the
+`GNOME Foundation`_, but it's typically a good idea to bring a few dollars
+if you want to partake of pizza and drinks.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone/
+.. _`Puppet`: http://docs.puppetlabs.com/puppet/
+.. _`GNOME Foundation`: https://www.gnome.org/foundation/
