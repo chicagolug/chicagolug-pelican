@@ -5,6 +5,7 @@ Hello, World
 :summary: Let's try out the bloggings
 :date: 2014-01-26 11:05
 :category: News
+:tags: Testing
 
 Greetings
 ---------
@@ -16,5 +17,40 @@ our flask-based website.
 Formatting and such
 -------------------
 
-For now, the layout of these posts follows the layout of our meetings and other
-site content pretty closely, but we'll be working on it.
+Let's try some code highlighting.
+
+.. code-block:: XML
+
+   <page xmlns="http://projectmallard.org/1.0/"
+      type="topic" style="task"
+      id="gedit-save-file">
+
+    <info>
+      <link type="guide" xref="gedit-files-basic" group="third"/>
+      <revision pkgversion="3.8" date="2013-02-24" status="review"/>
+      <credit type="author">
+        <name>Jim Campbell</name>
+        <email>jwcampbell@gmail.com</email>
+      </credit>
+      <credit type="editor">
+        <name>Sindhu S</name>
+        <email>sindhus@live.in</email>
+      </credit>
+      <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+
+    </info>
+
+    <title>Save a file</title>
+  
+      <p>To save a file in <app>gedit</app>, click on the disk-drive icon with the
+      word <gui style="button">Save</gui> next to it.  You may also select
+      <guiseq><gui style="menu">File</gui>
+      <gui style="menuitem">Save</gui></guiseq>, or just press
+      <keyseq><key>Ctrl</key><key>S</key></keyseq>.</p> <p>If you are saving a
+      new file, the <gui>Save File</gui> dialog will appear, and you can select a
+      name for the file, as well as the directory where you would like the file
+      to be saved.</p>
+
+    </page>
+
+How did it work?
