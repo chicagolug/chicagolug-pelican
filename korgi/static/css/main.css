@@ -5,12 +5,13 @@
  */
 
 @import "normalize.css";
-@import "https://fonts.googleapis.com/css?family=Oxygen";
+@import "https://fonts.googleapis.com/css?family=Cantarell";
 @import "https://fonts.googleapis.com/css?family=Oswald:400";
+@import "http://fonts.googleapis.com/css?family=Inconsolata";
 
 body {
-    font-family: oxygen,sans-serif;
-    background: #F0EDE3;
+    font-family: Cantarell,sans-serif;
+    background: #D9D9D9;
     color: #33290A;
 }
 
@@ -19,7 +20,7 @@ body {
     background: #FFFFFF;
     margin: 0em auto;
     padding: 1em;
-    width: 50em;
+    width: 70%;
     border: thin solid;
     border-color: #DDDACF #CCC8B8 #BBB59F;
     box-shadow: 0 0.1em 0.3em #CCC8B8;
@@ -27,9 +28,9 @@ body {
     border-bottom-left-radius: 0.5em;
 }
 #tux-gear {
-    width: 6.5em;
+    width: 7em;
     height: 7.5em;
-    background-image: url('../images/logos/tux.png');
+    background-image: url('../images/logos/chicagolug-logo.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -183,7 +184,7 @@ hr {
     background: #FFFFFF;
     margin: 1.5em auto;
     padding: 1em;
-    width: 50em;
+    width: 70%;
     border: thin solid;
     border-color: #DDDACF #CCC8B8 #BBB59F;
     box-shadow: 0 0.1em 0.3em #CCC8B8;
@@ -244,7 +245,8 @@ a.readmore:active {
 
 #extras {
     margin: 1.5em auto;
-    width: 52em;
+    padding: 1em;
+    width: 73%;
 }
 #extras > div {
     background: #FFFFFF;
@@ -256,7 +258,7 @@ a.readmore:active {
 }
 #extras > .blogroll {
     float: left;
-    width: 34em;
+    width: 55%;
     padding: 0 1em;
 }
 #extras > .blogroll li {
@@ -265,7 +267,7 @@ a.readmore:active {
 }
 #extras > .social {
     float: right;
-    width: 12em;
+    width: 35%;
     padding: 0 1em;
 }
 #extras h2 {
@@ -282,7 +284,7 @@ a.readmore:active {
     color: #827A5E;
     margin: 2em auto;
     padding-top: 3.5em;
-    width: 53em;
+    width: 70%;
 }
 #about {
     font-size: 80%;
@@ -296,4 +298,16 @@ a.readmore:active {
 }
 dt {
     font-weight: bold;
+}
+
+code,
+kbd,
+pre,
+samp {
+    font-family: Inconsolata, sans-serif;
+    background: #f3f3f3;
+    border: thin solid #ccc;
+    border-radius: 0.3em;
+    padding: 0.5em;
+    font-size: 90%;
 }

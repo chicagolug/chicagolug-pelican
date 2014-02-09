@@ -3,7 +3,7 @@
 <head>
         <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
         <meta charset="utf-8" />
-	<link rel="icon" type="image/png" href="{{ SITEURL }}/theme/images/logos/favicon.png" />
+	<link rel="icon" type="image/png" href="{{ SITEURL }}/theme/images/logos/favicon.ico" />
         <link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" type="text/css" />
         {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
@@ -41,8 +41,10 @@
                 {% for cat, null in categories %}
                     <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
                 {% endfor %}
-                </ul></nav>
+                </ul>
+                </nav>
         </header><!-- /#banner -->
+
         {% block content %}
         {% endblock %}
         <section id="extras" class="body">
