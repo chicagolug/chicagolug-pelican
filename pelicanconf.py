@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*- #
 SITENAME = u'The Chicago GNU/Linux User Group'
 SITEURL  = u'https://chicagolug.org'
+RELATIVE_URLS = (True)
+THEME = './korgi'
+DEFAULT_PAGINATION = 10
 
 TIMEZONE = 'America/Chicago'
 
@@ -38,8 +41,7 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-    ('Linux on Google+', 'https://plus.google.com/+Linux/posts'),
+    ('ChicagoLUG on Google+', 'https://plus.google.com/110920643277848720575/posts'),
 )
 
-THEME = './korgi'
-DEFAULT_PAGINATION = 10
+
