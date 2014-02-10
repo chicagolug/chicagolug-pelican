@@ -1,17 +1,20 @@
 Pumping Station: One
 ====================
 
-:summary: Learn how the University of Chicago sysadmins use Puppet to manage their server infrastructure.
-:date: 2999-12-31 12:59
+:date: 2014-02-10
 :category: Locations
 :slug: psone312
 
-Address
--------
+Chicago hackerspace and our primary location
+--------------------------------------------
+If we are having a regular, monthly meeting, chances are that it will be here.
 
-3519 North Elston Avenue 
-Chicago, Illinois 60618
+Contact Info
+************
 
-Open Street Map: http://ur1.ca/gllew
-
-Google Map: http://goo.gl/maps/7iugJ
+|  3519 North Elston Avenue 
+|  Chicago, Illinois 60618
+|
+|  Open Street Map: http://ur1.ca/gllew
+|  Google Map: http://goo.gl/maps/7iugJ
+|  Website: http://pumpingstationone.org

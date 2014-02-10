@@ -1,24 +1,19 @@
 Wormhole Coffee
 ===============
 
-:summary: Learn how the University of Chicago sysadmins use Puppet to manage their server infrastructure.
 :date: 2014-02-07
 :category: Locations
 :slug: wormholecoffee
 
-Address
--------
+Small coffee shop in Wicker Park
+--------------------------------
+Convenient location in Wicker Park. It's a good spot for informal, smaller gatherings. They have a DeLorean in the shop.
 
-1462 North Milwaukee Avenue
-Chicago, Illinois 60622
+Contact Info
+************
 
-Open Street Map: 
-
-Google Map: http://goo.gl/maps/8ZLqr
-
-Website: http://thewormhole.us
-
-Notes
------
-
-Convenient location and great coffee. Good for informal, smaller gatherings.
+|  1462 North Milwaukee Avenue
+|  Chicago, Illinois 60622
+|
+|  Google Map: http://goo.gl/maps/8ZLqr
+|  Website: http://thewormhole.us
