@@ -1,48 +1,47 @@
 Contacts
 ========
 :slug: contact
-:category: Contact us
+:category: Contact
+:date: 2014-02-09
 
-Email is the only reliable way of contacting Kernel.org administrators.
+Mailing List
+------------
 
-General contacts
-----------------
+Subscribe to the ChicagoLUG mailing list, or `view the archives`_. Our mailing
+list is hosted by Google Groups.
 
-webmaster@kernel.org:
-    General requests and comments about kernel.org infrastructure.
+.. html::
+  
+    <form action="http://groups.google.com/group/chicagolinux-discuss/boxsubscribe">
+      <p><label for="google_email">Email: </label><input id="google_email"
+      type=text name=email /><input type=submit name="sub" value="Subscribe" /></p>
+    </form>
 
-ftpadmin@kernel.org:
-    Questions or comments about kernel.org mirrors.
 
-keys@kernel.org:
-    Account requests (see FAQ_)
+Social Media
+------------
 
-**Please do not send general Linux questions or bug reports to these
-addresses. We do not have the resources to reply to them.**
+Announcements about meetings and events will be posted to this site and to our
+social media outlets.
 
-Please try the following sites for general Linux help:
+- `Identi.ca`_
 
-* http://superuser.com/ - for computer enthusiasts and power users
-* http://serverfault.com/ - for systems administrators
-* http://askubuntu.com/ - for users of Ubuntu Linux
+- `Google Plus`_
 
-Linux Foundation also offers training opportunities if you are
-interested in learning more about Linux, want to become a more
-proficient Linux systems administrator, or want to know more about how
-Linux can help your company succeed.
+- `Twitter`_
 
-* http://training.linuxfoundation.org/
+- `Meetup.com`_
 
-Mailing address
----------------
-Please send any mail correspondence to the Linux Foundation:
 
-    .. line-block::
+Internet Relay Chat (IRC)
+-------------------------
 
-        The Linux Foundation
-        660 York Street, Suite 102
-        San Francisco, CA 94110
-        Phone/Fax: +1 415 723 9709
+The ChicagoLUG IRC channel is #chicagolug on irc.freenode.net.
 
-.. _FAQ: |filename|faq.rst
 
+
+.. _`view the archives`: http://groups.google.com/group/chicagolinux-discuss
+.. _`Google Plus`: https://plus.google.com/110920643277848720575?prsrc=3
+.. _`Twitter`: https://twitter.com/chicagolug
+.. _`Identi.ca`: https://identi.ca/chicagolug
+.. _`Meetup.com`: http://www.meetup.com/Windy-City-Linux-Users-Group/
