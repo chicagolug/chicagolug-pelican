@@ -4,89 +4,83 @@ ChicagoLUG DevOps Team
 :category: Staff
 :slug: staff
 
-.. image:: ../theme/images/logos/compbill.gif
+<img src="{{ SITEURL }}/theme/images/logos/compbill.gif"
+                  alt="Computer Geniuses" width="48" height="48" />
+
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
            
-.. image:: ../theme/images/logos/compbill.gif
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
 
-.. image:: ../theme/images/logos/compbill.gif
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
 
-.. image:: ../theme/images/logos/compbill.gif
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
 
-.. image:: ../theme/images/logos/compbill.gif
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
 
-.. image:: ../theme/images/logos/compbill.gif
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
 
-.. image:: ../theme/images/logos/compbill.gif
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
 
-.. image:: ../theme/images/logos/compbill.gif
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
 
-.. image:: ../theme/images/logos/compbill.gif
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
 
 
-.. image:: ../theme/images/logos/compbill.gif
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
 
-.. image:: ../theme/images/logos/compbill.gif
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
 
-.. image:: ../theme/images/logos/compbill.gif
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
 
-.. image:: ../theme/images/logos/compbill.gif
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
 
-.. image:: ../theme/images/logos/compbill.gif
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
 
-.. image:: ../theme/images/logos/compbill.gif
+.. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
 
-.. image:: ../theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
-
-.. image:: ../theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
 
