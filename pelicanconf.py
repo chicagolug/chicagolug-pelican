@@ -1,30 +1,33 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
-SITENAME = u'The Chicago GNU/Linux User Group'
-SITEURL  = u'https://chicagolug.org'
-RELATIVE_URLS = (True)
-THEME = './korgi'
-DEFAULT_PAGINATION = 10
+import sys
+from docutils.parsers.rst import directives, Directive
+sys.path.append('./')
 
-TIMEZONE = 'America/Chicago'
-
-DEFAULT_LANG = u'en'
-
+#Initial Settings
 DATE_FORMATS = {
         u'en': u'%Y-%m-%d',
     }
-
 DEFAULT_DATE = ('fs')
+DEFAULT_LANG = u'en'
+DEFAULT_PAGINATION = 10
+DISPLAY_PAGES_ON_MENU = (False)
 FILENAME_METADATA = u'.*(?P<date>\d{4}-\d{2}-\d{2}).*'
+SITENAME = u'Chicago GNU/Linux User Group'
+# SITEURL  = u'http://localhost:8000'
+SITEURL  = u'http://chicagolug.org'
+THEME = './korgi'
+TIMEZONE = 'America/Chicago'
 
-#ARTICLE_URL = u'posts/{date:%Y}-{date:%m}-{date:%d}/{slug}.html'
-#ARTICLE_SAVE_AS = u'posts/{date:%Y}-{date:%m}-{date:%d}/{slug}.html'
+#Path Configs
+RELATIVE_URLS = (True)
+#RELATIVE_URLS = (False)
+RESPONSIVE_IMAGES = (True)
+STATIC_PATHS = (['corporate', 'images', 'static'])
 
-# Dirs to always push to site
-STATIC_PATHS = (['corporate', 'images'])
-
-import sys
-sys.path.append('./')
+#Plugin Configs
+PLUGIN_PATH = 'plugins'
+PLUGINS = ['html_rst_directive', 'better_figures_and_images']
 
 # Blogroll
 LINKS =  (
@@ -44,4 +47,6 @@ SOCIAL = (
     ('ChicagoLUG on Google+', 'https://plus.google.com/110920643277848720575/posts'),
 )
 
-
+# Commented config options
+#ARTICLE_URL = u'posts/{date:%Y}-{date:%m}-{date:%d}/{slug}.html'
+#ARTICLE_SAVE_AS = u'posts/{date:%Y}-{date:%m}-{date:%d}/{slug}.html'
