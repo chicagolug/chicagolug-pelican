@@ -4,9 +4,6 @@ ChicagoLUG DevOps Team
 :category: Staff
 :slug: staff
 
-<img src="{{ SITEURL }}/theme/images/logos/compbill.gif"
-                  alt="Computer Geniuses" width="48" height="48" />
-
 .. image:: /static/theme/images/logos/compbill.gif
            :height: 48 px
            :width: 48 px
@@ -41,46 +38,3 @@ ChicagoLUG DevOps Team
            :height: 48 px
            :width: 48 px
            :alt: computer geniuses
-
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
-
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
-
-
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
-
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
-
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
-
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
-
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
-
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
-
-

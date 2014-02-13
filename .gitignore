@@ -1,8 +1,9 @@
+develop_server.sh
+draft/
+fabfile.py
+Makefile
 output/
 venv
-Makefile
-develop_server.sh
-fabfile.py
 
 *.swp
 *.pyc

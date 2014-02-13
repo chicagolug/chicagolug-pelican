@@ -1,0 +1,18 @@
+Casual Project Night
+====================
+
+:date: 2014-01-31 18:30
+:tags: Casual Project Night
+:category: Meetings
+:slug: 2014-01-31
+:summary: Bring a project, enjoy some coffee, visit with folks and get some work done.
+
+We've scheduled a Casual Project Night for this Friday, January 31st, starting
+at about 6:30pm. If you can't make it at that time, feel free to stop by later.
+We'll be there throughout the evening.
+
+We'll be meeting at `New Wave Coffee`_ in Logan Square. Hope to see you
+there, but if you can't, we'll update our blog with how things went, and you
+can catch us the next time.
+
+.. _`New Wave Coffee`: http://chicagolug.org/newwavecoffee.html
