@@ -5,7 +5,7 @@ Free Geek Chicago
 :category: Locations
 :slug: freegeek
 
-Chicago Recycling and Computer Skill Development Center
+Chicago recycling and computer skill development center
 -------------------------------------------------------
 Free Geek Chicago is a not-for-profit community organization that recycles
 used computers and parts to provide functional computers, education and job

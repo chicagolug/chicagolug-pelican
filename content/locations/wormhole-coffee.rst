@@ -7,7 +7,8 @@ Wormhole Coffee
 
 Small coffee shop in Wicker Park
 --------------------------------
-Convenient location in Wicker Park. It's a good spot for informal, smaller gatherings. They have a DeLorean in the shop.
+Convenient location in Wicker Park. It's a good spot for informal, smaller
+gatherings. They have a DeLorean in the shop.
 
 Contact Info
 ************

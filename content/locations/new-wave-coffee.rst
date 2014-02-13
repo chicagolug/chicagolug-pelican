@@ -5,7 +5,7 @@ New Wave Coffee
 :category: Locations
 :slug: newwavecoffee
 
-The coffee shop of choice for 'casual project night'
+The coffee shop of choice for 'Casual Project Night'
 ----------------------------------------------------
 New Wave Coffee is near the center of Logan Square. Enter off of Logan Blvd or
 Milwaukee Ave.
