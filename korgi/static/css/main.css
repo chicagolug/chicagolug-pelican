@@ -155,6 +155,7 @@ hr {
 .post-info {
     float: right;
     text-align: center;
+    max-width: 25%;
     background: #F0EDE3;
     color: #827A5E;
     border: thin solid #CCC8B8;
