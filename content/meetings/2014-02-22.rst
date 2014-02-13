@@ -45,7 +45,7 @@ Some funds for food and drink are supplied by the
 `GNOME Foundation`_, but it's typically a good idea to bring a few dollars
 if you want to partake of pizza and drinks.
 
-.. _`Pumping Station: One`: http://chicagolug.org/locations/psone/
+.. _`Pumping Station: One`: http://chicagolug.org/psone312/
 .. _`Puppet`: http://docs.puppetlabs.com/puppet/
 .. _`GNOME Foundation`: https://www.gnome.org/foundation/
 .. _`Matasano Security`: http://www.matasano.com
