@@ -1,0 +1,39 @@
+January 2014 Meeting and Pre-meeting hackfest
+=============================================
+
+:date: 2014-01-18 14:00
+:tags: Drew Fustini, BeagleBone
+:category: Meetings
+:slug: 2014-01-18
+:summary: Drew Fustini will demonstrate the features of the open hardward platform, BeagleBone Black.
+
+We've scheduled our next meeting for Saturday, January 18th, starting at
+2:00pm. We'll be meeting at our regular spot,
+`Pumping Station: One`_.
+
+Speaking Topics
+---------------
+
+Drew Fustini will show off the features of the open hardward platform, 
+`BeagleBone Black`_. It's similar in form and function to the more
+widely-known Raspberry Pi hardware platform, but the BeagleBone is open
+hardware. We'll have more details on Drew's presentation as we get closer to
+the meeting date.
+
+Hacking
+-------
+
+After Drew's presentation we'll have time to hack on projects of our
+choosing, so bring something that you're looking to hack on!
+
+
+Foodstuffs
+----------
+
+Some funds for food and drink are supplied by the
+`GNOME Foundation`_, but it's typically a good idea to bring a few dollars
+if you want to partake of pizza and drinks.
+
+.. _`Pumping Station: One`: http://chicagolug.org/psone312/
+.. _`GNOME Foundation`: https://www.gnome.org/foundation/
+.. _`BeagleBone Black`: http://beagleboard.org/products/beaglebone%20black
