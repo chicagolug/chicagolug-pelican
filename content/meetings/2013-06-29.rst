@@ -1,0 +1,40 @@
+June 2013 ChicagoLUG meeting and hackfest
+=========================================
+
+:date: 2013-06-29 12:00
+:tags: Sten Turpin, Jim Campbell, OpenShift, Documentation, Mallard
+:category: Meetings
+:slug: 2013-06-29
+:summary: "The Meeting of Open." Topics include Red Hat's OpenShift 'Platform as a Service' offering, and a recap of interesting details from the Open Help user help / user support conference.
+ 
+We've scheduled our June meeting for `Saturday, June 29th`, starting at 12:00pm
+at `Pumping Station: One`_. Early birds typically start showing up by about
+11:40 or so. All are welcome.
+
+Speaking Topics
+---------------
+
+Sten Turpin of Red Hat will be presenting on OpenShift, Red Hat's new Platform
+as a Service offering. Also, Jim Campbell will be presenting on some highlights
+from the recent Open Help user help / user support conference in Cincinnati. 
+Jim's talk will also include a basic introduction to using Mallard, the
+documentation format used by the GNOME documentation project.
+
+Hacking
+-------
+
+As per usual, several of us will hack on GNOME-related projects, but feel free
+to bring whatever project that you want to work on.
+
+If you need help with setting-up or fixing your computer, please let us know
+in advance so that we can plan accordingly.
+
+Foodstuffs
+----------
+
+Some funds for food and drink are supplied by the `GNOME Foundation`_,
+but it's typically a good idea to bring a few dollars if you want to partake
+of pizza and drinks.
+
+.. _`Pumping Station: One`: http://chicagolug.org/psone312
+.. _`GNOME Foundation`: https://www.gnome.org/foundation/
