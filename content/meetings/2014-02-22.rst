@@ -1,11 +1,11 @@
 February 2014 Meeting and Pre-meeting hackfest
 ==============================================
 
-:summary: Learn how the University of Chicago sysadmins use Puppet to manage their server infrastructure.
-:date: 2014-01-26 11:05
+:date: 2014-02-22 14:00
+:tags: Lincoln Bryant, Wally Valters, Puppet, Security
 :category: Meetings
 :slug: 2014-02-22
-:tags: Lincoln Bryant
+:summary: Learn how the University of Chicago sysadmins use Puppet to manage their server infrastructure.
 
 We've scheduled our next meeting for Saturday, February 22nd, with formal talks
 starting at 2:00 pm. We'll be meeting at our regular spot, 
@@ -20,10 +20,10 @@ Speaking Topics
 ---------------
 
 Lincoln Bryant of the University of Chicago will show us how university
-sysadmins use `Puppet`_ to manage their servers.
+sysadmins use `Puppet`_ to manage their fleet of maroon-colored servers.
 
-We may have an additional talk lined-up, as well. More details will be
-forthcoming shortly.
+Wally Valters of `Matasano Security`_ will give a talk on server security, with
+an emphasis on techniques for securing cloud servers. 
 
 Hacking
 -------
@@ -48,3 +48,4 @@ if you want to partake of pizza and drinks.
 .. _`Pumping Station: One`: http://chicagolug.org/locations/psone/
 .. _`Puppet`: http://docs.puppetlabs.com/puppet/
 .. _`GNOME Foundation`: https://www.gnome.org/foundation/
+.. _`Matasano Security`: http://www.matasano.com
