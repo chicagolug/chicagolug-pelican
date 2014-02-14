@@ -4,37 +4,12 @@ ChicagoLUG DevOps Team
 :category: Staff
 :slug: staff
 
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
-           
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
+.. image:: |filename|/images/base/cats-in-a-room-on-computers.gif
+           :height: 281 px
+           :width: 500 px
+           :alt: cat computer geniuses
+           :align: center
 
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
+.. class:: center
 
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
-
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
-
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
-
-.. image:: /static/theme/images/logos/compbill.gif
-           :height: 48 px
-           :width: 48 px
-           :alt: computer geniuses
+           Did you need something? We're kind of busy.
