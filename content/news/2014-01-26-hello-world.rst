@@ -53,4 +53,15 @@ Let's try some code highlighting.
 
     </page>
 
-How did it work?
+What if we want to include a picture? We can do that, too.
+
+.. code-block:: rst
+    
+    .. image:: |filename|/images/yyyy-mm-dd/name-of-file.png
+           :height: xxx px
+           :width: xxx px
+           :alt: nice picture
+           :align: center
+
+We'll try putting the images into yyyy-mm-dd directories for each meeting. It
+should help to keep things organized.
