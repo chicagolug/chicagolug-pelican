@@ -1,0 +1,14 @@
+BarCamp Chicago - 2012
+======================
+
+:date: 2012-09-22 10:00
+:tags: BarCamp, Unconference
+:category: Meetings
+:slug: 2012-09-22
+:summary: BarCamp, The annual Chicago unconference
+
+BARcamp Chicago is Chicago's longest running unconference. It is a conference 
+focusing on technology and entrepreneurial topics that is free and open to the 
+public. All talks are given by the attendees of the conference. The schedule 
+and talks are determined the day of the event. We have 3 tracks for talks: 
+development, entrepreneurial, and miscellaneous. 
