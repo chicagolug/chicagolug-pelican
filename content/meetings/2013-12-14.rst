@@ -1,0 +1,43 @@
+December meeting and holiday festivities
+========================================
+
+:date: 2013-12-14 12:00
+:tags: Bonnie King, Jeff Schroeder, Software Collections, Graphite
+:category: Meetings
+:slug: 2013-12-14
+:summary: Bonnie King will talk about Red Hat Software Collections, and Jeff Schroeder will discuss the Graphite project. We'll also have holiday festivities.
+
+
+We've scheduled our next meeting for Saturday, December 14th, starting at
+12:00pm. We'll be meeting at our regular spot,
+`Pumping Station: One`_.
+
+Speaking Topics
+---------------
+
+Bonnie King will discuss `Red Hat Software Collections`_, and how they're
+packaged and used in Scientific Linux. 
+
+Jeff Schroeder will also discuss the `Graphite Project`_. Graphite stores
+numeric time-series data, and render graphs of this data on demand.
+
+
+Hacking . . . we will have none. Festivities . . . we will have them.
+---------------------------------------------------------------------
+
+Unlike regular meetings, we will not be hacking. Instead, we'll have holiday
+good times.
+
+Foodstuffs
+----------
+
+Some funds for food and drink are supplied by the
+`GNOME Foundation`_,
+but it's typically a good idea to bring a few dollars if you want to partake
+of pizza and drinks.
+
+.. _`Pumping Station: One`: http://chicagolug.org/psone312/
+.. _`Red Hat Software Collections`: http://www.zdnet.com/keeping-your-red-hat-enterprise-linux-current-7000020688/
+.. _`GNOME Foundation`: https://www.gnome.org/foundation/
+.. _`Graphite Project`: http://graphite.wikidot.com/start
+
