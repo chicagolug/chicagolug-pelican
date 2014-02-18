@@ -1,0 +1,23 @@
+Software Freedom Day celebration at FreeGeek Chicago
+====================================================
+
+:date: 2013-09-21 10:00
+:tags: Software Freedom Day
+:category: Meetings
+:slug: 2013-09-21
+:summary: Our September meeting coincides with the Software Freedom Day event at FreeGeek Chicago
+ 
+We've scheduled our September meeting to coincide with the
+`Software Freedom Day`_ celebrations at `FreeGeek Chicago`_. The event starts
+at 10:00am, and will run to about 5:00pm. Full details are available on the
+registration page.
+
+Registration
+------------
+
+Advance registration is strongly recommended, as the event does have space
+limitations. To register, visit the event's `Eventbrite page`_.
+
+.. _`Software Freedom Day`: http://softwarefreedomday.org/
+.. _`FreeGeek Chicago`: http://chicagolug.org/freegeek/
+.. _`Eventbrite page`: https://sfdchicago2013.eventbrite.com/
