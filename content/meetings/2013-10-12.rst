@@ -1,0 +1,39 @@
+October 2013 meeting and hackfest
+==============================================
+
+:date: 2013-10-12 14:30
+:tags: Freddy Martinez, Security
+:category: Meetings
+:slug: 2013-10-12
+:summary: October meeting of the Chicago GNU/Linux User Group
+
+We've scheduled our October meeting for Saturday, October 12, starting at
+2:30pm at `Pumping Station: One`_. All are welcome.
+
+Speaking Topics
+---------------
+
+Freddy Martinez of `Radicals Against Discrimination`_ will be giving a talk on
+personal data security. Jim Campbell will be following-up Freddy, leading a
+discussion around how we want to use new cloud server resources that have been
+generously offered to us by a hosting provider.
+
+Hacking
+-------
+
+As per usual, several of us will also hack on GNOME-related projects, but feel
+free to bring whatever project that you want to work on.
+
+If you need help with setting-up or fixing your computer, please let us know
+in advance so that we can plan accordingly.
+
+Foodstuffs
+----------
+
+Some funds for food and drink are supplied by the `GNOME Foundation`_,
+but it's typically a good idea to bring a few dollars if you want to partake
+of pizza and drinks.
+
+.. _`Pumping Station: One`: http://chicagolug.org/psone312/
+.. _`Radicals Against Discrimination`: https://twitter.com/ChicagoRADicals
+.. _`GNOME Foundation`: https://www.gnome.org/foundation/
