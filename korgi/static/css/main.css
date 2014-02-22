@@ -71,19 +71,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: #2B3033;
+    color: #D95657;
     text-decoration: none;
     transition: color 0.25s;
 }
 
 a:visited {
-    color: #865796;
+    color: #D95657;
     text-decoration: none;
 }
 
 a:hover,
 a:active {
-    color: #5C3366;
+    color: #D95657;
     text-decoration: none;
 }
 
