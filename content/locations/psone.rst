@@ -9,6 +9,12 @@ Chicago hackerspace and our primary location
 --------------------------------------------
 If we are having a regular, monthly meeting, chances are that it will be here.
 
+.. image:: |filename|/images/base/psone.jpg
+           :height: 375 px
+           :width: 500 px
+           :alt: pumping station one
+           :align: center
+
 Contact Info
 ************
 
