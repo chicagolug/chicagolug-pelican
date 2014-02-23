@@ -1,14 +1,14 @@
-February 2014 Meeting and Pre-meeting hackfest
-==============================================
+March 2014 Meeting and Pre-meeting hackfest
+===========================================
 
-:date: 2014-02-22 14:00
-:tags: Lincoln Bryant, Wally Valters, Puppet, Security
+:date: 2014-03-29 14:00
+:tags: Brian Kroll, Joel Luellwitz, arkOS, GPG, Enigmail
 :category: Meetings
-:slug: 2014-02-22
-:summary: Learn how the University of Chicago sysadmins use Puppet to manage their server infrastructure. Also learn some of what Matasano Security considers when deciding how to best secure cloud servers.
+:slug: 2014-03-29
+:summary: Learn about arkOS, a platform for hosting a personal cloud on embedded linux devices, and also learn basic and advanced uses of GPG and Enigmail.
 
-We've scheduled our next meeting for Saturday, February 22nd, with formal talks
-starting at 2:00 pm. We'll be meeting at our regular spot, 
+We've scheduled our next meeting for Saturday, March 29th, with formal talks
+starting at 2:00 pm. We'll be meeting at our regular spot,
 `Pumping Station: One`_.
 
 For those who are interested, we'll also have some time before the meeting for
@@ -19,11 +19,11 @@ close to 2:00 pm.
 Speaking Topics
 ---------------
 
-Lincoln Bryant of the University of Chicago will show us how university
-sysadmins use `Puppet`_ to manage their fleet of maroon-colored servers.
+Brian Kroll will teach us about `arkOS`_, a Raspberry Pi-based platform that
+allows you to host your own website, email, “cloud” and more.
 
-Wally Valters of `Matasano Security`_ will give a talk on server security, with
-an emphasis on techniques for securing cloud servers. 
+Joel Luellwitz will also take us through basic and advanced uses of `GPG`_
+and `Enigmail`_.
 
 Hacking
 -------
@@ -46,6 +46,7 @@ Some funds for food and drink are supplied by the
 if you want to partake of pizza and drinks.
 
 .. _`Pumping Station: One`: http://chicagolug.org/psone312/
-.. _`Puppet`: http://docs.puppetlabs.com/puppet/
+.. _`arkOS`: https://arkos.io
+.. _`GPG`: http://www.gnupg.org/
+.. _`Enigmail`: https://www.enigmail.net/home/index.php
 .. _`GNOME Foundation`: https://www.gnome.org/foundation/
-.. _`Matasano Security`: http://www.matasano.com
