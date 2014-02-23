@@ -10,7 +10,8 @@ DATE_FORMATS = {
     }
 DEFAULT_DATE = ('fs')
 DEFAULT_LANG = u'en'
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 6
+SUMMARY_MAX_LENGTH = (2000)
 DISPLAY_PAGES_ON_MENU = (False)
 FILENAME_METADATA = u'.*(?P<date>\d{4}-\d{2}-\d{2}).*'
 SITENAME = u'Chicago GNU/Linux User Group'
@@ -25,26 +26,25 @@ RELATIVE_URLS = (True)
 RESPONSIVE_IMAGES = (True)
 STATIC_PATHS = (['corporate', 'images', 'static'])
 
+FEED_DOMAIN = ('http://chicagolug.org')
+TAG_FEED_ATOM = (None)
+FEED_MAX_ITEMS = 100
+
 #Plugin Configs
 PLUGIN_PATH = 'plugins'
 PLUGINS = ['html_rst_directive', 'better_figures_and_images']
 
 # Blogroll
 LINKS =  (
-    ('Cgit', 'https://git.kernel.org/'),
-    ('Wikis', 'https://www.wiki.kernel.org/'),
-    ('Bugzilla', 'https://bugzilla.kernel.org/'),
-    ('Patchwork', 'https://patchwork.kernel.org/'),
-    ('Kernel Mailing Lists', 'http://vger.kernel.org/'),
-    ('Mirrors', 'http://mirrors.kernel.org/'),
-    ('Linux.com', 'http://www.linux.com/'),
-    ('Linux Foundation', 'http://www.linuxfoundation.org/'),
-    ('Kernel Planet', 'http://planet.kernel.org/'),
+    ('Mailing List', 'http://groups.google.com/group/chicagolinux-discuss'),
+    ('Identi.ca', 'https://identi.ca/chicagolug'),
+    ('Twitter', 'https://twitter.com/chicagolug'),
+    ('Meetup.com', 'http://www.meetup.com/Windy-City-Linux-Users-Group/'),
+    ('Google+', 'https://plus.google.com/b/110920643277848720575/110920643277848720575/posts'),
 )
 
 # Social widget
 SOCIAL = (
-    ('ChicagoLUG on Google+', 'https://plus.google.com/110920643277848720575/posts'),
 )
 
 # Commented config options
