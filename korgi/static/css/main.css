@@ -155,7 +155,7 @@ hr {
 .post-info {
     float: right;
     text-align: center;
-    max-width: 25%;
+    width: 25%;
     background: #D9D9D9;
     color: #827A5E;
     border: thin solid #929292;
@@ -320,4 +320,21 @@ img.align-center {
 }
 p.center {
     text-align: center;
+}
+
+ul.tagcloud {
+  list-style: none;
+    padding: 0;
+}
+
+ul.tagcloud li {
+    display: inline-block;
+}
+
+li.tag-0 {
+    font-size: 150%;
+}
+
+li.tag-1 {
+    font-size: 120%;
 }
