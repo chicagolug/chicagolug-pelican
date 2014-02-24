@@ -245,9 +245,9 @@ a.readmore:active {
 }
 
 #extras {
-    margin: 1.5em auto;
-    padding: 1em;
-    width: 68%;
+    margin: 0em auto;
+    padding: 0em auto 1em auto;
+    width: 67.5%;
 }
 #extras > div {
     background: #FFFFFF;
