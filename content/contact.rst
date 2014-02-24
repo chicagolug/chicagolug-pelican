@@ -1,5 +1,5 @@
-Contacts
-========
+Contact Us
+==========
 :slug: contact
 :category: Contact
 :date: 2014-02-09
