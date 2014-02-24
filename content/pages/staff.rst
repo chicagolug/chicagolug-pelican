@@ -12,4 +12,4 @@ ChicagoLUG DevOps Team
 
 .. class:: center
 
-           Did you need something? We're kind of busy.
+           Fluffles just deployed your patch to production. Everything is still working, right?

@@ -26,12 +26,11 @@ social media outlets.
 
 - `Identi.ca`_
 
-- `Google Plus`_
+- `Meetup.com`_
 
 - `Twitter`_
 
-- `Meetup.com`_
-
+- `Google Plus`_
 
 Internet Relay Chat (IRC)
 -------------------------
