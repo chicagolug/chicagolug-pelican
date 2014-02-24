@@ -30,6 +30,10 @@ FEED_DOMAIN = ('http://chicagolug.org')
 TAG_FEED_ATOM = (None)
 FEED_MAX_ITEMS = 100
 
+#Tag Cloud
+TAG_CLOUD_STEPS = (4)
+TAG_CLOUD_MAX_ITEMS = (100)
+
 #Plugin Configs
 PLUGIN_PATH = 'plugins'
 PLUGINS = ['html_rst_directive', 'better_figures_and_images']
