@@ -4,7 +4,7 @@ October 2013 meeting and hackfest
 :date: 2013-10-12 14:30
 :tags: Freddy Martinez, Security
 :category: Meetings
-:slug: 2013-10-12
+:slug: meetings/2013-10-12
 :summary: October meeting of the Chicago GNU/Linux User Group
 
 We've scheduled our October meeting for Saturday, October 12, starting at

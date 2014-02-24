@@ -4,7 +4,7 @@ June 2013 ChicagoLUG meeting and hackfest
 :date: 2013-06-29 12:00
 :tags: Sten Turpin, Jim Campbell, OpenShift, Documentation, Mallard
 :category: Meetings
-:slug: 2013-06-29
+:slug: meetings/2013-06-29
 :summary: "The Meeting of Open." Topics include Red Hat's OpenShift 'Platform as a Service' offering, and a recap of interesting details from the Open Help user help / user support conference.
  
 We've scheduled our June meeting for `Saturday, June 29th`, starting at 12:00pm

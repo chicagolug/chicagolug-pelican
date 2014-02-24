@@ -4,7 +4,7 @@ December meeting and holiday festivities
 :date: 2013-12-14 12:00
 :tags: Bonnie King, Jeff Schroeder, Software Collections, Graphite
 :category: Meetings
-:slug: 2013-12-14
+:slug: meetings/2013-12-14
 :summary: Bonnie King will talk about Red Hat Software Collections, and Jeff Schroeder will discuss the Graphite project. We'll also have holiday festivities.
 
 

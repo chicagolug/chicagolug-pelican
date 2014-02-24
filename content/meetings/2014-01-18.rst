@@ -4,7 +4,7 @@ January 2014 Meeting and Pre-meeting hackfest
 :date: 2014-01-18 14:00
 :tags: Drew Fustini, BeagleBone
 :category: Meetings
-:slug: 2014-01-18
+:slug: meetings/2014-01-18
 :summary: Drew Fustini will demonstrate the features of the open hardward platform, BeagleBone Black.
 
 We've scheduled our next meeting for Saturday, January 18th, starting at

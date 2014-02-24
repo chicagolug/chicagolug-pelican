@@ -4,7 +4,7 @@ Casual Project Night
 :date: 2014-01-31 18:30
 :tags: Casual Project Night
 :category: Meetings
-:slug: 2014-01-31
+:slug: meetings/2014-01-31
 :summary: Bring a project, enjoy some coffee, visit with folks and get some work done.
 
 We've scheduled a Casual Project Night for this Friday, January 31st, starting

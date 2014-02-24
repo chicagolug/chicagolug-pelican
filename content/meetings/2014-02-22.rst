@@ -4,7 +4,7 @@ February 2014 Meeting and Pre-meeting hackfest
 :date: 2014-02-22 14:00
 :tags: Lincoln Bryant, Wally Valters, Puppet, Security
 :category: Meetings
-:slug: 2014-02-22
+:slug: meetings/2014-02-22
 :summary: Learn how the University of Chicago sysadmins use Puppet to manage their server infrastructure. Also learn some of what Matasano Security considers when deciding how to best secure cloud servers.
 
 We've scheduled our next meeting for Saturday, February 22nd, with formal talks

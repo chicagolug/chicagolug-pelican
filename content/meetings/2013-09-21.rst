@@ -4,7 +4,7 @@ Software Freedom Day celebration at FreeGeek Chicago
 :date: 2013-09-21 10:00
 :tags: Software Freedom Day
 :category: Meetings
-:slug: 2013-09-21
+:slug: meetings/2013-09-21
 :summary: Our September meeting coincides with the Software Freedom Day event at FreeGeek Chicago
  
 We've scheduled our September meeting to coincide with the

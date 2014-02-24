@@ -4,7 +4,7 @@ March 2014 Meeting and Pre-meeting hackfest
 :date: 2014-03-29 14:00
 :tags: Brian Kroll, Joel Luellwitz, arkOS, GPG, Enigmail
 :category: Meetings
-:slug: 2014-03-29
+:slug: meetings/2014-03-29
 :summary: Learn about arkOS, a platform for hosting a personal cloud on embedded linux devices, and also learn basic and advanced uses of GPG and Enigmail.
 
 We've scheduled our next meeting for Saturday, March 29th, with formal talks
