@@ -11,7 +11,12 @@
     </header>
 
     <div class="entry-content">
-      {% include 'article_infos.html' %}
+      {% if article.category == 'Meetings' %}
+        {% include 'article_infos.html' %}
+      {% elif article.category == 'News' %}
+        {% include 'article_infos.html' %}
+      {% else %}
+      {% endif %}
       {{ article.content }}
     </div><!-- /.entry-content -->
     {% if DISQUS_SITENAME %}
