@@ -1,6 +1,6 @@
 Contact Us
 ==========
-:slug: contact
+:slug: pages/contact
 :category: Contact
 :date: 2014-02-09
 
