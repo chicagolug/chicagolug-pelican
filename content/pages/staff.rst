@@ -12,4 +12,4 @@ ChicagoLUG DevOps Team
 
 .. class:: center
 
-           Fluffles just deployed your patch to production. Everything is still working, right?
+           No laser pointers in the operations center, please.

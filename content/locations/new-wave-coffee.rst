@@ -3,7 +3,7 @@ New Wave Coffee
 
 :date: 2014-02-08
 :category: Locations
-:slug: newwavecoffee
+:slug: locations/new-wave-coffee
 
 The coffee shop of choice for 'Casual Project Night'
 ----------------------------------------------------

@@ -3,7 +3,7 @@ Free Geek Chicago
 
 :date: 2014-02-09
 :category: Locations
-:slug: freegeek
+:slug: locations/freegeek-chicago
 
 Chicago recycling and computer skill development center
 -------------------------------------------------------

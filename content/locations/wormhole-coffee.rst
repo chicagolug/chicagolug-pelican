@@ -3,7 +3,7 @@ Wormhole Coffee
 
 :date: 2014-02-07
 :category: Locations
-:slug: wormholecoffee
+:slug: locations/wormhole-coffee
 
 Small coffee shop in Wicker Park
 --------------------------------
