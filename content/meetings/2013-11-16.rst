@@ -1,0 +1,48 @@
+November 2013 meeting and hackfest of the ChicagoLUG
+====================================================
+
+:date: 2013-11-16 14:30
+:tags: Erik Johnson, SaltStack
+:category: Meetings
+:slug: meetings/2013-11-16
+:summary: Erik Johnson will talk about and demonstrate the features of SaltStack, a server orchestration and configuration
+tool. We'll also have time to work on Projects
+
+
+We've scheduled our next meeting for Saturday, November 16, starting at 2:30pm.
+We'll be meeting at our regular spot, `Pumping Station: One`_. All are welcome,
+and we look forward to seeing you there!
+
+Speaking Topics
+---------------
+
+Erik Johnson will be giving an introduction to `SaltStack`_, a server
+orchestration and configuration tool. We'll learn how to use SaltStack on
+CentOS to configure and manage Ubuntu, OpenSUSE and FreeBSD servers. Erik is a
+Python Engineer with SaltStack, and also organizes the
+`Fox Valley Linux User Group`_ in Aurora.
+
+We'll use our remaining time to work on the new version of the ChicagoLUG
+website.
+
+Hacking
+-------
+
+As per usual, several of us will also hack on GNOME-related projects, but feel
+free to bring whatever project that you want to work on.
+
+If you need help with setting-up or fixing your computer, please let us know
+in advance so that we can plan accordingly.
+
+
+Foodstuffs
+----------
+
+Some funds for food and drink are supplied by the `GNOME Foundation`_, but it's
+typically a good idea to bring a few dollars if you want to partake of pizza
+and drinks.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone/
+.. _`SaltStack`: http://www.saltstack.com
+.. _`Fox Valley Linux User Group`: http://www.meetup.com/FoxValleyLUG/
+.. _`GNOME Foundation`: https://www.gnome.org/foundation/

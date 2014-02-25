@@ -45,7 +45,7 @@ Some funds for food and drink are supplied by the
 `GNOME Foundation`_, but it's typically a good idea to bring a few dollars
 if you want to partake of pizza and drinks.
 
-.. _`Pumping Station: One`: http://chicagolug.org/psone312/
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone/
 .. _`arkOS`: https://arkos.io
 .. _`GPG`: http://www.gnupg.org/
 .. _`Enigmail`: https://www.enigmail.net/home/index.php

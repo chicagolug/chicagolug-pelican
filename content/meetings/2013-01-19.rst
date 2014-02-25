@@ -1,0 +1,25 @@
+January 2013 LUG Meeting + Working on GNOME for Fun and Profit
+==============================================================
+
+:date: 2013-01-19 12:00
+:tags: Meg Ford, Chris Webber, GNOME, GTK, Emacs
+:category: Meetings
+:slug: meetings/2013-01-19
+:summary: Meg Ford will show us how we can use core GNOME libraries in our applications, and Chris Webber will take us into the world of Emacs. If we're lucky, he'll also tell us about the time that he fixed a bug in Emacs' version of tetris.
+
+Our next month meeting will be on Saturday, January 19th, starting at 12:00pm.
+(Yes, we're moving our start time back an hour to better accommodate people's
+schedules.)
+
+Tentative schedule for the day:
+
+ * 12:00 - 12:30 - Using core GNOME libraries in your applications (Meg Ford)
+ * 12:30 - 1:00 - An introduction to Emacs (Christopher Allan Webber)
+ * 12:00 - 5:00 - GNOME hackfest
+
+The event will be at Chicago's Pumping Station: One, located at 
+3519 North Elston in Chicago. Talks and speaking order are subject to change.
+
+People of all ability levels are welcome to join us, learn more GNU/Linux, 
+and contribute. If you have any questions, feel free to be in touch via our
+mailing list or any of our social media channels.

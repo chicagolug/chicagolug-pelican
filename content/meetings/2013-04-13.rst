@@ -1,0 +1,20 @@
+Day Two of Flourish at UIC
+==========================
+
+:date: 2013-04-13 09:30
+:tags: Conference, Flourish
+:category: Meetings
+:slug: meetings/2013-04-13
+:summary: Day two of Flourish, the seventh annual student-led open source conference hosted by the The University of Illinois at Chicago.
+
+The ChicagoLUG is skipping our April meeting to participate in 
+`Flourish`_, one of Chicago's best open source conferences. The student-run
+event is hosted by the University of Illinois at Chicago, and
+`registration is free`_. **Register early to get a free tshirt**!
+
+The event will run on both Friday and Saturday, April 12th and 13th. See the
+conference website for `directions to the event`_.
+
+.. _`Flourish`: http://flourishconf.com/2013/
+.. _`registration is free`: http://flourishconf.com/2013/register.php
+.. _`directions to the event`: http://flourishconf.com/2013/directions.php

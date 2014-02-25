@@ -1,0 +1,46 @@
+July 2013 meeting and hackfest of the ChicagoLUG
+================================================
+
+:date: 2013-07-20 12:00
+:tags: William Giokas, Arch Linux, pacman
+:category: Meetings
+:slug: meetings/2013-07-20 12:00
+:summary: William Giokas will be giving a talk on the rolling release distribution, Arch Linux. Though William will provide an overview of Arch in general, he'll also give special attention to the Arch Linux package manager, pacman.
+ 
+We've scheduled our July meeting for Saturday, July 20th, starting at 12:00pm at 
+`Pumping Station: One`_. Early birds typically start showing up by about 11:40
+or so. All are welcome.
+
+Speaking Topics
+---------------
+
+`William Giokas`_ will be giving a talk on the
+rolling release distribution, `Arch Linux`_. Though William will provide an
+overview of Arch in general, he'll give special attention to the Arch Linux
+package manager, *pacman*.
+
+Hacking
+-------
+
+As per usual, several of us will hack on GNOME-related projects, but feel free
+to bring whatever project that you want to work on.
+
+If you need help with setting-up or fixing your computer, please let us know
+in advance so that we can plan accordingly.
+
+Foodstuffs
+----------
+
+Some funds for food and drink are supplied by the `GNOME Foundation`_, but
+it's typically a good idea to bring a few dollars if you want to partake of
+pizza and drinks.
+
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone/
+.. _`William Giokas`: http://git.kaictl.net/
+.. _`Arch Linux`: https://www.archlinux.org/
+.. _``: 
+.. _``: 
+.. _``: 
+.. _`GNOME Foundation`: https://www.gnome.org/foundation/
+

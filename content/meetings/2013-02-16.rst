@@ -1,0 +1,37 @@
+February 2013 Meeting and Hackfest of the ChicagoLUG
+====================================================
+
+:date: 2013-02-16 12:00
+:tags: Meg Ford, Michael Larabel, Developer Tools, Wayland
+:category: Meetings
+:slug: meetings/2013-02-16
+:summary: Meg Ford will report on outcomes from the recent GNOME developer tools hackfest, and Michael Larabel will bring us up to speed on the Wayland display server.
+ 
+Our next meeting is set for Saturday, February 16th, starting at 12:00pm, and
+we have a great set of talks lined up for this meeting.
+
+`Meg Ford`_ will be reporting on the outcomes from the recent GNOME
+developertools hackfest in Belgium. There was much discussion at the hackfest
+around GObject bindings, dynamic vs. statically typed languages,
+and debugging large applications written in dynamic languages. Meg will provide
+the scoops on all of it.
+
+`Michael Larabel`_will be giving a talk on the
+`Wayland`_ Display Server. Michael has covered the development of Wayland as
+part of his reporting for `Phoronix`_, and should have much to share with us. 
+
+Following-up on prior meetings, we may also include a lightning talk or two on
+Emacs. We will include these as time permits.
+
+As usual, the event will be at Chicago's Pumping Station: One, located at 
+3519 North Elston in Chicago. Talks and speaking order are subject to change.
+
+People of all ability levels are welcome to join us, learn more GNU/Linux, 
+and contribute. If you have any questions, feel free to be in touch via our
+mailing list or any of our social media channels.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone/
+.. _`Meg Ford`: http://fordmeg.blogspot.com/
+.. _`Michael Larabel`: http://www.michaellarabel.com/
+.. _`Wayland`: https://en.wikipedia.org/wiki/Wayland_%28display_server_protocol
+.. _`Phoronix`: http://www.phoronix.com

@@ -1,0 +1,17 @@
+March 2013 Meeting and Hackfest of the ChicagoLUG
+=================================================
+
+:date: 2013-03-23 12:00
+:tags: Joel Luellwitz, Security
+:category: Meetings
+:slug: meetings/2013-03-23
+:summary: Evil Joel Luellwitz will be presenting an Introduction to Linux Security.
+ 
+Our next meeting is set for Saturday, March 23rd, starting at 12:00pm. Joel
+Luellwitz will be presenting on Linux utilities, technologies and best
+practices concerning authentication and security. Part of his focus will be on
+what can go wrong if these tools are used improperly.
+
+People of all ability levels are welcome to join us, learn more GNU/Linux, 
+and contribute. If you have any questions, feel free to be in touch via our
+mailing list or any of our social media channels.

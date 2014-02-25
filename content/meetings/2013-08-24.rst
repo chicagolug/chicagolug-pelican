@@ -1,0 +1,47 @@
+August 2013 meeting and hackfest of the ChicagoLUG
+==================================================
+
+:date: 2013-08-24 12:00
+:tags: Bonnie King, Gregorie Thomas, Scientific Linux, Security
+:category: Meetings
+:slug: meetings/2013-08-24
+:summary: Learn about Scientific Linux and how the team at Fermilab puts it together, and also learn a bit about server security from a Linux sysadmin.
+ 
+We've scheduled our August meeting for Saturday, August 24th, starting at
+12:00pm at `Pumping Station: One`_. Early birds typically start showing up by
+about 11:40 or so. All are welcome.
+
+Speaking Topics
+---------------
+
+Bonnie King of `Fermilab`_ will be giving a talk on
+`Scientific Linux`_, a Linux distribution built from publicly available open
+source SRPMS provided by "a prominent North American Enterprise Linux vendor."
+From the website, "Scientific Linux is a Linux release put together by
+Fermilab, `CERN`_, and various other labs and universities around the world.
+Its primary purpose is to reduce duplicated effort of the labs, and to have a
+common install base for the various experimenters." 
+
+Gregorie Thomas will also present on basic linux server security.
+
+Hacking
+-------
+
+As per usual, several of us will hack on GNOME-related projects, but feel free
+to bring whatever project that you want to work on.
+
+If you need help with setting-up or fixing your computer, please let us know
+in advance so that we can plan accordingly.
+
+Foodstuffs
+----------
+
+Some funds for food and drink are supplied by the `GNOME Foundation`_,
+but it's typically a good idea to bring a few dollars if you want to partake
+of pizza and drinks.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone/
+.. _`Fermilab`: https://www.fnal.gov/
+.. _`Scientific Linux`: https://www.scientificlinux.org/
+.. _`CERN`: http://home.web.cern.ch/
+.. _`GNOME Foundation`: https://www.gnome.org/foundation/

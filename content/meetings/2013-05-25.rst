@@ -1,0 +1,41 @@
+May 2013 Meeting and Hackfest of the ChicagoLUG
+===============================================
+
+:date: 2013-05-25 12:00
+:tags: William Giokas, George Lesica, systemd, The R Project
+:category: Meetings
+:slug: meetings/2013-05-25
+:summary: William Giokas will take us into the world of systemd without insulting Lennart Poettering. George Lesica will show off some of the handy statistical features of the R project.
+ 
+We've scheduled our May meeting for Saturday, May 25th, starting at 12:00pm
+at `Pumping Station: One`_. Early birds typically start showing up by about
+11:40 or so. If you're there early, just sit tight. If you show up late, please
+knock loudly on the door so we can hear you from upstairs.
+
+Speaking Topics
+---------------
+
+William Giokas is set to talk on `systemd`_,  and George Lesica is also
+tentatively set to speak on `R`_. We will provide final confirmation as we get
+closer to the meeting date.
+
+Hacking
+-------
+
+As per usual, several of us will hack on GNOME-related projects, but feel free
+to bring whatever project that you want to work on.
+
+If you need help with setting-up or fixing your computer, please let us know
+in advance so that we can plan accordingly.
+
+Foodstuffs
+----------
+
+Some funds for food and drink are supplied by the `GNOME Foundation`_, but it's
+typically a good idea to bring a few dollars if you want to partake of pizza
+and drinks.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone/
+.. _`systemd`: http://www.freedesktop.org/wiki/Software/systemd
+.. _`R`: http://r-project.org
+.. _`GNOME Foundation`: https://www.gnome.org/foundation/
