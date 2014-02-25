@@ -12,4 +12,4 @@ ChicagoLUG DevOps Team
 
 .. class:: center
 
-           No laser pointers in the operations center, please.
+           cat who-knew-they-could-do-this.txt | tail > theyre-so-cool.txt
