@@ -6,7 +6,7 @@ sys.path.append('./')
 
 #Initial Settings
 DATE_FORMATS = {
-        u'en': u'%Y-%m-%d',
+        u'en': u'%A %B %d, %Y, at %I:%M %p',
     }
 DEFAULT_DATE = ('fs')
 DEFAULT_LANG = u'en'
@@ -14,17 +14,26 @@ DEFAULT_PAGINATION = 6
 SUMMARY_MAX_LENGTH = (2000)
 DISPLAY_PAGES_ON_MENU = (False)
 FILENAME_METADATA = u'.*(?P<date>\d{4}-\d{2}-\d{2}).*'
-SITENAME = u'Chicago GNU/Linux User Group'
+SITENAME = u'The Chicago GNU/Linux User Group'
 # SITEURL  = u'http://localhost:8000'
-SITEURL  = u'http://chicagolug.org'
+SITEURL  = 'http://chicagolug.org'
 THEME = './korgi'
 TIMEZONE = 'America/Chicago'
+DELETE_OUTPUT_DIRECTORY = (True)
+#ARTICLE_URL = '{slug}/'
+#ARTICLE_SAVE_AS = '{slug}'
+#CATEGORY_URL = 'category/{slug}/'
+#CATEGORY_SAVE_AS = 'category/{slug}'
+#PAGE_URL = 'pages/{slug}/'
+#PAGE_SAVE_AS = 'pages/{slug}'
+#TAG_URL = 'tag/{slug}/'
+#TAG_SAVE_AS = 'tag/{slug}'
 
 #Path Configs
+#RELATIVE_URLS = (True)
 RELATIVE_URLS = (True)
-#RELATIVE_URLS = (False)
 RESPONSIVE_IMAGES = (True)
-STATIC_PATHS = (['corporate', 'images', 'static'])
+STATIC_PATHS = (['images', 'static'])
 
 FEED_DOMAIN = ('http://chicagolug.org')
 TAG_FEED_ATOM = (None)
