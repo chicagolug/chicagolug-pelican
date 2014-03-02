@@ -340,3 +340,9 @@ li.tag-0 {
 li.tag-1 {
     font-size: 120%;
 }
+
+div.meeting {
+    margin-bottom: 20px;
+    border-left: medium dotted #A5A5A5;
+    padding-left: 10px;
+}

@@ -13,9 +13,13 @@
                 <article>
                     <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1> 
                     {% if article.category == 'Meetings' %}
-                        {% include 'article_infos.html' %}
+                    <h4><p><strong>Meeting Date</strong>: {{ article.locale_date }}</br>
+                    <strong>Tags</strong>{% for tag in article.tags %} -
+                    <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> {% endfor %}</p></h4>
                     {% elif article.category == 'News' %}
-                        {% include 'article_infos.html' %}
+                    <h4><p><strong>Posted</strong>: {{ article.locale_date }}</br>
+                    <strong>Tags</strong>{% for tag in article.tags %} -
+                    <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> {% endfor %}</p></h4>           
                     {% else %}
                     {% endif %}{{ article.content }}{% include 'comments.html' %}
                 </article>
@@ -42,12 +46,6 @@
                 </header>
                 
                 <div class="entry-content">
-                {% if article.category == 'Meetings' %}
-                    {% include 'article_infos.html' %}
-                {% elif article.category == 'News' %}
-                    {% include 'article_infos.html' %}
-                {% else %}
-                {% endif %}
                 {{ article.summary }}
                 <a class="readmore" href="{{ SITEURL }}/{{ article.url }}">read more</a>
                 {% include 'comments.html' %}

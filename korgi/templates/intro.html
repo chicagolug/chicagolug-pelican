@@ -13,11 +13,25 @@
     Free and open-source software, consider joining us.</p> 
     
     <h2>Meeting Information</h2>
+    <p>ChicagoLUG meetings and events usually take place at a local technology
+    cooperative or coffee shop. Keep an eye on this site and any of our social
+    media outlets for meeting announcements.</p>
+    <div class="meeting">
+    {% if articles %}
+        {% for article in articles_page.object_list %}        
 
-    <p>ChicagoLUG meetings and events usually take place at a local 
-    technology cooperative or coffee shop. Keep an eye on this site and any of
-    our social media outlets for meeting announcements.</p>
-
+        {# First item #}
+        {% if loop.first and not articles_page.has_previous() %}
+            {% if article.category == 'Meetings' %}
+            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></br>
+            Our next meeting will be held on {{ article.locale_date }}.</br>
+            {{ article.summary }}
+        {% else %}
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+    {% endif %}
+    </div>
     </article>
 </aside>
 
