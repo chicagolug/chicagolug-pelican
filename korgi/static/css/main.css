@@ -18,12 +18,12 @@ body {
 #banner {
     text-align: center;
     background: #FFFFFF;
-    margin: 0em auto;
-    padding: 1em;
-    width: 65%;
+    margin: 0em auto 1em auto;
+    padding: 1em 1em 1.25em 1em;
+    width: 80%;
     border: thin solid;
-    border-color: #DDDACF #CCC8B8 #BBB59F;
-    box-shadow: 0 0.1em 0.3em #CCC8B8;
+    border-color: #FFFFFF #EFEFEF #E8E5E5;
+    box-shadow: 0 0.1em 0.3em #EAE7E7;
     border-bottom-right-radius: 0.5em;
     border-bottom-left-radius: 0.5em;
 }
@@ -36,8 +36,9 @@ body {
     background-size: contain;
     float: right;
 }
+
 #banner h1 {
-    margin: 0 0 0.45em;
+    margin: 0 auto 0.45em auto;
     text-shadow: 3px 3px 0 #F8F4EE;
     font-size: 3em;
 }
@@ -46,9 +47,9 @@ body {
     transition: none;
 }
 #banner ul {
-    padding: 0;
+    padding: 0 0 0 0;
     margin: 0;
-    font-size: 1.1em;
+    font-size: 1.25em;
     font-weight: bold;
     list-style: none;
 }
@@ -108,7 +109,7 @@ hr {
     width: 16em;
     float: right;
     background: #FFD133;
-    box-shadow: -0.1em -0.3em 0.5em #B39223 inset;
+    box-shadow: -0.1em -0.3em 0.5em #B0B0B0 inset;
     color: #4C3D00;
     border-radius: 0.5em;
     margin: 1em 2.2em 4em 0;
@@ -156,20 +157,20 @@ hr {
     float: right;
     text-align: center;
     width: 25%;
-    background: #D9D9D9;
+    background: #f3f3f3;
     color: #827A5E;
     border: thin solid #929292;
-    box-shadow: 0 0.1em 0.2em #929292 inset;
+    box-shadow: 0 0.1em 0.175em #929292 inset;
     border-radius: 0.5em;
     padding: 0.5em 1em;
     margin: 0 0 1em 1em;
-    font-size: 80%;
+    font-size: 85%;
 }
 .post-info p {
     margin: 0.25em 0 0;
 }
 #featured .post-info {
-    margin-top: 1.25em;
+    margin-top: 1.25em;%
 }
 
 .literal-block {
@@ -185,10 +186,10 @@ hr {
     background: #FFFFFF;
     margin: 1.5em auto;
     padding: 1em;
-    width: 65%;
+    width: 80%;
     border: thin solid;
-    border-color: #DDDACF #CCC8B8 #BBB59F;
-    box-shadow: 0 0.1em 0.3em #CCC8B8;
+    border-color: #FFFFFF #EFEFEF #E8E5E5;
+    box-shadow: 0 0.1em 0.3em #EAE7E7;
     border-radius: 0.5em;
 }
 
@@ -247,23 +248,24 @@ a.readmore:active {
 #extras {
     margin: 0em auto;
     padding: 0em auto 1em auto;
-    width: 67.5%;
+    width: 82.5%;
 }
 #extras > div {
     background: #FFFFFF;
     border: thin solid;
-    border-color: #DDDACF #CCC8B8 #BBB59F;
-    box-shadow: 0 0.1em 0.3em #CCC8B8;
+    border-color: #FFFFFF #EFEFEF #E8E5E5;
+    box-shadow: 0 0.1em 0.3em #EAE7E7;
     border-radius: 0.5em;
     height: 8.5em;
+    font-size: 100%;
 }
 #extras > .blogroll {
     float: left;
-    width: 53%;
+    width: 55%;
     padding: 0 1em;
 }
 #extras > .blogroll li {
-    width: 33%;
+    width: 35%;
     float: left;
 }
 #extras > .social {
