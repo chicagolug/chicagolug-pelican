@@ -23,7 +23,7 @@ body {
     width: 80%;
     border: thin solid;
     border-color: #FFFFFF #EFEFEF #E8E5E5;
-    box-shadow: 0 0.1em 0.3em #EAE7E7;
+    box-shadow: 0 0.1em 0.3em #C7C7C7;
     border-bottom-right-radius: 0.5em;
     border-bottom-left-radius: 0.5em;
 }
@@ -109,7 +109,7 @@ hr {
     width: 16em;
     float: right;
     background: #FFD133;
-    box-shadow: -0.1em -0.3em 0.5em #B0B0B0 inset;
+    box-shadow: -0.1em -0.3em 0.5em #C7C7C7 inset;
     color: #4C3D00;
     border-radius: 0.5em;
     margin: 1em 2.2em 4em 0;
@@ -189,7 +189,7 @@ hr {
     width: 80%;
     border: thin solid;
     border-color: #FFFFFF #EFEFEF #E8E5E5;
-    box-shadow: 0 0.1em 0.3em #EAE7E7;
+    box-shadow: 0 0.1em 0.3em #C7C7C7;
     border-radius: 0.5em;
 }
 
@@ -253,8 +253,8 @@ a.readmore:active {
 #extras > div {
     background: #FFFFFF;
     border: thin solid;
-    border-color: #FFFFFF #EFEFEF #E8E5E5;
-    box-shadow: 0 0.1em 0.3em #EAE7E7;
+    border-color: #DBD9D9 #EFEFEF #E8E5E5;
+    box-shadow: 0 0.1em 0.3em #C7C7C7;
     border-radius: 0.5em;
     height: 8.5em;
     font-size: 100%;
