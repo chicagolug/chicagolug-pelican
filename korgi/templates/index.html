@@ -14,14 +14,14 @@
                     <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
                         {% if article.category == 'Meetings' %}
                         <div class="post-details">
-                        <strong>Meeting Date</strong>: {{ article.locale_date }}</br>
-                        <strong>Tags</strong>{% for tag in article.tags %} -
+                        {{ article.locale_date }}</br>
+                        Featuring {% for tag in article.tags %} -
                         <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> {% endfor %}
                         </div>
                         {% elif article.category == 'News' %}
                         <div class="post-details">
-                        <strong>Posted</strong>: {{ article.locale_date }}</br>
-                        <strong>Tags</strong>{% for tag in article.tags %} -
+                        Posted on {{ article.locale_date }}</br>
+                        Tags{% for tag in article.tags %} -
                         <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> {% endfor %}
                         </div>
                         {% else %}
