@@ -10,9 +10,52 @@ Hello, World
 Greetings
 ---------
 
-This is just a test post to see how various formatting elements will be handled
-by this flask-based blog. It's a flat-file blog, integrated into the rest of
-our flask-based website. 
+This is an example post to show how various formatting elements can be
+entered when creating a blog entry.
+
+Post Metadata
+-------------
+
+Blog posts should have the following metadata at the top of the article:
+
+.. code-block:: text
+
+    Hello, World
+    ============
+
+    :author: Bill Gates, Abe Lincoln, Mr T
+    :summary: Include a full article summary, and put it all on one continuous line. What you type here will show as the post description on the post archive pages
+    :date: YYYY-MM-DD HH:MM
+    :category: News (all blog posts should be under this category)
+    :tags: Tag One, Tag Two, Another Tag
+
+
+Post Sections
+-------------
+
+Here's how you can enter different sections. Note that the *underline* elements
+need to be as long as the heading text.
+
+.. code-block:: text
+    
+    First-Level Section Heading
+    ---------------------------
+    
+    Second-Level Section Heading
+    ****************************
+
+And here's an example of what the two types section headings look like:
+    
+First-Level Section Heading
+---------------------------
+
+Turnip greens yarrow ricebean rutabaga endive cauliflower sea lettuce kohlrabi
+amaranth water spinach avocado daikon napa cabbage asparagus winter purslane. 
+    
+Second-Level Section Heading
+****************************
+Nori grape silver beet broccoli kombu beet greens fava bean potato quandong
+celery. 
 
 Formatting and such
 -------------------
