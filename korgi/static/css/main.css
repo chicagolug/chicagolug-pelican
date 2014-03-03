@@ -325,7 +325,7 @@ p.center {
 }
 
 ul.tagcloud {
-  list-style: none;
+    list-style: none;
     padding: 0;
 }
 
@@ -344,5 +344,12 @@ li.tag-1 {
 div.meeting {
     margin-bottom: 20px;
     border-left: medium dotted #A5A5A5;
-    padding-left: 10px;
+    padding-left: 1em;
+}
+
+div.post-details {
+    font-size: 105%;
+    border-left: medium dotted #A5A5A5;
+    margin: 0.75em 0 0 0;
+    padding: 0 0 0 1em;
 }

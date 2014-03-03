@@ -10,18 +10,23 @@
         {# First item #}
         {% if loop.first and not articles_page.has_previous() %}
             <aside id="featured" class="body">
-                <article>
-                    <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1> 
-                    {% if article.category == 'Meetings' %}
-                    <h4><p><strong>Meeting Date</strong>: {{ article.locale_date }}</br>
-                    <strong>Tags</strong>{% for tag in article.tags %} -
-                    <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> {% endfor %}</p></h4>
-                    {% elif article.category == 'News' %}
-                    <h4><p><strong>Posted</strong>: {{ article.locale_date }}</br>
-                    <strong>Tags</strong>{% for tag in article.tags %} -
-                    <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> {% endfor %}</p></h4>           
-                    {% else %}
-                    {% endif %}{{ article.content }}{% include 'comments.html' %}
+                <article>                
+                    <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
+                        {% if article.category == 'Meetings' %}
+                        <div class="post-details">
+                        <strong>Meeting Date</strong>: {{ article.locale_date }}</br>
+                        <strong>Tags</strong>{% for tag in article.tags %} -
+                        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> {% endfor %}
+                        </div>
+                        {% elif article.category == 'News' %}
+                        <div class="post-details">
+                        <strong>Posted</strong>: {{ article.locale_date }}</br>
+                        <strong>Tags</strong>{% for tag in article.tags %} -
+                        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> {% endfor %}
+                        </div>
+                        {% else %}
+                        {% endif %}
+                    {{ article.content }}{% include 'comments.html' %}
                 </article>
                 {% if loop.length == 1 %}
                     {% include 'pagination.html' %}

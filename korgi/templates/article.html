@@ -8,15 +8,17 @@
         <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
            title="Permalink to {{ article.title|striptags }}">{{ article.title}}</a></h1>
            {% if article.category == 'Meetings' %}
-           <h4><strong>Meeting Date</strong>: 
-           {{ article.locale_date }}</br>
+           <div class="post-details">
+           <strong>Meeting Date</strong>: {{ article.locale_date }}</br>
            <strong>Tags</strong>{% for tag in article.tags %} -
-           <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> {% endfor %}</p></h4>
+           <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> {% endfor %}
+           </div>
            {% elif article.category == 'News' %}
-           <h4><strong>Posted</strong>:
-           {{ article.locale_date }}</br>
+           <div class="post-details">
+           <strong>Posted</strong>: {{ article.locale_date }}</br>
            <strong>Tags</strong>{% for tag in article.tags %} -
-           <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> {% endfor %}</p></h4>
+           <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a> {% endfor %}
+           </div>
            {% else %}
            {% endif %}
            {% include 'twitter.html' %}
