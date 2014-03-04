@@ -347,9 +347,16 @@ div.meeting {
     padding-left: 1em;
 }
 
-div.post-details {
+div.meeting-details {
     font-size: 105%;
     border-left: medium dotted #A5A5A5;
     margin: 0.75em 0 0 0;
     padding: 0 0 0 1em;
+}
+
+div.news-details {
+    display: block;
+    text-align: right;
+    padding: 0 1em 0 0;
+    font-size: 90%;
 }
