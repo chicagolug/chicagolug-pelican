@@ -36,7 +36,7 @@ it's typically a good idea to bring a few dollars if you want to partake of
 pizza and drinks.
 
 
-.. _`Pumping Station: One`: http://chicagolug.org/locations/psone
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
 .. _`William Giokas`: http://git.kaictl.net/
 .. _`Arch Linux`: https://www.archlinux.org/
 .. _`GNOME Foundation`: https://www.gnome.org/foundation/

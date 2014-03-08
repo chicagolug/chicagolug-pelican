@@ -30,7 +30,7 @@ People of all ability levels are welcome to join us, learn more GNU/Linux,
 and contribute. If you have any questions, feel free to be in touch via our
 mailing list or any of our social media channels.
 
-.. _`Pumping Station: One`: http://chicagolug.org/locations/psone
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
 .. _`Meg Ford`: http://fordmeg.blogspot.com/
 .. _`Michael Larabel`: http://www.michaellarabel.com/
 .. _`Wayland`: https://en.wikipedia.org/wiki/Wayland_%28display_server_protocol

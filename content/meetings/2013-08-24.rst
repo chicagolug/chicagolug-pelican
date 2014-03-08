@@ -40,7 +40,7 @@ Some funds for food and drink are supplied by the `GNOME Foundation`_,
 but it's typically a good idea to bring a few dollars if you want to partake
 of pizza and drinks.
 
-.. _`Pumping Station: One`: http://chicagolug.org/locations/psone
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
 .. _`Fermilab`: https://www.fnal.gov/
 .. _`Scientific Linux`: https://www.scientificlinux.org/
 .. _`CERN`: http://home.web.cern.ch/

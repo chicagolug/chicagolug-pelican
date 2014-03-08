@@ -35,7 +35,7 @@ Some funds for food and drink are supplied by the `GNOME Foundation`_, but it's
 typically a good idea to bring a few dollars if you want to partake of pizza
 and drinks.
 
-.. _`Pumping Station: One`: http://chicagolug.org/locations/psone
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
 .. _`systemd`: http://www.freedesktop.org/wiki/Software/systemd
 .. _`R`: http://r-project.org
 .. _`GNOME Foundation`: https://www.gnome.org/foundation/
