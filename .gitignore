@@ -1,6 +1,5 @@
 draft/
 fabfile.py
-Makefile
 output/
 venv
 pelican_upload.py
