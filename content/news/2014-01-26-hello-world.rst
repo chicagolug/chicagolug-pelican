@@ -5,6 +5,7 @@ Hello, World
 :summary: Let's try out the bloggings
 :date: 2014-01-26 11:05
 :category: News
+:slug: news/2014-01-26-hello-world
 :tags: Testing
 
 This is an example post to show how various formatting elements can be
@@ -25,6 +26,7 @@ Blog posts should have the following metadata at the top of the article:
     :summary: Include a full article summary, and put it all on one continuous line. What you type here will show as the post description on the post archive pages
     :date: YYYY-MM-DD HH:MM
     :category: News (all blog posts should be under this category)
+    :slug: news/YYYY-MM-DD-hello-world
     :tags: Tag One, Tag Two, Another Tag
     
 Without that metadata, the blog post won't post at all. We'll all be sad.

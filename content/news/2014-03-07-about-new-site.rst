@@ -3,8 +3,9 @@ Welcome to Our New Home!
 
 :author: Jim Campbell
 :summary: We've updated the ChicagoLUG.org website. Learn how it's all put together, and how you can put it together, too.
-:date: 2014-03-07 19:05
+:date: 2014-03-09 19:05
 :category: News
+:slug: news/2014-03-09-about-new-site
 :tags: Website, Pelican, Git, Virtualenv
 
 Welcome to the new ChicagoLUG.org. We've rebased this site on `Pelican`_, the
