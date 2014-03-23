@@ -2,7 +2,7 @@ Hello, World
 ============
 
 :author: ChicagoLUG
-:summary: Let's try out the bloggings
+:summary: Let's try out the bloggings. This article outlines how to create and format a basic page as part of this website.
 :date: 2014-01-26 11:05
 :category: News
 :slug: news/2014-01-26-hello-world
@@ -68,11 +68,11 @@ To create code blocks, insert the code-block directive. It looks like this:
 
   .. code-block:: text
 
-  Start it out with the two dots, a space, two colons, and then the type of
-  code you're typing in to the post.
-  
-  Once you go back to non-indented text, the code-block will end. It will do
-  it like magic. You barely have to do anything.
+      Start it out with the two dots, a space, two colons, and then the type of
+      code you're typing in to the post.
+
+      Once you go back to non-indented text, the code-block will end. It will
+      do it like magic. You barely have to do anything.
 
 What if we want to include a picture? We can do that, too.
 

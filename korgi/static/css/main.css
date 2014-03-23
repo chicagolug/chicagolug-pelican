@@ -144,15 +144,6 @@ hr {
     text-align: right;
 }
 
-#releases {
-    clear:both;
-    width: 100%;
-    margin-bottom: 0.25em;
-}
-#releases tr:nth-child(2n+1) {
-    background-color: #F7F6F1;
-}
-
 .post-info {
     float: right;
     text-align: center;
