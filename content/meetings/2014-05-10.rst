@@ -30,14 +30,12 @@ Foodstuffs
 ----------
 
 We're going to be creative about footstuffs this month, venturing away from
-the great but pricey `Pat's Pizza`_, and trying something new. Perhaps
+the great but pricey `Pat's Pizza`_, and try something new. Perhaps
 `Pizza Metro`_, as they make a good pie and have some sweet coupons. 
 
 It's typically a good idea to bring a few dollars if you want to partake
-of pizza, but you aren't required to donate.
-
-Bringing a beverage of your choice to share is always welcome, too. Not
-everyone drinks beer, so feel free to be creative if you so desire.
+of pizza, but you aren't required to donate. You can also bring a beverage
+to share if you want to.
 
 .. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
 .. _`middle relay`: https://www.eff.org/torchallenge/what-is-tor
