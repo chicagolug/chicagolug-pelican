@@ -1,0 +1,21 @@
+ChicagoLUG at the Flourish Conference
+=====================================
+
+:date: 2014-04-05 09:00
+:tags: Conference Presentations
+:category: Meetings
+:slug: meetings/2014-04-05
+:summary: The Flourish Conference promotes the use and adoption of Free Libre Open Source Software (FLOSS) by demonstrating the practical applications of FLOSS in the business and academic world.
+
+Members of ChicagoLUG will be participating at `Flourish`_, an open-source
+conference organized by students at the University of Illinois at Chicago. This
+year's event will take place on Saturday, April 5th, `at the UIC Campus`_.
+
+The `conference schedule`_ is pretty packed. If you have
+some breaks between sessions, though, stop by the `Mini-Expo`_. We'll have a
+booth there, and it would be great if you'd stop by and say hello.
+
+.. _`Flourish`: http://flourishconf.com/2014/
+.. _`at the UIC Campus`: http://flourishconf.com/2014/directions.php
+.. _`conference schedule`: http://flourishconf.com/2014/schedule.php
+.. _`Mini-Expo`: http://flourishconf.com/2014/miniexpo.php
