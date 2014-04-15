@@ -1,0 +1,46 @@
+May 2014 Meeting of the ChicagoLUG
+==================================
+
+:date: 2014-05-10 14:00
+:tags: Freddy Martinez, Tor
+:category: Meetings
+:slug: meetings/2014-05-10
+:summary: Learn how to deploy a TOR middle relay, and more! (Some topics are still TBD.)
+
+We've scheduled our next meeting for Saturday, May 10th, with formal talks
+starting at 2:00 pm. We'll be meeting at the most excellent hackerspace,
+`Pumping Station: One`_.
+
+We're also likely to have time for working on projects together, and will provide more
+info about that as we get closer to the meeting date.
+
+
+Speaking Topics
+---------------
+
+Freddy Martinez will take us through building and deploying our own TOR `middle
+relay`_. This marks a continuation of rather technical, security and privacy related
+talks at ChicagoLUG.
+
+We'll have an additional speaker lined up in time for the meeting, but our second
+speaker is currently TBD.
+
+
+Foodstuffs
+----------
+
+We're going to be creative about footstuffs this month, venturing away from
+the great but pricey `Pat's Pizza`_, and trying something new. Perhaps
+`Pizza Metro`_, as they make a good pie and have some sweet coupons. 
+
+It's typically a good idea to bring a few dollars if you want to partake
+of pizza, but you aren't required to donate.
+
+Bringing a beverage of your choice to share is always welcome, too. Not
+everyone drinks beer, so feel free to be creative if you so desire.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
+.. _`middle relay`: https://www.eff.org/torchallenge/what-is-tor
+.. _`Pat's Pizza`: http://patspizza.info/
+.. _`Pizza Metro`: http://pizzametro.com
+
