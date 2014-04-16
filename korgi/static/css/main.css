@@ -1,7 +1,7 @@
 /** Fifty shades of Tux
  * A black, white and yellow css for kernel.org based on normalize.css
  * MIT License
- * BenoÃ®t Monin [benoit.monin gmx.fr]
+ * Benoît Monin [benoit.monin gmx.fr]
  */
 
 @import "normalize.css";
@@ -108,29 +108,29 @@ a:active {
     text-decoration: none;
 }
 
-abbr[title] {
+/**abbr[title] {
     border: none;
 }
-
+**/
 hr {
     border: none;
 }
 
-.post-info p {
+/**.post-info p {
     margin: 0.25em 0 0;
 }
-#featured .post-info {
+**//**#featured .post-info {
     margin-top: 1.25em;%
 }
-
-.literal-block {
+**/
+/**.literal-block {
     background: #f3f3f3;
     border: thin solid #ccc;
     border-radius: 0.3em;
     padding: 0.5em;
     font-size: 90%;
 }
-
+**/
 #featured,
 #content {
     background: #FFFFFF;
@@ -152,16 +152,16 @@ article h1 > a {
     transition: none;
 }
 
-table.docutils {
+/**table.docutils {
     margin: 0 auto;
     width: 80%;
 }
-table.docutils > caption {
+**//**table.docutils > caption {
     margin: 0.5em 0;
     text-align: left;
     font-weight: bold;
 }
-
+**/
 a.readmore {
     font-style: italic;
     color: #6A84E0;
@@ -273,20 +273,20 @@ p.center {
     text-align: center;
 }
 
-ul.tagcloud {
+/**ul.tagcloud {
     list-style: none;
     padding: 0;
 }
-
-ul.tagcloud li {
+**/
+/**ul.tagcloud li {
     display: inline-block;
 }
-
-li.tag-0 {
+**/
+/**li.tag-0 {
     font-size: 150%;
 }
-
-li.tag-1 {
+**/
+/**li.tag-1 {
     font-size: 120%;
 }
-
+**/
