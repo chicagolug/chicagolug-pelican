@@ -34,6 +34,7 @@ DELETE_OUTPUT_DIRECTORY = (True)
 RELATIVE_URLS = (True)
 RESPONSIVE_IMAGES = (True)
 STATIC_PATHS = (['images', 'static'])
+MENUITEMS = (('Media', 'http://media.chicagolug.org'),)
 
 FEED_DOMAIN = ('http://chicagolug.org')
 TAG_FEED_ATOM = (None)

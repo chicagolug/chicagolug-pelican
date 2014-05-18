@@ -30,9 +30,6 @@
 	        <div id="tux-gear"></div>
                 <h1><a href="{{ SITEURL }}/">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a></h1>
                 <nav><ul>
-                {% for title, link in MENUITEMS %}
-                    <li><a href="{{ link }}">{{ title }}</a></li>
-                {% endfor %}
                 {% if DISPLAY_PAGES_ON_MENU %}
                 {% for page in PAGES %}
                     <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
@@ -40,6 +37,9 @@
                 {% endif %}
                 {% for cat, null in categories %}
                     <li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+                {% endfor %}
+		{% for title, link in MENUITEMS %}
+		    <li><a href="{{ link }}">{{ title }}</a></li>
                 {% endfor %}
                 </ul>
                 </nav>

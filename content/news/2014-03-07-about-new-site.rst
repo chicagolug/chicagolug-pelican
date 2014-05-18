@@ -89,7 +89,7 @@ operating system:
     
     $ source venv/bin/activate
     
-    $ pip install pelican typogrify pygments
+    $ pip install pelican typogrify pygments beautifulsoup4 pillow
 
 It will take a bit of time for the various Python packages (and their
 dependencies) to get installed. Now might be a good time to take a sip or two
