@@ -36,9 +36,9 @@ Post-Meeting Social Time
 
 Have you noticed that it's not 16 degrees below zero lately? We've noticed.
 We'd like to celebrate by spending some time socializing at
-`Chief O'Neil's Pub`_, which is just down the block from our meeting space.
+`Chief O'Neill's Pub`_, which is just down the block from our meeting space.
 We'll be making our way down to the pub after our meeting.
 
 .. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
 .. _`OpenVPN`: http://www.openvpn.net
-.. _`Chief O'Neil's Pub`: http://chiefoneillspub.com/
+.. _`Chief O'Neill's Pub`: http://chiefoneillspub.com/
