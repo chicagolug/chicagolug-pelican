@@ -1,0 +1,44 @@
+June 2014 Meeting of the ChicagoLUG
+==================================== 
+:date: 2014-06-28 14:00
+:tags: Jim Campbell, OpenVPN,
+:category: Meetings
+:slug: meetings/2014-06-28
+:summary: We'll take a look at VPN by deploying our own OpenVPN server. With our server set up, we'll also give client certificates to members of the LUG so that we can connect to the server while at hotels, airports, coffee shops and other less-than-secure networks. 
+
+We're planning two presentations for our June meeting, and we're also planning
+to venture out to a neighborhood pub for post-meeting socializing. We hope
+that you'll be able to join us!
+
+The meeting is set for Saturday, June 28th, starting at 2:00pm. We'll be
+meeting at `Pumping Station: One`_.
+
+Speaking Topics
+---------------
+
+We have SSH - why don't we just use SSH? It's easy to set up and use. Why use
+VPN? What advantages does VPN provide?  We'll explore these questions as Jim
+Campbell takes us through how to set up and use our own `OpenVPN`_ server.
+
+We also have one open speaking slot. If you'd like to give a talk, please
+let us know!
+
+Foodstuffs
+----------
+
+We will have food! Probably pizza! At least a few of us typically bring some
+beverage to share, as well. We're a community-run organization, so we
+recommend bringing a few dollars if you'd like to partake of the food. No one
+will be denied a slice of tasty pizza for inability to chip-in, though.
+
+Post-Meeting Social Time
+------------------------
+
+Have you noticed that it's not 16 degrees below zero lately? We've noticed.
+We'd like to celebrate by spending some time socializing at
+`Chief O'Neil's Pub`_, which is just down the block from our meeting space.
+We'll be making our way down to the pub after our meeting.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
+.. _`OpenVPN`: http://www.openvpn.net
+.. _`Chief O'Neil's Pub`: http://chiefoneillspub.com/
