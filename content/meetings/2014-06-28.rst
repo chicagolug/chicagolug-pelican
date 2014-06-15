@@ -1,6 +1,6 @@
 June 2014 Meeting of the ChicagoLUG
 ==================================== 
-:date: 2014-06-28 14:00
+:date: 2014-06-28 15:00
 :tags: Jim Campbell, OpenVPN,
 :category: Meetings
 :slug: meetings/2014-06-28
@@ -10,7 +10,7 @@ We're planning two presentations for our June meeting, and we're also planning
 to venture out to a neighborhood pub for post-meeting socializing. We hope
 that you'll be able to join us!
 
-The meeting is set for Saturday, June 28th, starting at 2:00pm. We'll be
+The meeting is set for Saturday, June 28th, starting at 3:00pm. We'll be
 meeting at `Pumping Station: One`_.
 
 Speaking Topics
