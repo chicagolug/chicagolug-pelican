@@ -1,14 +1,13 @@
 June 2014 Meeting of the ChicagoLUG
 ==================================== 
 :date: 2014-06-28 15:00
-:tags: Jim Campbell, OpenVPN,
+:tags: Jim Campbell, Joshua Calloway, OpenVPN, Docker
 :category: Meetings
 :slug: meetings/2014-06-28
-:summary: We'll take a look at VPN by deploying our own OpenVPN server. With our server set up, we'll also give client certificates to members of the LUG so that we can connect to the server while at hotels, airports, coffee shops and other less-than-secure networks. 
+:summary: We have two talks lined-up for our June meeting - OpenVPN and Docker. With regards to OpenVPN, we'll look at how to set up a VPN server so that we can use the internet a bit more securely over less-than-secure networks. Additionally, we'll be exploring the new tool for building Linux containers, Docker. We'll get an introduction to how it works and how we can use it to deploy applications.
 
 We're planning two presentations for our June meeting, and we're also planning
-to venture out to a neighborhood pub for post-meeting socializing. We hope
-that you'll be able to join us!
+to venture out to a neighborhood pub for post-meeting socializing.
 
 The meeting is set for Saturday, June 28th, starting at 3:00pm. We'll be
 meeting at `Pumping Station: One`_.
@@ -16,12 +15,17 @@ meeting at `Pumping Station: One`_.
 Speaking Topics
 ---------------
 
-We have SSH - why don't we just use SSH? It's easy to set up and use. Why use
-VPN? What advantages does VPN provide?  We'll explore these questions as Jim
-Campbell takes us through how to set up and use our own `OpenVPN`_ server.
+We have two speaking topics lined-up for our June meeting: OpenVPN and Docker.
 
-We also have one open speaking slot. If you'd like to give a talk, please
-let us know!
+With regards to `OpenVPN`_, Jim Campbell will take us through why we use it, and
+what advantages it provides over something like basic SSH. Jim will also give
+us step-by-step instructions on how to set up and use our own OpenVPN server.
+
+In addition to that, Joshua Calloway will give us an introduction to `Docker`_,
+a software tool for building and managing Linux containers. Docker containers
+allow you to run the same application, unchanged, on laptops, data center VMs,
+and any cloud. We'll go through Docker setup, the Docker registry, creating
+Docker files, and will also have some time for demos and Q&A.
 
 Foodstuffs
 ----------
@@ -35,10 +39,12 @@ Post-Meeting Social Time
 ------------------------
 
 Have you noticed that it's not 16 degrees below zero lately? We've noticed.
-We'd like to celebrate by spending some time socializing at
-`Chief O'Neill's Pub`_, which is just down the block from our meeting space.
-We'll be making our way down to the pub after our meeting.
+We'd like to celebrate by spending some time socializing. We've selected
+`Chief O'Neill's Pub`_ as our venue of choice for our socializing, as it's just
+down the block from our meeting space. We'll be making our way down to the pub
+after our meeting, and we hope you'll be able to join us.
 
 .. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
 .. _`OpenVPN`: http://www.openvpn.net
+.. _`Docker`: http://docker.com
 .. _`Chief O'Neill's Pub`: http://chiefoneillspub.com/
