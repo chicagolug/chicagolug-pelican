@@ -27,6 +27,19 @@ allow you to run the same application, unchanged, on laptops, data center VMs,
 and any cloud. We'll go through Docker setup, the Docker registry, creating
 Docker files, and will also have some time for demos and Q&A.
 
+LUG Discussion Topics
+---------------------
+
+In between our two scheduled talks, we'll have some LUG-related news to
+discuss. Agenda items include:
+
+* LUG Member activities
+* Groupon and GNOME
+* Opportunities through the FSF and the Linux Foundation at LinuxCon North
+  America
+* Discussing LUG meeting space
+* Use of Rackspace Resources
+
 Foodstuffs
 ----------
 
