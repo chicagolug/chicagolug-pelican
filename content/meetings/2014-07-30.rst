@@ -1,0 +1,47 @@
+ChicagoLUG Certification Prep: Session One
+==========================================
+:date: 2014-07-30 18:30
+:tags: ChicagoLUG, Certification Prep
+:category: Meetings
+:slug: meetings/2014-07-30
+:summary: The first formal session in our Linux Certification Prep series.
+
+This will be the first formal session in our ongoing Linux Certification Prep
+series. We'll be meeting on Wednesday, July 30th in the first-floor lounge
+of `Pumping Station: One`_. Our discussions will begin at 6:30pm, and we
+anticipate that this session will run until about 8:00-8:30.
+
+Meeting Agenda & Request for RSVP
+----------------------------------
+
+At our last meeting we agreed to work from the `LPI`_ series of
+certifications, starting with the `Essentials`_ material, and proceeding
+to the information in the `LPIC-1`_ and `LPIC-2`_ exam objectives. We will
+be continuing through the *Essentials* material during this meeting.
+
+Space is limited to 20 participants, so please RSVP on our `meetup page`_ so
+we know who will be attending.
+
+If You Can't Make It
+********************
+
+Not everyone will be able to attend every session, so it is the responsibility
+of attendees to take good notes. 
+
+We'll be taking collaborative notes on our LUG Etherpad, and will make the
+notes available after the meeting.
+
+
+Official Statement of Welcomeness
+**********************************
+
+Everyone is welcome regardless of skill level. Yes, some people have more
+experience than others, but we can all learn from each other. These will be
+*group* learning sessions.  We hope to see you soon!
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
+.. _`LPI`: https://www.lpi.org/linux-certifications
+.. _`Essentials`: https://www.lpi.org/linux-certifications/entry-level-credential/linux-essentials
+.. _`LPIC-1`: https://www.lpi.org/linux-certifications/programs/lpic-1
+.. _`LPIC-2`: https://www.lpi.org/linux-certifications/programs/lpic-2
+.. _`meetup page`: http://www.meetup.com/Windy-City-Linux-Users-Group/events/197440622/

@@ -1,0 +1,32 @@
+ChicagoLUG Certification Prep: Session Zero
+===========================================
+:date: 2014-07-16 18:30
+:tags: ChicagoLUG, Certification Prep
+:category: Meetings
+:slug: meetings/2014-07-16
+:summary: The initial session of biweekly co-learning sessions dedicated to preparing for a Linux-related certification
+
+We're organizing a series of group sessions around certification prep, and
+this will be our initial session. We'll be meeting at the Lincoln Park
+`Whole Foods`_ on Wednesday, July 16th at 6:30pm. We anticipate that this
+session will run until about 8:00-8:30.
+
+Meeting Agenda & Request for RSVP
+----------------------------------
+
+As this is our first session, we'll be discussing each members' interests
+in pursuing a certification, assessing our collective level of skill, and
+deciding what certifications we want to pursue.
+
+Space is limited, so please RSVP on our `meetup page`_ so we know who will be
+attending.
+
+Official Statement of Welcomeness
+**********************************
+
+Everyone is welcome regardless of skill level. Yes, some people have more
+experience than others, but we can all learn from each other. These will be
+*group* learning sessions.  We hope to see you soon!
+
+.. _`Whole Foods`: http://www.wholefoodsmarket.com/stores/lincolnpark
+.. _`meetup page`: http://www.meetup.com/Windy-City-Linux-Users-Group/events/194335322/
