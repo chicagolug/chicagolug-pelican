@@ -4,7 +4,7 @@ ChicagoLUG Certification Prep: Session Zero
 :tags: ChicagoLUG, Certification Prep
 :category: Meetings
 :slug: meetings/2014-07-16
-:summary: The initial session of biweekly co-learning sessions dedicated to preparing for a Linux-related certification
+:summary: Our initial, let's-get-started Linux Certification Prep session.
 
 We're organizing a series of group sessions around certification prep, and
 this will be our initial session. We'll be meeting at the Lincoln Park
