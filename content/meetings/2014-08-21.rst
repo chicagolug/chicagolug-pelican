@@ -1,0 +1,26 @@
+GBeers @ LinuxCon Chicago
+==========================
+:date: 2014-08-21 20:00
+:tags: GNOME, GBeers, LinuxCon
+:category: Meetings
+:slug: meetings/2014-08-21
+:summary: Join other LinuxCon and Chicago GNOME'rs for GBeers, LinuxCon Chicago edition. We'll be getting together at Howell's & Hood, a restaurant and pub located just a short walk from the LinuxCon hotel.
+
+Join other GNOME users and developers for some conversation and GBeers
+refreshments along the Magnificent Mile. 
+
+We'll be getting together on Thursday, August 8th at 8:00pm, at
+`Howells & Hood`_ a restaurant and pub at 435 North Michigan Avenue. It's just
+`a two-block walk`_ from the LinuxCon hotel.
+
+Respondez S'il Vous Plait
+--------------------------
+
+We are likely to require reservations, so we're requesting that people RSVP on
+either our `meetup page`_ or the `GNOME Wiki`_. Thank you! We look forward to
+seeing you!
+
+.. _`Howells & Hood`: http://www.howellsandhood.com/
+.. _`a two-block walk`: http://goo.gl/maps/xevzw
+.. _`meetup page`: http://www.meetup.com/Windy-City-Linux-Users-Group/events/197649892/
+.. _`GNOME Wiki`: https://wiki.gnome.org/Events/LinuxConChicagoBeers
