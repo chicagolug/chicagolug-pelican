@@ -1,0 +1,26 @@
+August 2014 Meeting of the ChicagoLUG
+=====================================
+:date: 2014-08-23 14:00
+:tags: Meeting Details TBD
+:category: Meetings
+:slug: meetings/2014-08-23
+:summary: We've confirmed the date for our August, 2014, general meeting, but speakers are still TBD at this point. Let us know if you are interested in giving a talk. 
+
+We've confirmed our meeting date and time for our August, 2014, general
+meeting. We've decided on Saturday, August 23rd, starting at 2:00pm. 
+
+Please note that for this meeting we'll be getting together at a *new
+location*, `Free Geek Chicago`_! We hope you'll be able to join us!
+
+Speaking Topics
+---------------
+
+The meeting date is still a ways off, and we're still coordinating speakers
+for this month's meeting. If you're interested in giving a talk this month,
+please let us know.  
+
+We'll provide specific meeting details in the coming weeks as things get
+settled.
+
+.. _`Free Geek Chicago`: http://chicagolug.org/locations/freegeek-chicago.html
+
