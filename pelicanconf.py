@@ -15,19 +15,10 @@ SUMMARY_MAX_LENGTH = (2000)
 DISPLAY_PAGES_ON_MENU = (False)
 FILENAME_METADATA = u'.*(?P<date>\d{4}-\d{2}-\d{2}).*'
 SITENAME = u'The Chicago GNU/Linux User Group'
-# SITEURL  = u'http://localhost:8000'
 SITEURL  = 'http://chicagolug.org'
 THEME = './korgi'
 TIMEZONE = 'America/Chicago'
 DELETE_OUTPUT_DIRECTORY = (True)
-#ARTICLE_URL = '{slug}/'
-#ARTICLE_SAVE_AS = '{slug}'
-#CATEGORY_URL = 'category/{slug}/'
-#CATEGORY_SAVE_AS = 'category/{slug}'
-#PAGE_URL = 'pages/{slug}/'
-#PAGE_SAVE_AS = 'pages/{slug}'
-#TAG_URL = 'tag/{slug}/'
-#TAG_SAVE_AS = 'tag/{slug}'
 
 #Path Configs
 #RELATIVE_URLS = (True)
@@ -46,7 +37,7 @@ TAG_CLOUD_MAX_ITEMS = (100)
 
 #Plugin Configs
 PLUGIN_PATH = 'plugins'
-PLUGINS = ['html_rst_directive', 'better_figures_and_images']
+PLUGINS = ['html_rst_directive', 'better_figures_and_images', 'pin_to_top']
 
 # Blogroll
 LINKS =  (
@@ -61,6 +52,3 @@ LINKS =  (
 SOCIAL = (
 )
 
-# Commented config options
-#ARTICLE_URL = u'posts/{date:%Y}-{date:%m}-{date:%d}/{slug}.html'
-#ARTICLE_SAVE_AS = u'posts/{date:%Y}-{date:%m}-{date:%d}/{slug}.html'

@@ -4,6 +4,7 @@ ChicagoLUG Certification Prep: Session One
 :tags: ChicagoLUG, Certification Prep
 :category: Meetings
 :slug: meetings/2014-07-30
+:Pin: true
 :summary: The first formal session in our Linux Certification Prep series.
 
 This will be the first formal session in our ongoing Linux Certification Prep
