@@ -1,24 +1,50 @@
-GBeers @ LinuxCon Chicago
-==========================
+GBeers - LinuxCon Chicago Edition
+==================================
 :date: 2014-08-21 20:00
 :tags: GNOME, GBeers, LinuxCon
 :category: Meetings
 :slug: meetings/2014-08-21
-:summary: Join other LinuxCon and Chicago GNOME'rs for GBeers, LinuxCon Chicago edition. We'll be getting together at Howell's & Hood, a restaurant and pub located just a short walk from the LinuxCon hotel.
+:Pin: true
+:summary: Join fellow LinuxCon and Chicago enthusiasts for *GBeers: LinuxCon Chicago Edition*. GBeers is a global initiative for the purpose of getting GNOME enthusiasts and contributors together around a pint or two. While GBeers events often feature lightning talks about GNOME-related projects and technologies, this version of GBeers will be more casual, giving GNOME-friendly LinuxCon attendees a chance to hang out and chat at the end of a long conference day. We'll be getting together at Howell's & Hood, a restaurant and pub located just a short walk from the LinuxCon hotel.
 
-Join other GNOME users and developers for some conversation and GBeers
-refreshments along the Magnificent Mile. 
+You've had a long day at LinuxCon and want to unwind with a drink and some
+light-yet-interesting conversation, but you don't know where to go? Why not
+join some GNOME'rs for a few drinks at *GBeers: LinuxCon Chicago Edition*?
 
-We'll be getting together on Thursday, August 8th at 8:00pm, at
-`Howells & Hood`_ a restaurant and pub at 435 North Michigan Avenue. It's just
-`a two-block walk`_ from the LinuxCon hotel.
+When and Where Will GBeers Take Place?
+--------------------------------------
+
+We'll be getting together on Thursday, August 21st at 8:00pm. The location is
+set as `Howells & Hood`_, a restaurant and pub at 435 North Michigan Avenue.
+It's about `a two-block walk`_ from the LinuxCon hotel.
+
+Sounds Interesting. Can You Really Promise Light-Yet-Interesting Conversation?
+------------------------------------------------------------------------------
+
+No, we can't promise this, really. In fact, you should read our Disclaimer of
+Warranty so that you know exactly what you're getting yourself into.
 
 Respondez S'il Vous Plait
 --------------------------
 
-We are likely to require reservations, so we're requesting that people RSVP on
-either our `meetup page`_ or the `GNOME Wiki`_. Thank you! We look forward to
-seeing you!
+If you decide that GBEERS is still worth the risk, we request that you let us
+know of your planned attendance so that we can make any necessary reservations.
+You can RSVP on either our `Meetup page`_ or the `GNOME Wiki`_. 
+
+We look forward to seeing you!
+
+Disclaimer of Warranty
+-----------------------
+
+THERE IS NO WARRANTY FOR OUR GBEERS GATHERING, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE GBEERS ORGANIZERS
+AND/OR OTHER PARTIES PROVIDE THE GBEERS EVENT “AS IS” WITHOUT WARRANTY OF ANY
+KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF LIGHT-YET-INTERESTING CONVERSATION AND THAT THE ATTENDEES COULD
+BE DESCRIBED AS FIT FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY
+OF GBEERS IS WITH YOU. SHOULD THE GBEERS EVENT PROVE BORING, YOU STILL ASSUME
+THE COST OF ALL NECESSARY DRINKS, APPETIZERS OR MEAL ITEMS THAT YOU PURCHASE.
+
 
 .. _`Howells & Hood`: http://www.howellsandhood.com/
 .. _`a two-block walk`: http://goo.gl/maps/xevzw
