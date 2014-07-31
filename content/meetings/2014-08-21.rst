@@ -5,11 +5,12 @@ GBeers - LinuxCon Chicago Edition
 :category: Meetings
 :slug: meetings/2014-08-21
 :Pin: true
-:summary: Join fellow LinuxCon and Chicago enthusiasts for *GBeers: LinuxCon Chicago Edition*. GBeers is a global initiative for the purpose of getting GNOME enthusiasts and contributors together around a pint or two. While GBeers events often feature lightning talks about GNOME-related projects and technologies, this version of GBeers will be more casual, giving GNOME-friendly LinuxCon attendees a chance to hang out and chat at the end of a long conference day. We'll be getting together at Howell's & Hood, a restaurant and pub located just a short walk from the LinuxCon hotel.
+:summary: Join fellow LinuxCon and Chicago GNOME enthusiasts for *GBeers: LinuxCon Chicago Edition*. GBeers is a global initiative to get GNOME enthusiasts and contributors together around a pint or two. For our GBEERS event we'll be getting together at Howell's & Hood, a restaurant and pub located just a short walk from the LinuxCon hotel.
 
-You've had a long day at LinuxCon and want to unwind with a drink and some
-light-yet-interesting conversation, but you don't know where to go? Why not
-join some GNOME'rs for a few drinks at *GBeers: LinuxCon Chicago Edition*?
+Imagine that you've had a long day at LinuxCon and want to unwind with a drink
+and some light-yet-interesting conversation, but you don't know where to go.
+Why not join some local Chicago GNOME'rs for a few drinks at *GBeers: LinuxCon
+Chicago Edition*?
 
 When and Where Will GBeers Take Place?
 --------------------------------------
@@ -29,7 +30,9 @@ Respondez S'il Vous Plait
 
 If you decide that GBEERS is still worth the risk, we request that you let us
 know of your planned attendance so that we can make any necessary reservations.
-You can RSVP on either our `Meetup page`_ or the `GNOME Wiki`_. 
+You can RSVP on either our `Meetup page`_ or the `GNOME Wiki`_. If you're Linus
+Torvalds, and you want to attend but don't want everyone to know that you'll be
+there, just put yourself down as, "Sammy Rootbeer." No one will know it's you.
 
 We look forward to seeing you!
 
