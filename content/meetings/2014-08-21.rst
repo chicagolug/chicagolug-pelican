@@ -9,15 +9,15 @@ GNOME Beers - LinuxCon Chicago Edition
 
 If you've had a full day of talks at LinuxCon, and want to unwind with some
 friendly locals and good conversation, we've got just the spot. Join some
-friendly Chicago GNOME'rs for *GNOME Beers: LinuxCon Chicago Edition*.
+Chicago GNOME'rs for *GNOME Beers: LinuxCon Chicago Edition*.
 
 What is GNOME Beers?
 --------------------
 
 People in different cities organize *GNOME Beers* events to get people
 together to talk about GNOME. The events often feature lightning talks, but
-folks will probably be Linuxed-out after a full day at LinuxCon, so we'll just
-be more social.
+folks will probably be Linuxed-out after a full day at LinuxCon, so we'll be
+more social.
 
 When and Where Will GNOME Beers Take Place?
 --------------------------------------------
@@ -38,13 +38,8 @@ When and Where Will GNOME Beers Take Place?
 
     Howells and Hood is about `a two-block walk`_ from the LinuxCon hotel.
 
-Sounds Interesting. Can You Really Promise Good Conversation?
---------------------------------------------------------------
-
-We'll do our best. We have a *Disclaimer of Warranty*, just in case.
-
-Respondez S'il Vous Plait
---------------------------
+Sounds Interesting. Should I Just Show Up? Do I Need To RSVP?
+-------------------------------------------------------------
 
 If you decide that GNOME BEERS sounds good to you, we request that you let us
 know of your planned attendance so that we can make any necessary reservations.
@@ -52,15 +47,6 @@ You can RSVP on either our `Meetup page`_ or the `GNOME Wiki`_.
 
 We look forward to seeing you!
 
-Disclaimer of Warranty
------------------------
-
-THERE IS NO WARRANTY FOR OUR GNOME BEERS GATHERING, TO THE EXTENT PERMITTED BY
-APPLICABLE CHICAGO LAW [SIC]. EXCEPT WHEN OTHERWISE STATED IN WRITING THE GNOME
-BEERS ORGANIZERS AND/OR OTHER PARTIES PROVIDE THE GNOME BEERS EVENT “AS IS”
-WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF GOOD CONVERSATION AND THAT THE ATTENDEES
-COULD BE DESCRIBED AS FIT FOR A PARTICULAR PURPOSE.
 
 
 .. _`Howells & Hood`: http://www.howellsandhood.com/
