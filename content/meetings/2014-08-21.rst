@@ -1,52 +1,66 @@
-GBeers - LinuxCon Chicago Edition
-==================================
+GNOME Beers - LinuxCon Chicago Edition
+=======================================
 :date: 2014-08-21 20:00
-:tags: GNOME, GBeers, LinuxCon
+:tags: GNOME, GNOME Beers, LinuxCon
 :category: Meetings
 :slug: meetings/2014-08-21
 :Pin: true
-:summary: Join fellow LinuxCon and Chicago GNOME enthusiasts for *GBeers: LinuxCon Chicago Edition*. GBeers is a global initiative to get GNOME enthusiasts and contributors together around a pint or two. For our GBEERS event we'll be getting together at Howell's & Hood, a restaurant and pub located just a short walk from the LinuxCon hotel.
+:summary: Join fellow LinuxCon and Chicago GNOME enthusiasts for *GNOME Beers: LinuxCon Chicago Edition*. GNOME Beers is a globe-spanning initiative to get GNOME folks together around a pint or two. For our GNOME Beers event we'll be getting together at Howell's & Hood, a restaurant and pub located just a short walk from the LinuxCon hotel.
 
-Imagine that you've had a long day at LinuxCon and want to unwind with a drink
-and some light-yet-interesting conversation, but you don't know where to go.
-Why not join some local Chicago GNOME'rs for a few drinks at *GBeers: LinuxCon
-Chicago Edition*?
+If you've had a full day of talks at LinuxCon, and want to unwind with some
+friendly locals and good conversation, we've got just the spot. Join some
+friendly Chicago GNOME'rs for *GNOME Beers: LinuxCon Chicago Edition*.
 
-When and Where Will GBeers Take Place?
---------------------------------------
+What is GNOME Beers?
+--------------------
 
-We'll be getting together on Thursday, August 21st at 8:00pm. The location is
-set as `Howells & Hood`_, a restaurant and pub at 435 North Michigan Avenue.
-It's about `a two-block walk`_ from the LinuxCon hotel.
+People in different cities organize *GNOME Beers* events to get people
+together to talk about GNOME. The events often feature lightning talks, but
+folks will probably be Linuxed-out after a full day at LinuxCon, so we'll just
+be more social.
 
-Sounds Interesting. Can You Really Promise Light-Yet-Interesting Conversation?
-------------------------------------------------------------------------------
+When and Where Will GNOME Beers Take Place?
+--------------------------------------------
 
-No, we can't promise this, really. In fact, you should read our Disclaimer of
-Warranty so that you know exactly what you're getting yourself into.
+.. class:: center
+
+    We'll be getting together on Thursday, August 21st at 8:00pm.  The location
+    is set as `Howells & Hood`_, a restaurant and pub at 435 North Michigan
+    Avenue.
+
+    .. image:: |filename|/images/howells_and_hood.jpg
+           :height: 432 px
+           :width: 768 px
+           :alt: howells and hood chicago
+           :align: center
+
+.. class:: center
+
+    Howells and Hood is about `a two-block walk`_ from the LinuxCon hotel.
+
+Sounds Interesting. Can You Really Promise Good Conversation?
+--------------------------------------------------------------
+
+We'll do our best. We have a *Disclaimer of Warranty*, just in case.
 
 Respondez S'il Vous Plait
 --------------------------
 
-If you decide that GBEERS is still worth the risk, we request that you let us
+If you decide that GNOME BEERS sounds good to you, we request that you let us
 know of your planned attendance so that we can make any necessary reservations.
-You can RSVP on either our `Meetup page`_ or the `GNOME Wiki`_. If you're Linus
-Torvalds, and you want to attend but don't want everyone to know that you'll be
-there, just put yourself down as, "Sammy Rootbeer." No one will know it's you.
+You can RSVP on either our `Meetup page`_ or the `GNOME Wiki`_.
 
 We look forward to seeing you!
 
 Disclaimer of Warranty
 -----------------------
 
-THERE IS NO WARRANTY FOR OUR GBEERS GATHERING, TO THE EXTENT PERMITTED BY
-APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE GBEERS ORGANIZERS
-AND/OR OTHER PARTIES PROVIDE THE GBEERS EVENT “AS IS” WITHOUT WARRANTY OF ANY
-KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF LIGHT-YET-INTERESTING CONVERSATION AND THAT THE ATTENDEES COULD
-BE DESCRIBED AS FIT FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY
-OF GBEERS IS WITH YOU. SHOULD THE GBEERS EVENT PROVE BORING, YOU STILL ASSUME
-THE COST OF ALL NECESSARY DRINKS, APPETIZERS OR MEAL ITEMS THAT YOU PURCHASE.
+THERE IS NO WARRANTY FOR OUR GNOME BEERS GATHERING, TO THE EXTENT PERMITTED BY
+APPLICABLE CHICAGO LAW [SIC]. EXCEPT WHEN OTHERWISE STATED IN WRITING THE GNOME
+BEERS ORGANIZERS AND/OR OTHER PARTIES PROVIDE THE GNOME BEERS EVENT “AS IS”
+WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF GOOD CONVERSATION AND THAT THE ATTENDEES
+COULD BE DESCRIBED AS FIT FOR A PARTICULAR PURPOSE.
 
 
 .. _`Howells & Hood`: http://www.howellsandhood.com/
