@@ -1,6 +1,6 @@
 GNOME Beers - LinuxCon Chicago Edition
 =======================================
-:date: 2014-08-21 20:00
+:date: 2014-08-21 19:00
 :tags: GNOME, GNOME Beers, LinuxCon
 :category: Meetings
 :slug: meetings/2014-08-21
@@ -24,7 +24,7 @@ When and Where Will GNOME Beers Take Place?
 
 .. class:: center
 
-    We'll be getting together on Thursday, August 21st at 8:00pm.  The location
+    We'll be getting together on Thursday, August 21st at 7:00pm.  The location
     is set as `Howells & Hood`_, a restaurant and pub at 435 North Michigan
     Avenue.
 
@@ -41,9 +41,9 @@ When and Where Will GNOME Beers Take Place?
 Sounds Interesting. Should I Just Show Up? Do I Need To RSVP?
 -------------------------------------------------------------
 
-If you decide that GNOME BEERS sounds good to you, we request that you let us
-know of your planned attendance so that we can make any necessary reservations.
-You can RSVP on either our `Meetup page`_ or the `GNOME Wiki`_.
+If you decide that GNOME BEERS sounds good to you, let us know that you'll join
+us so that we can make any necessary reservations. You can RSVP on our
+`Meetup page`_ or the `GNOME Wiki`_.
 
 We look forward to seeing you!
 
