@@ -1,0 +1,51 @@
+ChicagoLUG Certification Prep: Session Two
+==========================================
+:date: 2014-08-13 18:30
+:tags: ChicagoLUG, Certification Prep
+:category: Meetings
+:slug: meetings/2014-08-13
+:Pin: true
+:summary: The second formal session in our Linux Certification Prep series. We'll continue to work through the exame objectives for the LPI series of certifications.
+
+This will be the second formal session in our biweekly Linux Certification Prep
+series. We'll be meeting on Wednesday, August 13th at the `Realtor Building`_
+at `430 North Michigan Avenue`_. Our discussions will begin at 6:30pm, and
+we anticipate that this session will run until about 8:00-8:30.
+
+Meeting Agenda & Request for RSVP
+----------------------------------
+
+We will continue to work through the `LPI`_ series of certification objectives,
+starting with the `Essentials`_ material, and proceeding
+to the information in the `LPIC-1`_ and `LPIC-2`_ exam objectives. Notes from
+our prior meeting are available on our `Etherpad`_ (username / password:
+chicagolug / chicagolug).
+
+Space is limited to 20 participants, so please RSVP on our `meetup page`_ so
+we know who will be attending.
+
+If You Can't Make It
+********************
+
+Not everyone will be able to attend every session, so it is the responsibility
+of attendees to take good notes. 
+
+We'll continue to take collaborative notes on our LUG Etherpad, and will make
+the notes available after the meeting.
+
+
+Official Statement of Welcomeness
+**********************************
+
+Everyone is welcome regardless of skill level. Yes, some people have more
+experience than others, but we can all learn from each other. These will be
+*group* learning sessions.  We hope to see you soon!
+
+.. _`Realtor Building`: http://www.chicagoarchitecture.info/Building/3498/Realtor-Building.php
+.. _`430 North Michigan Avenue`: https://goo.gl/maps/RLcYT
+.. _`Etherpad`: https://etherpad.chicagolug.org/p/certs-2014-07-30
+.. _`LPI`: https://www.lpi.org/linux-certifications
+.. _`Essentials`: https://www.lpi.org/linux-certifications/entry-level-credential/linux-essentials
+.. _`LPIC-1`: https://www.lpi.org/linux-certifications/programs/lpic-1
+.. _`LPIC-2`: https://www.lpi.org/linux-certifications/programs/lpic-2
+.. _`meetup page`: http://www.meetup.com/Windy-City-Linux-Users-Group/events/199547982/

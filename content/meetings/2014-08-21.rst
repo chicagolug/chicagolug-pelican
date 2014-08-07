@@ -4,7 +4,6 @@ GNOME Beers - LinuxCon Chicago Edition
 :tags: GNOME, GNOME Beers, LinuxCon
 :category: Meetings
 :slug: meetings/2014-08-21
-:Pin: true
 :summary: Join fellow LinuxCon and Chicago GNOME enthusiasts for *GNOME Beers: LinuxCon Chicago Edition*. GNOME Beers is a globe-spanning initiative to get GNOME folks together around a pint or two. For our GNOME Beers event we'll be getting together at Howell's & Hood, a restaurant and pub located just a short walk from the LinuxCon hotel.
 
 If you've had a full day of talks at LinuxCon, and want to unwind with some
