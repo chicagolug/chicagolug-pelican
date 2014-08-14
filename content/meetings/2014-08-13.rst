@@ -4,7 +4,6 @@ ChicagoLUG Certification Prep: Session Two
 :tags: ChicagoLUG, Certification Prep
 :category: Meetings
 :slug: meetings/2014-08-13
-:Pin: true
 :summary: The second formal session in our Linux Certification Prep series. We'll continue to work through the exame objectives for the LPI series of certifications.
 
 This will be the second formal session in our biweekly Linux Certification Prep

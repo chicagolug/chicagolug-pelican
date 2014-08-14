@@ -4,6 +4,7 @@ GNOME Beers - LinuxCon Chicago Edition
 :tags: GNOME, GNOME Beers, LinuxCon
 :category: Meetings
 :slug: meetings/2014-08-21
+:Pin: true
 :summary: Join fellow LinuxCon and Chicago GNOME enthusiasts for *GNOME Beers: LinuxCon Chicago Edition*. GNOME Beers is a globe-spanning initiative to get GNOME folks together around a pint or two. For our GNOME Beers event we'll be getting together at Howell's & Hood, a restaurant and pub located just a short walk from the LinuxCon hotel.
 
 If you've had a full day of talks at LinuxCon, and want to unwind with some
@@ -15,8 +16,8 @@ What is GNOME Beers?
 
 People in different cities organize *GNOME Beers* events to get people
 together to talk about GNOME. The events often feature lightning talks, but
-folks will probably be Linuxed-out after a full day at LinuxCon, so we'll be
-more social.
+folks will probably be Linuxed-out after a full day at LinuxCon, so no
+lightning talks for us.
 
 When and Where Will GNOME Beers Take Place?
 --------------------------------------------
@@ -40,13 +41,10 @@ When and Where Will GNOME Beers Take Place?
 Sounds Interesting. Should I Just Show Up? Do I Need To RSVP?
 -------------------------------------------------------------
 
-If you decide that GNOME BEERS sounds good to you, let us know that you'll join
-us so that we can make any necessary reservations. You can RSVP on our
-`Meetup page`_ or the `GNOME Wiki`_.
+Kindly RSVP. This will help us to make any necessary reservations. You can RSVP
+on our `Meetup page`_ or on the `GNOME Wiki`_.
 
 We look forward to seeing you!
-
-
 
 .. _`Howells & Hood`: http://www.howellsandhood.com/
 .. _`a two-block walk`: http://goo.gl/maps/xevzw
