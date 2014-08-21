@@ -1,0 +1,3 @@
+[submodule "pin_to_top"]
+	path = pin_to_top
+	url = git@github.com:Shaked/pin_to_top.git
