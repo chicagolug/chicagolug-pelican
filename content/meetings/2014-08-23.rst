@@ -1,10 +1,11 @@
 August 2014 Meeting of the ChicagoLUG
 =====================================
 :date: 2014-08-23 14:00
-:tags: Meeting Details TBD
+:tags: Michael McCune, DNS, PPT Karaoke, LinuxCon
 :category: Meetings
 :slug: meetings/2014-08-23
-:summary: We've confirmed the date for our August, 2014, general meeting, but speakers are still TBD at this point. Let us know if you are interested in giving a talk. 
+:Pin: true
+:summary: We've confirmed the date for our August, 2014, general meeting. Michael McCune will be giving an introductory talk on DNS, and we'll also have time for PPT Karaoke LinuxCon Edition.
 
 We've confirmed our meeting date and time for our August, 2014, general
 meeting. We've decided on Saturday, August 23rd, starting at 2:00pm. 
@@ -15,12 +16,27 @@ location*, `Free Geek Chicago`_! We hope you'll be able to join us!
 Speaking Topics
 ---------------
 
-The meeting date is still a ways off, and we're still coordinating speakers
-for this month's meeting. If you're interested in giving a talk this month,
-please let us know.  
+Michael McCune will be giving an introductory talk on DNS, including what it
+is, how it works, and how you can set up your own Bind DNS server.
 
-We'll provide specific meeting details in the coming weeks as things get
-settled.
+Following-up on Mike's talk, we'll also have time for *PPT Karaoke, LinuxCon
+Edition*. We'll use slides from LinuxCon talks to share speaking topics that
+people may have missed at the conference. The presentation content will be
+top-notch, though the presentations style may be a bit off-tune and behind the
+beat.
+
+LUG Business
+-------------
+
+This is going to be our first meeting at Free Geek Chicago, so we'll talk
+briefly about opportunities to participate with each other. We'll also discuss
+the status and plans for our ongoing Certification Prep series.
+
+Foodstuffs
+-----------
+
+We will have pizza, and you're welcome to bring soda of your choosing, but
+kindly note that Free Geek does not allow consumption of alchohol on premises.
 
 .. _`Free Geek Chicago`: http://chicagolug.org/locations/freegeek-chicago.html
 
