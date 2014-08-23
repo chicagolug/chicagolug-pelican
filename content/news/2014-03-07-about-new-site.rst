@@ -51,14 +51,14 @@ If you're using *Fedora* or a *Red Hat*-based distribution, use this command:
 
 .. code-block:: txt
 
-    $ sudo yum install git-core python-devel python-virtualenv python-virtualenvwrapper
+    $ sudo yum install git-core python-devel python-virtualenv python-virtualenvwrapper gcc
 
 If you're using *Debian* or a *Debian*-based distribution (e.g., Ubuntu, Linux
 Mint, etc.), use this command:
 
 .. code-block:: txt
 
-    $ sudo apt-get install git-core virtualenv virtualenvwrapper
+    $ sudo apt-get install git-core virtualenv virtualenvwrapper gcc
 
 That should do it.
 
@@ -71,9 +71,12 @@ on `github`_:
 .. code-block:: txt
 
     $ git clone git@github.com:j1mc/chicagolug-pelican.git && cd chicagolug-pelican
+    
+    $ git submodule update --init --recursive
 
 This will download the source and then move us to the *chicagolug-pelican*
-directory. 
+directory. Once we're in the chicagolug-pelican directory, we can then clone
+the pelican plugin submodules.
 
 Set Up A Python Virtual Environment
 ***********************************
@@ -128,12 +131,8 @@ or
 That Should Do It!
 ------------------
 
-This should give you what you need to get started with the site. Later we'll
-be looking at how to add content, and how to push our updates to the cloud
-so that the site gets refreshed for the rest of the world to see.
-
-Let us know if you run into any problems, or if you have any questions. Cheers!
-
+This should give you what you need to get started with the site. Let us know if
+you run into any problems, or if you have any questions. Cheers!
 
 .. _`Pelican`: http://getpelican.com
 .. _`kernel.org`: https://kernel.org
