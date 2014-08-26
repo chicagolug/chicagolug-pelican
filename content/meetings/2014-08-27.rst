@@ -50,4 +50,4 @@ experience than others, but we can all learn from each other. These will be
 .. _`Essentials`: https://www.lpi.org/linux-certifications/entry-level-credential/linux-essentials
 .. _`LPIC-1`: https://www.lpi.org/linux-certifications/programs/lpic-1
 .. _`LPIC-2`: https://www.lpi.org/linux-certifications/programs/lpic-2
-.. _`meetup page`: http://www.meetup.com/Windy-City-Linux-Users-Group/events/199547982/
+.. _`meetup page`: http://www.meetup.com/Windy-City-Linux-Users-Group/events/qrfklkyslbkc/
