@@ -21,7 +21,6 @@ TIMEZONE = 'America/Chicago'
 DELETE_OUTPUT_DIRECTORY = (True)
 
 #Path Configs
-#RELATIVE_URLS = (True)
 RELATIVE_URLS = (True)
 RESPONSIVE_IMAGES = (True)
 STATIC_PATHS = (['images', 'static'])
@@ -47,8 +46,3 @@ LINKS =  (
     ('Meetup.com', 'http://www.meetup.com/Windy-City-Linux-Users-Group/'),
     ('Google+', 'https://plus.google.com/b/110920643277848720575/110920643277848720575/posts'),
 )
-
-# Social widget
-SOCIAL = (
-)
-
