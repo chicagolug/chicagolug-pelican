@@ -4,6 +4,7 @@ fabfile.py
 output/
 venv
 pelican_upload.py
+content/source
 
 *.swp
 *.pyc
