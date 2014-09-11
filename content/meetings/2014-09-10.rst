@@ -7,7 +7,7 @@ ChicagoLUG Certification Prep: Session Four
 :summary: The fourth session in our Linux Certification Prep series. We'll continue to work through the exame objectives for the LPI series of certifications.
 
 This will be the fourth session in our biweekly Linux Certification Prep
-series. We'll be meeting on Wednesday, October 1st at the `Realtor Building`_
+series. We'll be meeting on Wednesday, September 10th at the `Realtor Building`_
 at `430 North Michigan Avenue`_. Our discussions will begin at 6:30pm, and
 we anticipate that this session will run until about 8:00-8:30.
 
@@ -26,7 +26,7 @@ If You're New or Have Missed Prior Sessions
 
 We have taken notes for each session on our Etherpad, and links for each session
 are listed below. (Note that the username / password for each page is just
-chicagolug / chicagolug.):
+chicagolug / chicagolug).
 
 Notes for each session: `Session One`_ / `Session Two`_ / `Session Three`_ 
 
