@@ -23,7 +23,7 @@ DELETE_OUTPUT_DIRECTORY = (True)
 #Path Configs
 RELATIVE_URLS = (True)
 RESPONSIVE_IMAGES = (True)
-STATIC_PATHS = (['images', 'static'])
+STATIC_PATHS = (['images', 'static', 'source'])
 MENUITEMS = (('Media', 'http://media.chicagolug.org'),)
 
 FEED_DOMAIN = ('http://chicagolug.org')
@@ -40,7 +40,8 @@ PLUGINS = ['html_rst_directive', 'better_figures_and_images', 'pin_to_top']
 
 # Blogroll
 LINKS =  (
-    ('Mailing List', 'http://groups.google.com/group/chicagolinux-discuss'),
+    ('Discussion List', 'http://lists.chicagolug.org/cgi-bin/mailman/listinfo/discuss'),
+    ('Announcement List', 'http://lists.chicagolug.org/cgi-bin/mailman/listinfo/announce'),
     ('Identi.ca', 'https://identi.ca/chicagolug'),
     ('Twitter', 'https://twitter.com/chicagolug'),
     ('Meetup.com', 'http://www.meetup.com/Windy-City-Linux-Users-Group/'),
