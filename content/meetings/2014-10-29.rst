@@ -4,7 +4,7 @@ ChicagoLUG Certification Prep: Session Seven
 :tags: ChicagoLUG, Certification Prep
 :category: Meetings
 :slug: meetings/2014-10-29
-:summary: The sixth, and penultimate, session in our Linux Certification Prep series. We'll continue to work through the exame objectives for the LPI series of certifications.
+:summary: The seventh session in our Linux Certification Prep series. We'll continue to work through the exame objectives for the LPI series of certifications.
 
 This will be the seventh session in our biweekly Linux Certification
 Prep series. We'll be meeting on Wednesday, October 29th, at the
@@ -15,8 +15,8 @@ Meeting Agenda & Request For RSVP
 ----------------------------------
 
 We've made a lot of progress! We're now at the tail end of topics in the
-`LPIC-1`_ exam objectives, and during this session we'll continue our
-networking discussions and move into mail server setup.
+`LPIC-1`_ exam objectives, and during this session we'll wrap up our mail
+server setup.
 
 Space is limited to 20 participants, so please RSVP on our `meetup page`_ so
 we know who will be attending.
@@ -24,12 +24,12 @@ we know who will be attending.
 If You're New or Have Missed Prior Sessions
 ********************************************
 
-We have taken notes for each session on our Etherpad, and links for each session
-are listed below. (Note that the username / password for each page is just
+We have taken notes for most session on our Etherpad, and links for most
+session are listed below. (Note that the username / password for each page is
 chicagolug / chicagolug.):
 
 Notes for each session: `Session One`_ / `Session Two`_ / `Session Three`_ /
-`Session Four`_ / `Session Five`_.
+`Session Four`_ / `Session Five`_. / Session Six (Mostly hacking, few notes)
 
 Official Statement of Welcomeness
 **********************************
@@ -44,7 +44,7 @@ experience than others, but we can all learn from each other. These will be
 .. _`Essentials`: https://www.lpi.org/linux-certifications/entry-level-credential/linux-essentials
 .. _`LPIC-1`: https://www.lpi.org/linux-certifications/programs/lpic-1
 .. _`LPIC-2`: https://www.lpi.org/linux-certifications/programs/lpic-2
-.. _`meetup page`: http://www.meetup.com/Windy-City-Linux-Users-Group/events/206537022/ 
+.. _`meetup page`: http://www.meetup.com/Windy-City-Linux-Users-Group/events/211063932/ 
 .. _`Session One`: http://etherpad.chicagolug.org/p/certs-2014-07-30
 .. _`Session Two`: http://etherpad.chicagolug.org/p/certs-2014-08-13
 .. _`Session Three`: http://etherpad.chicagolug.org/p/certs-2014-08-27

@@ -4,7 +4,7 @@ ChicagoLUG Certification Prep: Session Six
 :tags: ChicagoLUG, Certification Prep
 :category: Meetings
 :slug: meetings/2014-10-15
-:summary: The sixth, and penultimate, session in our Linux Certification Prep series. We'll continue to work through the exame objectives for the LPI series of certifications.
+:summary: The sixth session in our Linux Certification Prep series. We'll continue to work through the exame objectives for the LPI series of certifications.
 
 This will be the sixth session in our biweekly Linux Certification Prep series.
 We'll be meeting on Wednesday, October 15th, at the
