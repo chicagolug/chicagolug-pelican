@@ -1,0 +1,53 @@
+ChicagoLUG Certification Prep: Session Eight 
+=============================================
+:date: 2014-11-13 18:30
+:tags: ChicagoLUG, Certification Prep
+:category: Meetings
+:slug: meetings/2014-11-13
+:summary: The eighth session in our Linux Certification Prep series. We'll continue to work through the exame objectives for the LPI series of certifications. In this session, we're going to be taking a look at LVM.
+
+This will be the eigth session in our biweekly Linux Certification
+Prep series. We'll be meeting on Wednesday, November 13th, at the
+`Realtor Building`_ at `430 North Michigan Avenue`_. Our discussions
+will begin at 6:30pm, with the session running until about 8:00-8:30pm.
+
+Meeting Agenda & Request For RSVP
+----------------------------------
+
+We've made a lot of progress! We're covering exam objectives from the
+`LPIC-2`_ exam, and during this session we'll focus on LVM.
+
+Space is limited to 20 participants, so please RSVP on our `meetup page`_ so
+we know who will be attending.
+
+If You're New or Have Missed Prior Sessions
+********************************************
+
+We have taken notes for most session on our Etherpad, and links for most
+session are listed below. (Note that the username / password for each page is
+chicagolug / chicagolug.):
+
+Notes for each session: `Session One`_ / `Session Two`_ / `Session Three`_ /
+`Session Four`_ / `Session Five`_. / Session Six (Mostly hacking, few notes) /
+`Session Seven`_
+
+Official Statement of Welcomeness
+**********************************
+
+Everyone is welcome regardless of skill level. Yes, some people have more
+experience than others, but we can all learn from each other. These will be
+*group* learning sessions.  We hope to see you soon!
+
+.. _`Realtor Building`: http://www.chicagoarchitecture.info/Building/3498/Realtor-Building.php
+.. _`430 North Michigan Avenue`: https://goo.gl/maps/RLcYT
+.. _`LPI`: https://www.lpi.org/linux-certifications
+.. _`Essentials`: https://www.lpi.org/linux-certifications/entry-level-credential/linux-essentials
+.. _`LPIC-1`: https://www.lpi.org/linux-certifications/programs/lpic-1
+.. _`LPIC-2`: https://www.lpi.org/linux-certifications/programs/lpic-2
+.. _`meetup page`: http://www.meetup.com/Windy-City-Linux-Users-Group/events/211065572/
+.. _`Session One`: http://etherpad.chicagolug.org/p/certs-2014-07-30
+.. _`Session Two`: http://etherpad.chicagolug.org/p/certs-2014-08-13
+.. _`Session Three`: http://etherpad.chicagolug.org/p/certs-2014-08-27
+.. _`Session Four`: http://etherpad.chicagolug.org/p/certs-2014-09-10
+.. _`Session Five`: http://etherpad.chicagolug.org/p/certs-2014-10-01
+.. _`Session Seven`: http://chump.chicagolug.org/2014/11/13/2014-11-13.xml
