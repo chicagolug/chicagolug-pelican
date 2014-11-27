@@ -1,0 +1,31 @@
+December 2014 Meeting of the ChicagoLUG
+======================================== 
+:date: 2014-12-13 14:00
+:tags: Andrew Spalding, Ruby
+:category: Meetings
+:slug: meetings/2014-12-13
+:summary: We currently have one talk lined-up for our December meeting - Andrew Spaulding of 8th Light will be speaking on test-driven development with Ruby, and will also have a short workshop to take us through the test-driven development approaches that he uses. We are also looking to add a second speaker, and will update our meeting page as we get closer to the meeting.
+
+The meeting is set for Saturday, December 13th, starting at 2:00pm. We'll be
+meeting at `Pumping Station: One`_.
+
+Speaking Topics
+---------------
+
+We currently have one speaking topic lined-up for our December meeting - 
+Andrew Spalding from 8th Light will give a talk and short workshop on Test
+Driven Development using Ruby, and will also have a short workshop to take us
+through the test-driven development approaches that he uses
+
+We're looking to add a second topic, and will be updating our meeting page with
+more information as the meeting date approaches.
+
+Foodstuffs
+----------
+
+We will have food! Probably pizza! At least a few of us typically bring some
+beverage to share, as well. We're a community-run organization, so we
+recommend bringing a few dollars if you'd like to partake of the food. No one
+will be denied a slice of tasty pizza for inability to chip-in, though.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
