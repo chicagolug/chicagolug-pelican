@@ -35,7 +35,7 @@ TAG_CLOUD_STEPS = (4)
 TAG_CLOUD_MAX_ITEMS = (100)
 
 #Plugin Configs
-PLUGIN_PATH = 'plugins'
+PLUGIN_PATHS = ['plugins']
 PLUGINS = ['html_rst_directive', 'better_figures_and_images', 'pin_to_top']
 
 # Blogroll
