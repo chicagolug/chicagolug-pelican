@@ -18,7 +18,7 @@ Disk Encryption: A Deep Dive for Adminstrators
 Joel Luellwitz will kick things off with a discussion around disk encryption,
 largely focusing on things from an administrative perspective. With our
 ever-growing dependence on electronic data storage, hard disk encryption is a
-great why to keep your data safe and secure. However, with this added security,
+great way to keep your data safe and secure. However, with this added security,
 disk encryption adds greater complexity, especially when you want to do
 something out of the ordinary. Joel's talk will cover why one should use
 encryption, how to create a Linux system with disk encryption, how to
