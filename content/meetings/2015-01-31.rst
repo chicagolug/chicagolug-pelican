@@ -1,0 +1,36 @@
+January 2015 Meeting of the ChicagoLUG
+======================================== 
+:date: 2015-01-31 14:00
+:tags: Carl Karsten, Bonnie King, PXE, inotify 
+:category: Meetings
+:slug: meetings/2015-01-31
+:summary: Carl Karsten will take us through PXE installations on Ubuntu, and Bonnie King will introduce us to the Linux utility, inotify.
+
+The meeting is set for Saturday, January 31st, starting at 2:00pm. We'll be
+meeting at `Pumping Station: One`_.
+
+Speaking Topics
+---------------
+                                 
+We'll be taking a look at some helpful utilities during this meeting. Carl
+Karsten is going to demonstrate the ins-and-outs of using PXE to install Ubuntu
+on bare metal machines. Carl uses this to automate setups of Ubuntu on
+volunteer laptops as part of his `Next Day Video`_ service.
+
+Bonnie King will be giving a talk on `inotify`_, a kernel subsystem that
+monitors changes to a filesystem. We'll look at the kernel system
+calls and how to use related commandline tools and other libraries. We'll also
+discuss some examples of where inotify is used.
+
+
+Foodstuffs
+----------
+
+We will have food! Probably pizza! At least a few of us typically bring some
+beverage to share, as well. We're a community-run organization, so we
+recommend bringing a few dollars if you'd like to partake of the food. No one
+will be denied a slice of tasty pizza for inability to chip-in, though.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
+.. _`Next Day Video`: http://www.nextdayvideo.com/
+.. _`inotify`: http://lwn.net/Articles/604686/

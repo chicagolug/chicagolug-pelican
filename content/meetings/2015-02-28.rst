@@ -1,0 +1,73 @@
+February 2015 Meeting of the ChicagoLUG
+======================================== 
+:date: 2015-02-28 14:00
+:tags: Joel Luellwitz, Encryption, Dotfiles
+:category: Meetings
+:slug: meetings/2015-02-28
+:summary: We have a primary talk, and a lightning talk series lined-up for this meeting. Joel Luellwitz will be doing a deep-dive on disk encryption from an administrator's point of view, covering some rather complex scenarios. We'll also have a "Dotfiles Showdown." This will be a series of lightning talks where we each share our favorite, productivity-enhancing dotfiles. 
+
+The meeting is set for Saturday, February 28th, starting at 2:00pm. We'll be
+meeting at `Pumping Station: One`_.
+
+Speaking Topics
+---------------
+ 
+Disk Encryption: A Deep Dive for Adminstrators
+***********************************************
+                                
+Joel Luellwitz will kick things off with a discussion around disk encryption,
+largely focusing on things from an administrative perspective. With our
+ever-growing dependence on electronic data storage, hard disk encryption is a
+great why to keep your data safe and secure. However, with this added security,
+disk encryption adds greater complexity, especially when you want to do
+something out of the ordinary. Joel's talk will cover why one should use
+encryption, how to create a Linux system with disk encryption, how to
+efficiently boot a Linux system with multiple encrypted disks, how to
+remotely restart an encrypted system, and a new method for performing
+unattended upgrades on an encrypted system.
+
+This will mostly be a technical talk, but there will be a little bit for
+beginners and hopefully enough background information for an astute novice to
+follow along with the rest of the talk.
+
+ChicagoLUG Dotfiles Showdown
+*****************************
+
+So,  you think you have the most efficient developer or administrator system
+setup amongst all of your developer or admin buddies?  Prove it! Show us your
+best dotfiles in the ChicagoLUG Dotfiles Showdown!
+
+We'll have a series of lightning talks (featuring you!). Share your `dotfiles`_
+on our `ChicagoLUG github repository`_, and come prepared (or at least have
+enough nerve) to step us through how your dotfiles help you to be more
+productive.
+
+Some helpful tips to consider as you think about what you might share:
+
+  * Who will find your dotfiles beneficial? An introductory comment such as,
+    "These dotfiles will be useful for vim-using admins" will help folks to
+    get oriented as to what you have in store for them.
+  * What software will users need to have installed to use your dotfiles in
+    their own environment? Are there certain plugins that they'll need to have
+    installed for your dotfiles to work?
+  * How does your dotfile setup help you? What problem does it solve for you
+    that you used to encounter? What does it not do to for you that you wish
+    it did?
+  * Be willing to provide a demo of some of the main features that your
+    dotfiles provide. You might not have enough time to demo everything of
+    what your dotfiles do, so be prepared to share some of the main things.
+
+The best dotfiles demo will win a Raspberry Pi (not the latest model, sorry,
+but it's still cool).
+
+Foodstuffs
+----------
+
+We will have food! Probably pizza! At least a few of us typically bring some
+beverage to share, as well. We're a community-run organization, so we
+recommend bringing a few dollars if you'd like to partake of the food. No one
+will be denied a slice of tasty pizza for inability to chip-in, though.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
+.. _`ChicagoLUG github repository`: https://github.com/chicagolug/Dotfiles
+.. _`dotfiles`: http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/
