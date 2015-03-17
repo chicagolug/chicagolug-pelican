@@ -6,7 +6,7 @@ March 2015 Meeting of the ChicagoLUG
 :slug: meetings/2015-03-21
 :summary: Sten Turpin of Red Hat will take us through an introduction to Project Atomic on Fedora, and Ian McLeod will show us a bit of how the Fedora distribution gets built. 
 
-The meeting is set for Saturday, February 28th, starting at 2:00pm. We'll be
+The meeting is set for Saturday, March 21st, starting at 2:00pm. We'll be
 meeting at `Pumping Station: One`_.
 
 Speaking Topics
