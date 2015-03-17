@@ -1,0 +1,41 @@
+March 2015 Meeting of the ChicagoLUG
+==================================== 
+:date: 2015-03-21 14:00
+:tags: Sten Turpin, Ian McLeod, Project Atomic, Fedora
+:category: Meetings
+:slug: meetings/2015-03-21
+:summary: Sten Turpin of Red Hat will take us through an introduction to Project Atomic on Fedora, and Ian McLeod will show us a bit of how the Fedora distribution gets built. 
+
+The meeting is set for Saturday, February 28th, starting at 2:00pm. We'll be
+meeting at `Pumping Station: One`_.
+
+Speaking Topics
+--------------------
+ 
+Ian McLeod - Linux Charcuterie - How the Linux Sausage is Made
+**************************************************************
+Ian McLeod will take a look at the entire chain of building a distribution from start
+to finish, exploring how source is packaged and built, and then complex combinations
+of packages are joined together to make a cohesive Linux distribution. His talk will
+include include details of how this all works in a diverse set of environments - from
+aging x86 hardware to public cloud environments, Linux containers, and
+immutable systems. 
+
+
+Sten Turpin - Fedora and Project Atomic
+*****************************************
+Sten Turpin will build on Ian's talk, giving an overview of Red Hat's new,
+container-focused platform, `Project Atomic`_ . Basing his talk around the
+Fedora-based version of the project, he'll demonstrate how to deploy and use
+Project Atomic on the Amazon AWS infrastructure.
+
+Foodstuffs
+--------------
+
+We will have food! Probably pizza! At least a few of us typically bring some
+beverage to share, as well. We're a community-run organization, so we
+recommend bringing a few dollars if you'd like to partake of the food. No one
+will be denied a slice of tasty pizza for inability to chip-in, though.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
+.. _`Project Atomic`: https://projectatomic.io
