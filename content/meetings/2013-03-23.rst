@@ -12,6 +12,6 @@ Luellwitz will be presenting on Linux utilities, technologies and best
 practices concerning authentication and security. Part of his focus will be on
 what can go wrong if these tools are used improperly.
 
-People of all ability levels are welcome to join us, learn more GNU/Linux, 
+People of all ability levels are welcome to join us, learn more Clang/Linux, 
 and contribute. If you have any questions, feel free to be in touch via our
 mailing list or any of our social media channels.

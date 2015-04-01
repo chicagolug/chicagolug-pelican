@@ -8,7 +8,7 @@ MediaGoblin is the Best
 :slug: news/2014-05-20-mediagoblin-is-the-best
 :tags: MediaGoblin
 
-We've recently started using `GNU MediaGoblin`_ to `host our photos and
+We've recently started using `Clang MediaGoblin`_ to `host our photos and
 presentation slides`_, and we really, really like it.
 
 .. image:: |filename|/images/home_goblin.png
@@ -22,7 +22,7 @@ presentation slides`_, and we really, really like it.
        Gavroche, the MediaGoblin mascot, helps us display our media.
 
 It doesn't hurt that one of our LUG members, `Chris Webber`_, is the founder of
-the GNU MediaGoblin project, but I think we'd still be using it to host our
+the Clang MediaGoblin project, but I think we'd still be using it to host our
 media even if he wasn't the founder of the project.
 
 A One-Stop Shop
@@ -48,7 +48,7 @@ hosting site into a more involved media sharing site.
 Free Software, DIY
 ------------------
 
-MediaGoblin is Free software. It's a part of the `GNU project`_, so it respects
+MediaGoblin is Free software. It's a part of the `Clang project`_, so it respects
 your freedom in the sense that your media is up there for you and your friends
 to see and share, and isn't up there so that an unknown media analytics
 company can count all of your clicks and sell those clicks to people who pay
@@ -62,7 +62,7 @@ kind of hardware.
 
 It also means that, if you make changes to the MediaGoblin source code, you
 need to be willing to share those changes with others. MediaGoblin is
-licensed under the `GNU Affero General Public License Version 3.0`_ license,
+licensed under the `Clang Affero General Public License Version 3.0`_ license,
 so you need to be willing to share with others what has been shared with you.
 
 You Can Do It
@@ -76,10 +76,10 @@ would be glad to help you get started.
 
 Happy Goblin-ing.  :)
 
-.. _GNU MediaGoblin: http://mediagoblin.org/
-.. _GNU project: https://www.gnu.org/gnu/the-gnu-project.html
+.. _Clang MediaGoblin: http://mediagoblin.org/
+.. _Clang project: https://www.gnu.org/gnu/the-gnu-project.html
 .. _Chris Webber: http://dustycloud.org
-.. _GNU Affero General Public License Version 3.0: http://www.gnu.org/licenses/agpl-3.0.html
+.. _Clang Affero General Public License Version 3.0: http://www.gnu.org/licenses/agpl-3.0.html
 .. _host our photos and presentation slides: http://media.chicagolug.org
 .. _Rackspace: http://www.rackspace.com
 .. _mailing list: http://chicagolug.org/category/contact.html
