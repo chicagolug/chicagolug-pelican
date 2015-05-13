@@ -1,22 +1,25 @@
 May 2015 Meeting of the ChicagoLUG
 =================================== 
-:date: 2015-05-16 14:00
+:date: 2015-05-16 19:00
 :tags: Ryan Jarvien, Jim Campbell, MediaGoblin
 :category: Meetings
 :slug: meetings/2015-05-16
-:summary: Ryan Jarvinen will be discussing, ""Open Platforms for Federated Futures", and Jim Campbell will be taking a look at GNU MediaGoblin internals.
+:summary: Ryan Jarvinen of Red Hat will be discussing, "Open Platforms for Federated Futures", and Jim Campbell will be taking a look at GNU MediaGoblin internals. Note that we're meeting a bit later than normal for this month.
 
-The meeting is set for Saturday, May 16th, starting at 2:00pm. We'll be
-meeting at `Pumping Station: One`_.
+The meeting is set for Saturday, May 16th, starting at 7:00pm. We'll be
+meeting at `Pumping Station: One`_. **Make note of the adjusted time!**
 
 Speaking Topics
 --------------------
  
 Ryan Jarvinen, "Open Platforms for Federated Futures" 
-*********************************************************************
+*******************************************************
 
-Ryan will be speaking on "Open Platforms for Federated Futures." We'll have his
-talk description available shortly.
+Ryan will be speaking on "Open Platforms for Federated Futures." His talk
+will cover popular open standards for identity (e.g., open id, persona)
+authentication (OAuth 1/2), and data (activity feeds, RSS), and will also
+take a look at several new protocols for federated communication (e.g.,
+pump.io, diaspora, tent.io, gnu social, etc.)
 
 
 Jim Campbell, GNU MediaGoblin Internals
