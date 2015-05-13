@@ -1,7 +1,7 @@
 April 2015 Meeting of the ChicagoLUG
 ==================================== 
 :date: 2015-04-25 14:00
-:tags: Jake Weisz, Lincoln Bryant, Sanstorm.io, The Linux Kernel
+:tags: Jake Weisz, Lincoln Bryant, Sandstorm.io, The Linux Kernel
 :category: Meetings
 :slug: meetings/2015-04-25
 :summary: We will be taking a look at a web-application deployment platform, Sandstorm.io, as well as learning how to roll our own kernel for hardware enablement, performance and security. 
@@ -18,8 +18,8 @@ Jake Weisz will be taking us through the features and functionality of
 Sandstorm.io, a web-application deployment platform. It aims to ease
 the pains of application deployment for many common web applications.
 
-Lincoln Bryant, Rolling your own kernel for fun. And for hardward enablement, performance and security.
-********************************************************************************************************
+Lincoln Bryant, Rolling your own kernel for fun. And for hardward enablement, and for performance and security.
+****************************************************************************************************************
 As a systems administrator at the University of Chicago, Lincoln has a great
 deal of experience in using custom kernels to support new hardware, to increase
 system performance, and to improve system security. He'll pass along some of
