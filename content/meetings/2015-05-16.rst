@@ -15,7 +15,7 @@ Speaking Topics
 Ryan Jarvinen, "Open Platforms for Federated Futures" 
 *******************************************************
 
-Ryan will be speaking on "Open Platforms for Federated Futures." His talk
+`Ryan`_ will be speaking on "Open Platforms for Federated Futures." His talk
 will cover popular open standards for identity (e.g., open id, persona)
 authentication (OAuth 1/2), and data (activity feeds, RSS), and will also
 take a look at several new protocols for federated communication (e.g.,
@@ -26,8 +26,9 @@ Jim Campbell, GNU MediaGoblin Internals
 ****************************************
 
 Following-up on Ryan's "Open Platforms," discussion, Jim Campbell will be
-presenting on GNU MediaGoblin internals. We'll have a look at what is new with
-the 0.8 release and our ChicagoLUG instance of the platform.
+presenting on `GNU MediaGoblin`_ internals. We'll have a look at how it works,
+what is new with the 0.8 release and see ChicagoLUG instance of this
+soon-to-be federated platform.
 
 
 Foodstuffs
@@ -40,3 +41,4 @@ will be denied a slice of tasty pizza for inability to chip-in, though.
 
 .. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
 .. _`Ryan Jarvinen`: http://ryanjarvinen.com
+.. _`GNU MediaGoblin`: http://mediagoblin.org
