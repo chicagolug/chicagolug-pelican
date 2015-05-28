@@ -1,0 +1,16 @@
+Programming Tonight: June Edition
+================================= 
+:date: 2015-06-05 19:00
+:tags: Programming Tonight
+:category: Meetings
+:slug: meetings/2015-06-05
+:summary: Join members of the ChicagoLUG for informal hacking and coffee drinking at *Programming Tonight*: June Edition. Bring a project to work on and a few dollars for some coffee and a tasty sandwich. Get to know your fellow LUG members in an informal, working session.
+
+The gathering is set for Friday, June 5th, starting at 7:00pm. We'll be
+meeting at `New Wave Coffee`_, located at `2557 North Milwaukee Avenue`_.
+
+You're welcome to bring any project that you'd like, or to bring no project at all and hope to find one once you get there. 
+
+
+.. _`New Wave Coffee`: https://chicagolug.org/locations/new-wave-coffee.html
+.. _`2557 North Milwaukee Avenue`: http://ur1.ca/glmp1
