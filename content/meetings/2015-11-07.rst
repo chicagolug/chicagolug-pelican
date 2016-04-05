@@ -1,0 +1,49 @@
+November 2015 Meeting of the ChicagoLUG
+========================================= 
+:date: 2015-11-07 14:00
+:tags: Freddy Martinez, Rob Dux, Bash, Scripting, Docker
+:category: Meetings
+:slug: meetings/2015-11-07
+:summary: During our November meeting, Linux Sysadmin Freddy Martinez will show us how to create and use our own Bash autocompletion functions.
+
+Our November meeting is set for Saturday, November 7th, starting at 2:00pm, and
+we'll be meeting at `Pumping Station: One`_. We'll be learning about Bash
+autocompletion.
+
+Speaking Topics
+---------------
+
+Bash Autocomplete, an Introduction
+***********************************
+
+Freddy Martinez is a Chicago based SysAdmin and long time LUG member. In his
+talk, he will describe a very basic introduction into how bash auto-complete
+functions and how you can create your own custom auto complete functions. We
+will briefly look at how auto complete works, look at an example of how git
+defines their shell functions and then describe a custom build function. The
+talk will be introduction level and shouldn't require a lot of shell scripting
+experience to follow along.
+
+Docker in Immutable Infrastructure
+**********************************
+
+Rob Dux will walk us through how he uses Docker as part of an immutable
+infrastructure work project and will take us through a how to set up a similar
+environment ourselves.
+
+
+RSVP
+-----
+
+Kindly RVSP on our `Meetup.com Page`_. We look forward to seeing you there!!
+
+Foodstuffs
+------------
+
+We will have food! Probably pizza! At least a few of us typically bring some
+beverage to share, as well. We're a community-run organization, so we
+recommend bringing a few dollars if you'd like to partake of the food. No one
+will be denied a slice of tasty pizza for inability to chip-in, though.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
+.. _`Meetup.com Page`: http://www.meetup.com/wclug-org/events/226505704/

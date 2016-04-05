@@ -1,0 +1,52 @@
+September 2015 Meeting of the ChicagoLUG
+========================================= 
+:date: 2015-09-30 18:30
+:tags: Christopher Webber, Federating the Web, GNU Guix
+:category: Meetings
+:slug: meetings/2015-09-30
+:summary: Recent O'Reilly Open Source Award winner Christopher Allen Webber gives us a double dose of presentations for our September meeting - Federating the Web and GNU Guix. We will be meeting at the RedHat offices at 101 N. Wacker Drive at 6:30pm.
+
+Chris Webber is making a stop in Chicago, and will be by at our next meeting of
+the ChicagoLUG to discuss two things that are of great interest to him:
+Federating the Web and the package manager, Guix. Our meeting will be held at
+6:30pm on Wednesday, September 30th, at the `RedHat Chicago offices`_. Their
+offices are located at 101 N. Wacker Drive.
+
+Speaking Topics
+---------------
+
+Federating the Web
+*******************
+The web is theoretically free software, is powered by free and open
+technologies, and yet seems to become less free and more centralized by the
+day. How to take back the web? Christopher talks about the state of federation,
+what's happening at the W3C Social Working Group on standardizing federation
+standards, the ActivityPump spec, and how you can get involved in taking back
+the net!
+
+
+Functional Package Management and Deployment with Guix
+*******************************************************
+
+Tired of being stuck after an upgrade? Wish your operating system could roll
+forward and backwards in time, more like Git? Want a way to get *really*
+reproducible software? Or just want a better alternative to $YOUR_LANGUAGE's
+stressful packaging ecosystem you can run on an existing distro? And why on
+earth would you want something called a "symlink forest" anyway? Discover all
+this and more in this exciting talk about `the GNU Guix`_ project!
+
+
+RSVP
+-----
+
+Kindly RVSP on our `Meetup.com Page`_. We look forward to seeing you there!!
+
+
+Foodstuffs
+------------
+
+Food will be provided by RedHat! Come enjoy Lou Malnatti's pizza with us!
+
+.. _`RedHat Chicago offices`: https://goo.gl/maps/EjJ9r
+.. _`the GNU Guix`: http://www.gnu.org/software/guix/
+.. _`Meetup.com Page`: http://www.meetup.com/wclug-org/events/225423618/

@@ -8,7 +8,7 @@ Coffee, Nefarious Actors and Virtual Private Networks
 :slug: news/2014-11-18-openvpn-at-chicagolug
 :tags: VPN, OpenVPN, CentOS, Fedora, SELinux
 
-Also Known As: OpenVPN via the ChicagoLUG
+Also Known As: Set up OpenVPN on CentOS 6
 ------------------------------------------
 
 You're at the coffee shop and you are using their handy wifi. It's free! That's
@@ -57,14 +57,13 @@ What will we use to do this?  Well, our VPN server is a CentOS 6.5 cloud-based
 server, and we'll connect to it using GNOME's Network Manager on Fedora 20.
 Yes, Linux all the way. 
 
-What's the Catch? Really? How Can This Be Possible?
-----------------------------------------------------
+Prerequisites
+---------------
 
 This post is lengthy enough as it is, so we'll assume that you've taken steps
 to secure your server (e.g., that you disable root logins, have key-based
-authentication, enabled SELinux, etc.). I mean, how can you expect to thwart
-coniving mafiosos if you do not at least take these steps? If you do need
-information on those topics, please do be in touch with us, though.
+authentication, enabled, etc.) If you do need information on those topics,
+please do be in touch with us, though.
 
 With that in mind,  we'll get straight to configuring our VPN server by
 following these steps:
@@ -79,15 +78,11 @@ following these steps:
 Install Needed Software and Set Up Directories
 ------------------------------------------------
 
-We'll start by installing some software, and then we'll create and configure
-our needed directories. With those items in place, we'll then set up our VPN
-certificates and keys.
-
-On the Server
+On the server
 **************
 
-On the server we need to install *rsync* and the *epel-release* (`EPEL repository`_)
-package, as well as the *openvpn* package. OpenVPN is in the EPEL repository,
+On the server we need to install *rsync*, *epel-release* (`EPEL repository`_)
+package, and the *openvpn* package. OpenVPN is in the EPEL repository,
 so we need to make sure that EPEL is installed first:
 
 .. code-block:: text
@@ -126,8 +121,8 @@ copy the scripts to that directory:
 With those directories and scripts in place, let's move on to look at
 certificates and keys.
 
-What Keys and Certificates Do We Need? What Purpose Do They Serve?
--------------------------------------------------------------------
+About Keys and Certificates
+----------------------------
 
 Although you can require VPN passwords, and even use hardware authentication
 tokens when connecting a VPN, this guide will just use keys to
@@ -161,10 +156,9 @@ encrypted session. This provides `perfect forward secrecy`_.
 How Do We Create Our Keys?
 ----------------------------
 
-Those are the keys, but how do we set them up? The keys that we create are
-partly based on the values that we enter into a configuration file.
-That configuration file is the *vars* file, and it ensures that our key values
-are consistent across our various certificates and keys.
+The keys that we create are partly based on the values that we enter into a
+configuration file. That configuration file is the *vars* file, and it ensures
+that our key values are consistent across our various certificates and keys.
 
 We'll edit the *vars* file now:
 

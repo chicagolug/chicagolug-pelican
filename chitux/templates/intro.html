@@ -1,0 +1,46 @@
+<aside id="featured" class="body">
+    <article>
+    
+    <h1>GNU/Linux + Free/Libre & Open Source Software + Fun</h1>
+    <p>Welcome! The ChicagoLUG is a community of GNU/Linux and Free software
+    developers, enthusiasts and system administrators who live in and around
+    Chicago, Illinois. We encourage participation from people of
+    all age, gender, and ethnic groups, all sexual orientations, as well as all
+    knowledge levels. If you're curious about Linux and Free and open-source
+    software, consider joining us.</p> 
+    
+    <h2>Meeting Information</h2>
+    <p>The ChicagoLUG meets regularly, typically at a local technology cooperative or
+    coffee shop.
+
+    {% if articles %}
+        {% for article in articles_page.object_list %}
+                   
+        {# First item #}
+        {% if loop.first and not articles_page.has_previous() %}
+        {% if article.category == 'Meetings' %}
+        Our next meeting is scheduled for <em>{{ article.locale_date }}</em>:</br>
+        {% else %}
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+    {% endif %}
+    </p>
+    <div class="meeting">
+    {% if articles %}
+        {% for article in articles_page.object_list %}        
+
+        {# First item #}
+        {% if loop.first and not articles_page.has_previous() %}
+            {% if article.category == 'Meetings' %}
+            <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></br>
+            {{ article.summary }}
+        {% else %}
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+    {% endif %}
+    </div>
+    </article>
+</aside>
+

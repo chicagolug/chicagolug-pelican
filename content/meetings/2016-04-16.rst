@@ -1,0 +1,69 @@
+Surveillance Self-Defense 101: A teach-in for activists and lawyers
+=================================================================== 
+:date: 2016-04-16 11:00
+:tags: Privacy, Encryption, Surveillance Self-Defense
+:category: Meetings
+:slug: meetings/2016-04-16
+:summary: Join members of the ChicagoLUG and representatives from the Electronic Frontier Foundation for a 'Surveillance Self Defense' workshop. The event is geared toward non-technical users, with the particular aim of supporting activists and lawyers who support social movements. There is no cost to attend the event.   
+
+
+On Saturday, April 16th, members of the Chicago GNU/Linux User Group along with
+`Shahid Buttar`_ and `Noah Swartz`_ from the `Electronic Frontier Foundation`_
+will co-host a free workshop on surveillance self-defense.  The workshop will
+be open to the public, though particularly structured for activists and lawyers
+who support social movements.
+
+.. figure:: /images/2016-04-16-eff-tux.jpg
+   :alt: EFF Tux
+   :align: right
+
+
+You are not expected to be a technical expert to attend this session - it is
+geared towards regular smartphone and laptop users. We will be sharing
+knowledge of surveillance, some immediate and practical steps you can take to
+protect your communications, and how to work with neighbors to influence
+surveillance policy at the state and local level.
+
+To get the most out of the event, we recommend that you bring your phone and/or
+laptop.
+
+The event will take place at `SPACE`_, located at `444 N. Wabash Ave`_ in downtown
+Chicago. The session will start at 11:00am, and will last approximately four
+hours. We recommend that you take public transit to attend the event. SPACE is
+conveniently located near the Grand Avenue stop on the CTA Red Line, and is
+wheelchair accessible. Pizza and other refreshments will be served.
+
+There is no cost to attend, but we encourage (though not require) that you RSVP
+so that we may plan accordingly. And feel free share this event, too!
+Registrations are handled `via the EFF website`_. We look forward to seeing you
+on April 16th!
+
+Special Notes
+--------------
+  
+Legal professionals licensed to practice in Illinois will have an opportunity to receive Mandatory Continuing Legal Education (MCLE) credit for a $25 cost.
+
+We will have vegetarian food options available. If you prefer a vegan, gluten free, or other food option, please send an email to tux@chicagolug.org with
+your request.
+
+Detail Summary
+---------------
+
+| ChicagoLUG and Electronic Frontier Foundation Surveillance Self-Defense Workshop  
+| - Saturday, April 16th, 2016, from 11:00am - 3:00pm
+| - RSVP: https://www.eff.org/04-16-16-CHI
+|
+| Location: 
+| - SPACE - 444 N. Wabash Ave, Chicago, IL 60611
+| - OpenStreetMap Link:  http://www.openstreetmap.org/node/3575222994
+| - Google Maps Link: https://goo.gl/maps/VGtqEXpLGzr
+|
+| An alternate entry to the event is through the `After Words Bookstore`_ entrance on 23 East Illinois street.
+
+.. _`Shahid Buttar`: https://www.eff.org/about/staff/shahid-buttar
+.. _`Noah Swartz`: https://www.eff.org/about/staff/noah-swartz
+.. _`Electronic Frontier Foundation`: https://www.eff.org/
+.. _`444 N. Wabash Ave`: http://www.openstreetmap.org/node/3575222994 
+.. _`SPACE`: http://space.doejo.com/
+.. _`via the EFF website`:  https://www.eff.org/04-16-16-CHI
+.. _`After Words Bookstore`: http://after-wordschicago.com/

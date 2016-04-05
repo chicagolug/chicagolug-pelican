@@ -41,7 +41,6 @@ PLUGINS = ['html_rst_directive', 'better_figures_and_images', 'pin_to_top']
 # Blogroll
 LINKS =  (
     ('Discussion List', 'http://lists.chicagolug.org/cgi-bin/mailman/listinfo/discuss'),
-    ('Announcement List', 'http://lists.chicagolug.org/cgi-bin/mailman/listinfo/announce'),
     ('Identi.ca', 'https://identi.ca/chicagolug'),
     ('Twitter', 'https://twitter.com/chicagolug'),
     ('Meetup.com', 'http://www.meetup.com/Windy-City-Linux-Users-Group/'),

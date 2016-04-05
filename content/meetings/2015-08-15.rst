@@ -1,0 +1,68 @@
+August 2015 Meeting of the ChicagoLUG
+====================================== 
+:date: 2015-08-15 14:00
+:tags: Jorge Castro, Peter Baumgarten, Juju, AWS 
+:category: Meetings
+:slug: meetings/2015-08-15
+:summary: Learn about Juju from Canonical's server community lead, Jorge Castro, and learn about various components of Amazon Web Services from GNU/Linux admin, Peter Baumgarten.
+
+Our August meeting is set for Saturday, August 15th, starting at 2:00pm, and we'll
+be meeting at `Pumping Station: One`_. We'll be learning about Canonical's Juju
+project, and will get an intro to Amazon Web Services' S3, as well.
+
+Speaking Topics
+---------------
+
+Peter Baumgarten on Amazon S3
+*****************************
+
+Peter will provide a brief overview of using Amazon S3 as part of
+system administration duties. If you're new to AWS (and S3 in
+particular) this should be a good talk to check out.
+
+Jorge Castro on Juju
+********************
+Jorge Castro will follow-up Peter's talk with a detailed look at Juju,
+Canonical's server deployment and configuration tool. Jorge puts it this
+way:
+
+It's time to face the music: There's only a couple guys in Ops, and a
+lot of infrastructure to set up and it was all due yesterday. If only
+you could clone all the sysadmins of the world to get all of their
+expertise and know-how in deploying applications, you could actually
+get it done. This talk will cover how we're solving devops problems
+with Ubunu Cloud and Juju and how we're enabling reusability,
+repeatability, and reliability in cloud deployments. I'll be covering
+simple solutions (like a blog), to complex clumps of services
+(Hadoop), and show some of the work we've been doing to let people
+manage Kubernetes, libswarm, and all the seemingly endless container
+solutions out there.
+
+This talk will cover the following things: What we'll show you:
+
+- Real life running services in a cloud, no mockups or demos, we're
+  going to do this for real!
+- Take you through some devops workflows so you can test locally (and
+  cheaply) and iterate before spending money in production.
+
+If you want to follow along you can sign up to AWS, Azure, or GCE and
+install `Juju`_ prior to the meeting, the target audience is someone
+who:
+
+- Is familiar with Linux system administration and associated tools.
+- Has a working knowledge of public clouds and/or baremental
+
+Jorge will be demoin'g Juju on AWS, Azure, and Google Compute Engine.
+
+
+Foodstuffs
+------------
+
+We will have food! Probably pizza! At least a few of us typically bring some
+beverage to share, as well. We're a community-run organization, so we
+recommend bringing a few dollars if you'd like to partake of the food. No one
+will be denied a slice of tasty pizza for inability to chip-in, though.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
+.. _`Juju`: http://jujucharms.com
+.. _`Ansible`: http://ansible.com

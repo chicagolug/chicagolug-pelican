@@ -1,0 +1,298 @@
+/** Fifty shades of Tux
+ * A black, white and yellow css for kernel.org based on normalize.css
+ * MIT License
+ * Benoît Monin [benoit.monin gmx.fr]
+ */
+
+@import "normalize.css";
+@import "https://fonts.googleapis.com/css?family=Cantarell";
+@import "https://fonts.googleapis.com/css?family=Oswald:400";
+@import "https://fonts.googleapis.com/css?family=Inconsolata";
+
+body {
+    font-family: Cantarell,sans-serif;
+    background: #D9D9D9;
+    color: #33290A;
+}
+
+#banner {
+    text-align: center;
+    background: #FFFFFF;
+    margin: 0em auto 1em auto;
+    padding: 1em 1em 1.25em 1em;
+    /** width: 80%; **/
+    /* Make element full width */
+    border: thin solid;
+    border-color: #FFFFFF #EFEFEF #E8E5E5;
+    box-shadow: 0 0.1em 0.3em #C7C7C7;
+    border-bottom-right-radius: 0.5em;
+    border-bottom-left-radius: 0.5em;   
+}
+
+#tux-gear {
+    width: 7em;
+    height: 7.5em;
+    background-image: url('../images/logos/chicagolug-logo.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    float: right;
+}
+
+#banner h1 {
+    margin: 0 auto 0.45em auto;
+    text-shadow: 3px 3px 0 #F8F4EE;
+    font-size: 3em;
+}
+#banner h1 > a {
+    color: #2B3033;
+    transition: none;
+}
+#banner ul {
+    padding: 0 0 0 0;
+    margin: 0;
+    font-size: 1.25em;
+    font-weight: bold;
+    list-style: none;
+}
+#banner li {
+    display: inline;
+    padding: 0 1em;
+}
+#banner li > a {
+    color: #D95657;
+    white-space: nowrap;
+    font-size: 90%;
+}
+#banner li > a:hover,
+#banner li > a:active {
+        color: #CC0000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: oswald,helvetica,sans-serif;
+}
+
+a {
+    color: #D95657;
+    text-decoration: none;
+    transition: color 0.25s;
+}
+
+div.meeting {
+    margin-bottom: 20px;
+    border-left: medium dotted #A5A5A5;
+    padding-left: 1em;
+}
+
+div.meeting-details {
+    font-size: 105%;
+    border-left: medium dotted #A5A5A5;
+    margin: 0.75em 0 0 0;
+    padding: 0 0 0 1em;
+}
+
+div.news-details {
+    display: block;
+    text-align: right;
+    padding: 0 1em 0 0;
+    font-size: 90%;
+}
+
+a:visited {
+    color: #D95657;
+    text-decoration: none;
+}
+
+a:hover,
+a:active {
+    color: #D95657;
+    text-decoration: none;
+}
+
+abbr[title] {
+    border: none;
+}
+
+hr {
+    border: none;
+}
+
+.post-info p {
+    margin: 0.25em 0 0;
+}
+#featured .post-info {
+    margin-top: 1.25em;%
+}
+
+.literal-block {
+    background: #f3f3f3;
+    border: thin solid #ccc;
+    border-radius: 0.3em;
+    padding: 0.5em;
+    font-size: 90%;
+}
+
+#featured,
+#content {
+    background: #FFFFFF;
+    margin: 1.5em auto;
+    padding: 1em;
+    width: 80%;
+    border: thin solid;
+    border-color: #FFFFFF #EFEFEF #E8E5E5;
+    box-shadow: 0 0.1em 0.3em #C7C7C7;
+    border-radius: 0.5em;
+}
+
+article h1 {
+    color: #33290A;
+    margin: 0;
+}
+article h1 > a {
+    color: #33290A !important;
+    transition: none;
+}
+
+table.docutils {
+    margin: 0 auto;
+    width: 80%;
+}
+table.docutils > caption {
+    margin: 0.5em 0;
+    text-align: left;
+    font-weight: bold;
+}
+
+a.readmore {
+    font-style: italic;
+    color: #6A84E0;
+}
+a.readmore:hover,
+a.readmore:active {
+    color: #5C3366;
+}
+
+#content > h1 {
+    text-align: center;
+    margin: 0 0 1em;
+}
+
+.paginator {
+    text-align: center;
+    color: #9e9678;
+    margin: 0;
+}
+
+#posts-list {
+    list-style: none;
+    padding: 0;
+}
+#posts-list > li {
+    border-bottom: medium dotted #F0EDE3;
+    padding-bottom: 1em;
+    margin-top: 1em;
+}
+#posts-list > li:last-child {
+    border: none;
+}
+
+#extras {
+    margin: 0em auto;
+    padding: 0em auto 1em auto;
+    width: 82.5%;
+}
+#extras > div {
+    background: #FFFFFF;
+    border: thin solid;
+    border-color: #DBD9D9 #EFEFEF #E8E5E5;
+    box-shadow: 0 0.1em 0.3em #C7C7C7;
+    border-radius: 0.5em;
+    height: 8.5em;
+    font-size: 100%;
+}
+#extras > .blogroll {
+    float: left;
+    width: 55%;
+    padding: 0 1em;
+}
+#extras > .blogroll li {
+    width: 35%;
+    float: left;
+}
+#extras > .social {
+    float: right;
+    width: 35%;
+    padding: 0 1em;
+}
+#extras h2 {
+    margin: 0.5em 0;
+}
+#extras ul {
+    list-style: none;
+    padding: 0;
+}
+
+#contentinfo {
+    clear: both;
+    text-align: center;
+    color: #827A5E;
+    margin: 2em auto;
+    padding-top: 3.5em;
+    width: 65%;
+}
+#about {
+    font-size: 80%;
+}
+#donors {
+    margin-top: 1.5em;
+}
+#donors img {
+    vertical-align: middle;
+    margin: 0 0.5em;
+}
+dt {
+    font-weight: bold;
+}
+
+code,
+kbd,
+pre,
+samp {
+    font-family: Inconsolata, sans-serif;
+    background: #f3f3f3;
+    border: thin solid #ccc;
+    border-radius: 0.3em;
+    padding: 0.5em;
+}
+
+img.align-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p.center {
+    text-align: center;
+}
+
+ul.tagcloud {
+    list-style: none;
+    padding: 0;
+}
+
+ul.tagcloud li {
+    display: inline-block;
+}
+
+li.tag-0 {
+    font-size: 150%;
+}
+
+li.tag-1 {
+    font-size: 120%;
+}
+
+.u-full-width {
+  width: 100%;
+  box-sizing: border-box; }
+

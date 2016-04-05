@@ -1,0 +1,52 @@
+July 2015 Meeting of the ChicagoLUG
+=================================== 
+:date: 2015-07-18 14:00
+:tags: Sten Turpin, Ansible 
+:category: Meetings
+:slug: meetings/2015-07-18
+:summary: If you want to learn how to use Ansible for deployment and configuration management, our July meeting should be a good meeting for you. Sten Turpin will lead a talk on Ansible, and we'll gain some hands-on experience with Ansible by "ansible-izing" the ChicagoLUG infrastructure. This will include configuring Nginx, Prosody XMPP, our Pelican-based website, mailing list, and (possibly) other services.
+
+Our July meeting is set for Saturday, July 18th, starting at 2:00pm, and we'll
+be meeting at `Pumping Station: One`_. We'll be learning about Ansible, and
+will get some hands-on experience with it, too.
+
+Speaking Topics
+---------------
+ 
+Sten Turpin, Ansible
+********************
+`Sten Turpin`_ will demonstrate `Ansible`_, which is an agent-less
+deployment and configuration tool. Ansible is agent-less in the sense that it
+operates over regular SSH, and doesn't require additional remote daemons to
+work.
+
+His talk will show us how to use Ansible Playbooks to both deploy and configure
+services, and we'll have time to discuss various use cases and ask questions,
+as well. At the close of Sten's talk we should have a reasonable idea of what
+Ansible does and how to make it work well for us.
+
+
+ChicagoLUG, Time to Hack
+************************
+What good is this knowledge without experience in using it, though? To make the
+most of our newly-found knowledge we'll follow-up Sten's talk with some
+hands-on Ansible hacking. Our focus will be on "ansible-izing" our ChicagoLUG
+infrastructure, including our website, our GNU Mailman-based mailing list,
+Prosody XMPP server, Nginx web server, GNU MediaGoblin instance, and more. This
+will give us good, real-world experience with Ansible, and will also make our
+infrastruture easier to configure and maintain in the future.
+
+If you haven't used Ansible before, we encourage you to stay for this part
+of the meeting, even if you're new to the ChicagoLUG.
+
+Foodstuffs
+------------
+
+We will have food! Probably pizza! At least a few of us typically bring some
+beverage to share, as well. We're a community-run organization, so we
+recommend bringing a few dollars if you'd like to partake of the food. No one
+will be denied a slice of tasty pizza for inability to chip-in, though.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
+.. _`Sten Turpin`: http://www.sud0.com/
+.. _`Ansible`: http://ansible.com
