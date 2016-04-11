@@ -7,7 +7,7 @@ Surveillance Self-Defense 101: A teach-in for activists and lawyers
 :summary: Join members of the ChicagoLUG and representatives from the Electronic Frontier Foundation for a 'Surveillance Self Defense' workshop. The event is geared toward non-technical users, with the particular aim of supporting activists and lawyers who support social movements. There is no cost to attend the event.   
 
 .. |efftux| image:: /images/2016-04-16-eff-tux.jpg
-   :alt: EFF Tux
+   :alt: EFF Tux - Image attribution: Larry Ewing, Simon Budig, Anja Gerwinski, and the Electronic Frontier Foundation
    :class: image-float-right
 
 |efftux| On Saturday, April 16th, members of the Chicago GNU/Linux User Group along with
