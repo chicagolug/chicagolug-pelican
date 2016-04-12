@@ -290,3 +290,6 @@ li.tag-1 {
     font-size: 120%;
 }
 
+.image-float-right {
+    float: right;
+}
