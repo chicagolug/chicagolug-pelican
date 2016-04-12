@@ -11,7 +11,7 @@ Surveillance Self-Defense 101: A teach-in for activists and lawyers
    :class: image-float-right
 
 |efftux| On Saturday, April 16th, members of the Chicago GNU/Linux User Group along with
-`Shahid Buttar`_ and `Noah Swartz`_ from the `Electronic Frontier Foundation`_
+`Shahid Buttar`_ from the `Electronic Frontier Foundation`_
 will co-host a free workshop on surveillance self-defense.  The workshop will
 be open to the public, though particularly structured for activists and lawyers
 who support social movements.
@@ -59,7 +59,6 @@ Detail Summary
 | An alternate entry to the event is through the `After Words Bookstore`_ entrance on 23 East Illinois street.
 
 .. _`Shahid Buttar`: https://www.eff.org/about/staff/shahid-buttar
-.. _`Noah Swartz`: https://www.eff.org/about/staff/noah-swartz
 .. _`Electronic Frontier Foundation`: https://www.eff.org/
 .. _`444 N. Wabash Ave`: http://www.openstreetmap.org/node/3575222994 
 .. _`SPACE`: http://space.doejo.com/
