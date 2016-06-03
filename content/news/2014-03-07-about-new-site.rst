@@ -51,7 +51,7 @@ If you're using *Fedora* or a *Red Hat*-based distribution, use this command:
 
 .. code-block:: txt
 
-    $ sudo yum install git-core python-devel python-virtualenv python-virtualenvwrapper gcc
+    $ sudo yum install git-core python-devel python-virtualenv python-virtualenvwrapper gcc libjpeg-devel zlib-devel
 
 If you're using *Debian* or a *Debian*-based distribution (e.g., Ubuntu, Linux
 Mint, etc.), use this command:
