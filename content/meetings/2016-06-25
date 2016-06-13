@@ -1,0 +1,29 @@
+June 2016 Meeting - Talks on Qubes OS and Embedded Linux Systems
+================================================================= 
+:date: 2016-06-25 14:00
+:tags: Freddy Martinez, Drew Fustini, Qubes OS, Embedded Linux 
+:category: Meetings
+:slug: meetings/2016-06-25
+:summary: [[[ Insert summary here ]]]
+
+Qubes OS In Practice - Freddy Martinez
+***************************************
+
+
+
+What's New in Embedded Linux - Drew Fustini
+********************************************
+
+Though most of us have heard about the many new products available to us as
+part of the *Internet of Things*, the news for the technical community has
+largely focused on the risks associated with `insecure`_ and/or `unsupported`_
+devices. It's important that we know how IoT devices are being developed,
+and how they can be developed properly.
+
+Drew Fustini attended the `Open Internet of Things and Embedded Linux Conference`_
+(OpenIoT & ELC 2016) in San Diego in April, and will share news of the latest
+advancements and innovation in using Linux to develop embedded systems.
+
+.. _`insecure`: https://twitter.com/internetofshit/status/739895587282288640
+.. _`unsupported`: https://twitter.com/iansteadman/status/564574611460063233
+.. _`Open Internet of Things and Embedded Linux Conference`: http://events.linuxfoundation.org/events/openiot-summit
