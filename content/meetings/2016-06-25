@@ -4,26 +4,46 @@ June 2016 Meeting - Talks on Qubes OS and Embedded Linux Systems
 :tags: Freddy Martinez, Drew Fustini, Qubes OS, Embedded Linux 
 :category: Meetings
 :slug: meetings/2016-06-25
-:summary: [[[ Insert summary here ]]]
+:summary: In this meeting we will learn about about Qubes OS, a relativly new, security-focused GNU/Linux distribution. Freddy Martinez will discuss some of what makes it unique, as well as how it can be used in practice. Drew Fustini will also share some of what he learned during the recent Linux Foundation, "Open Internet of Things and Embedded Linux Conference," in San Diego.
 
-Qubes OS In Practice - Freddy Martinez
-***************************************
+Our June meeting is set for Saturday, June 25th, starting at 2:00pm, and we'll
+be meeting at `Pumping Station: One`_. We'll be learning about Qubes OS, and will
+learn some of what was covered at the recent *Open Internet of Things and Embedded
+Linux Conference*.
 
+Qubes OS in Practice - Freddy Martinez
+---------------------------------------
 
+`Qubes OS`_ is a GNU/Linux distribution with a unique take on security. Qubes
+provides *security through compartimentalization*, separating your computing
+actitivies into distinct, VM-managed computing environments.
+
+Freddy will take us through the features of Qubes, as well as provide some
+details for how it can be used in practice.
 
 What's New in Embedded Linux - Drew Fustini
-********************************************
+---------------------------------------------
 
 Though most of us have heard about the many new products available to us as
 part of the *Internet of Things*, the news for the technical community has
-largely focused on the risks associated with `insecure`_ and/or `unsupported`_
-devices. It's important that we know how IoT devices are being developed,
-and how they can be developed properly.
+largely focused on the risks associated with how these devices can frequently be
+`insecure`_ and/or arrive with `little support`_. It's important that we know
+how IoT devices are being developed, and how they can be developed properly.
 
-Drew Fustini attended the `Open Internet of Things and Embedded Linux Conference`_
+Drew Fustini is here to help. Drew attended the `Open Internet of Things and Embedded Linux Conference`_
 (OpenIoT & ELC 2016) in San Diego in April, and will share news of the latest
 advancements and innovation in using Linux to develop embedded systems.
 
+Foodstuffs
+------------
+
+We will have food! Probably pizza! At least a few of us typically bring some
+beverage to share, as well. We're a community-run organization, so we
+recommend bringing a few dollars if you'd like to partake of the food. No one
+will be denied a slice of tasty pizza for inability to chip-in, though.
+
+.. _`Pumping Station: One`: http://chicagolug.org/locations/psone.html
+.. _`Qubes OS`: https://www.qubes-os.org/tour/
 .. _`insecure`: https://twitter.com/internetofshit/status/739895587282288640
-.. _`unsupported`: https://twitter.com/iansteadman/status/564574611460063233
+.. _`little support`: https://twitter.com/iansteadman/status/564574611460063233
 .. _`Open Internet of Things and Embedded Linux Conference`: http://events.linuxfoundation.org/events/openiot-summit
