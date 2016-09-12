@@ -1,16 +1,17 @@
 June 2016 Meeting - Talks on Qubes OS and Embedded Linux Systems
 ================================================================= 
+
 :date: 2016-06-25 14:00
 :tags: Freddy Martinez, Drew Fustini, Qubes OS, Embedded Linux 
 :category: Meetings
 :slug: meetings/2016-06-25
-:summary: In this meeting we will learn about about Qubes OS, a relativly new, security-focused GNU/Linux distribution. Freddy Martinez will discuss some of what makes it unique, as well as how it can be used in practice. Drew Fustini will also share some of what he learned during the recent Linux Foundation, "Open Internet of Things and Embedded Linux Conference," in San Diego.
+:summary: In this meeting we will learn about about Qubes OS, a relativly new, security-focused GNU/Linux distribution. Freddy Martinez will discuss some of what makes it unique, as well as how it can be used in practice. Drew Fustini will also share some of what he learned during the recent Open Internet of Things and Embedded Linux Conference in San Diego.
 
 Our June meeting is set for Saturday, June 25th, starting at 2:00pm, and we'll
-be meeting at `Pumping Station: One`_.  We will learn about about Qubes OS, a relatively
+be meeting at `Pumping Station: One`_.  We will take time to learn about Qubes OS, a relatively
 new, security-focused GNU/Linux distribution. Freddy Martinez will discuss some of
-what makes it unique, as well as how it can be used in practice. Drew Fustini will also
-share some of what he learned during the recent Linux Foundation, "Open Internet of
+what makes it unique, as well as how it can be used in practice. Embedded Linux developer Drew
+Fustini will also share some of what he learned during the recent Linux Foundation, "Open Internet of
 Things and Embedded Linux Conference," in San Diego.
 
 
@@ -27,11 +28,10 @@ details for how it can be used in practice.
 What's New in Embedded Linux - Drew Fustini
 ---------------------------------------------
 
-Though most of us have heard about the many new products available to us as
-part of the *Internet of Things*, the news for the technical community has
-largely focused on the risks associated with how these devices can frequently be
-`insecure`_ and/or arrive with `little support`_. It's important that we know
-how IoT devices are being developed, and how they can be developed properly.
+Though most of us have heard about the many new *Internet of Things* products, the news
+for the technical community has largely focused on the risks associated with how
+these devices can be `insecure`_ and/or arrive with `little support`_. It's important
+that we know how IoT devices are being developed, and how they can be developed properly.
 
 Drew Fustini is here to help. Drew attended the `Open Internet of Things and Embedded Linux Conference`_
 (OpenIoT & ELC 2016) in San Diego in April, and will share news of the latest
