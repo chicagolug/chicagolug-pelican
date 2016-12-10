@@ -1,0 +1,56 @@
+October 2016 Meeting - FLOSS in Engineering + FLOSS in Physics + Securing our Computers
+=========================================================================================
+
+:date: 2016-10-22 14:00
+:tags: Bonnie King, Matthew Garrett, Rob Dux, FLOSS, Security, Engineering 
+:category: Meetings
+:slug: meetings/2016-10-22
+:summary: We have a great meeting lined-up for October, featuring an Telynx engineering lightning talk, a look at FLOSS-usage at Fermilab, and a discussion on securing computers from highly-skilled attackers.
+
+Our October meeting is set for Saturday, October 22nd, starting at 2:00pm, and
+we'll be meeting at `the Telnyx offices`_.  We will get a quick overview of
+FLOSS-technologies at Telnyx, and Bonnie King will show us how FLOSS supports
+high-energy physics research at Fermilab. Matthew Garrett will wrap things up
+with an extended talk on securing computers from highly skilled attackers. 
+
+Telynx Engineering - Rob Dux
+-----------------------------
+An overview of FLOSS-based engineering technologies in use at Telynx.
+
+
+Linux and Open Source at Fermilab - Bonnie King
+-------------------------------------------------
+High Energy Physics research has a legacy of using and contributing to Free
+and Open Source Software. As a sysadmin at Fermilab, Bonnie will talk about
+some current and upcoming experiments and the way Linux and FLOSS are put to
+work in Physics research.
+
+
+Securing Computers from Highly Skilled Attackers - Matthew Garrett
+--------------------------------------------------------------------
+
+The modern world keeps giving us demonstrations of governments finding new and
+exciting ways to spy on computers. It's unlikely that you'll be the target of
+any of this surveillance, but where governments start, criminals probably won't
+be too far behind. `Matthew Garrett`_ will talk about some of the more
+unsettling attacks seen in the past few years, but also discuss some of the
+things normal users can do to protect against them.
+
+RSVP
+-----
+
+RSVP's are not required, but are encouraged to help us with planning our food
+order for the event. You can RSVP on our `Meetup`_ page.
+
+
+Foodstuffs
+------------
+
+We will have food! Probably pizza! At least a few of us typically bring some
+beverage to share, as well. We're a community-run organization, so we
+recommend bringing a few dollars if you'd like to partake of the food. No one
+will be denied a slice of tasty pizza for inability to chip-in, though.
+
+.. _`the Telnyx offices`: https://goo.gl/maps/Vm5bwd4hpZU2
+.. _`Matthew Garrett`: https://mjg59.dreamwidth.org/
+.. _`Meetup`: https://www.meetup.com/wclug-org/events/234620847/
